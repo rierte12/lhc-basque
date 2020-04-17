@@ -19,83 +19,83 @@
     </message>
     <message>
       <source>Enable online site visitors tracking</source>
-      <translation>Habilitar el rastreo de visitantes conectados</translation>
+      <translation>Konektatutako ikusleen jarraipena</translation>
     </message>
     <message>
       <source>Should mouse movement be tracked as activity measure, if not checked only basic events would be tracked</source>
-      <translation>El movimiento del mouse debe ser restreado, de lo contrario solamente eventos básicos de rastrearán</translation>
+      <translation>Saguaren  mugimenduak aktibitate bezala jarraitu behar dira, bestela bakarrik elementu basikoak jarraituko dira.</translation>
     </message>
     <message>
       <source>Track is user still on site, chat status checks also has to be enabled</source>
-      <translation>Rastrear si el usuario aún se encuentra en el sitio, el estado del chat también debe estar activado</translation>
+      <translation>Jarraipen egin erabiltzailea orrian baldin badago, txataren egoera txekeoa aktibatuta egon behar du</translation>
     </message>
     <message>
       <source>Track online visitors even if there is no online operators</source>
-      <translation>Rastrear visitantes aunque no haya operadores en línea</translation>
+      <translation>Jarraipena egin ikusleei nahiz eta operadorerik online ez egon</translation>
     </message>
     <message>
       <source>Track users footprint. For this also online visitors tracking should be enabled</source>
-      <translation>Rastrear huellas de los usuarios. Rastreo de de visitantes deberá estar habilitado</translation>
+      <translation>Erabiltzaileen oinatzak jarritu. Ikusleen jarraipena aktibatuta egon behar luke</translation>
     </message>
     <message>
       <source>Set your domain to enable user tracking across different domain subdomains.</source>
-      <translation>Establezca su dominio para activar el rastreo de usuarios a través de diferentes subdominios.</translation>
+      <translation>Ezarri zure domeinua beste subdomeinuen artean erabiltzaileen jarraipena egiteko.</translation>
     </message>
     <message>
       <source>Track users activity on site?</source>
-      <translation>¿Seguimiento de actividad de los usuarios en el sitio?</translation>
+      <translation>Erabiltzaileen aktibitatea jarraitu webgunean?</translation>
     </message>
     <message>
       <source>How many days keep records of online users.</source>
-      <translation>Cuantos días deberán mantenerse los datos de los visitantes.</translation>
+      <translation>Zenbat egun gorde behar dira erabiltzaileen jarraipen informazioa.</translation>
     </message>
     <message>
       <source>How many days keep records of users footprint.</source>
-      <translation>Cuantos días conservar registros de huellas de usuarios</translation>
+      <translation>Zenbat egun gorde behar dira erabiltzaileen oinatza datuak</translation>
     </message>
     <message>
       <source>Suggest user to leave a message then user chooses offline department</source>
-      <translation>Sugerir al usuario dejar un mensaje, luego el usuario escoge un departamento que se encuentre fuera de línea.</translation>
+      <translation>Iradokitu erabiltzaileari mezu bat uzteko, gero lineaz kanpo dagoen departamentua aukeratu.</translation>
     </message>
     <message>
       <source>Play sound on invitation to chat.</source>
-      <translation>Reproducir sonido al invitar al chat.</translation>
+      <translation>Erreproduzitu soinua txat baten gonbidapenean.</translation>
     </message>
     <message>
       <source>Show users option to switch language at widget</source>
-      <translation>Mostrar opción para cambiar de lenguaje en la ventana de chat</translation>
+      <translation>Txataren widgetean hizkuntza aldatzeko aukera eman erabiltzaileei</translation>
     </message>
     <message>
       <source>Between what languages user should be able to switch</source>
-      <translation>Entre cuáles lenguajes el usuario puede cambiar</translation>
+      <translation>Ze hizkuntzen artean alda dezake erabiltzaileak.</translation>
     </message>
     <message>
       <source>Host where NodeJs is running</source>
-      <translation>Host donde NODEJS se esta ejecutando</translation>
+      <translation>NODEJS exekutatzen ari den hosta</translation>
     </message>
     <message>
       <source>Location of SocketIO JS library</source>
-      <translation>Ubicación de la librería SocketIO JS</translation>
+      <translation>SocketIO JS liburutegiaren kokapena</translation>
     </message>
     <message>
       <source>Connect to NodeJs in https mode</source>
-      <translation>Conectar a NodeJS en modo https</translation>
+      <translation>Konektatu NodeJs-ra https moduan</translation>
     </message>
     <message>
       <source>socket.io path, optional</source>
-      <translation>ruta hacia socket.io, opcional</translation>
+      <translation>socket.io-rako ruta, aukeran</translation>
     </message>
     <message>
       <source>NodeJS support enabled</source>
-      <translation>Soporte para NodeJS activado</translation>
+      <translation>NodeJS-rako soportea aktibatuta</translation>
     </message>
     <message>
       <source>Do not ask permission for users to see their screen</source>
-      <translation>No pedir permiso a los usuarios para ver su pantalla</translation>
+      <translation>Erabiltzailearen pantaila ikusteko baimena</translation>
     </message>
     <message>
       <source>Use session captcha. LHC have to be installed on the same domain or subdomain.</source>
-      <translation>Usar captcha de sesión. LHC deberá estar instalado en el mismo dominio o subdominio.</translation>
+      <translation>Erabili sesiorako captcha. LHC domenu edo subdomeinu berdinean instalatuta egon behar da.</translation>
     </message>
     <message>
       <source>Should cronjob run unanswered chats workflow and execute unaswered chats callback, 0 - no, any other number bigger than 0 is a minits how long chat have to be not accepted before executing callback.</source>
@@ -103,43 +103,43 @@
     </message>
     <message>
       <source>Should cronjob run departments transfer workflow, even if user leaves a chat</source>
-      <translation>Debe el cronjob ejecutar el flujo de trabajo de transferencia en los departamentos, incluso si el usuario deja el chat</translation>
+      <translation>Cron-ek abiatu behar du departamentuen transferentzia nahiz eta erabiltzailea txata utzi.</translation>
     </message>
     <message>
       <source>Make default pending chats order from old to new</source>
-      <translation>Ordenar los chats pendientes de viejos a recientes</translation>
+      <translation>Ordenatu pendieteko txata zaharrenetarik berrietara</translation>
     </message>
     <message>
       <source>Reopen chat functionality enabled</source>
-      <translation>Funcionalidad para reabrir un chat habilitada</translation>
+      <translation>Txat bat beriekitzeko funtzionalitatea</translation>
     </message>
     <message>
       <source>Reopen closed chat as new? Otherwise it will be reopened as active.</source>
-      <translation>¿Reabrir el chat cerrado como nuevo? De otra forma será reabierto como activo.</translation>
+      <translation>Berireki itxitako txata berri bat bezala? Bestela aktibo bezala irekiko da.</translation>
     </message>
     <message>
       <source>Should invitation logic be executed if there is no online operators</source>
-      <translation>Debe ejecutarse la lógica de invitaciones si no hay operadores en línea.</translation>
+      <translation>Exekutatu behar da txaten gonbidapena operadorerik online ez badaude.</translation>
     </message>
     <message>
       <source>Pro active chats invitations limitation based on pending chats, (-1) do not limit, (0,1,n+1) number of pending chats can be for invitation to be shown.</source>
-      <translation>Limitación de invitaciones de chat pro-activo basada en chat pendientes, (-1) no limitar, (0,1,n+1) número de chats pendientes para que pueda mostrarse la invitación.</translation>
+      <translation>Limitatu txaten gonbidapena txat pendienteen funtzian, (-1) ez limitatu, (0,1,n+1) pendiente dauden txaten zenbakia gonbidapena ikustarazteko.</translation>
     </message>
     <message>
       <source>Is pro active chat invitation active. Online users tracking also has to be enabled</source>
-      <translation>Se encuentra activa la invitación de chat pro-activa. El rastreo de visitantes también debe estar activo.</translation>
+      <translation>Txat gonbidapena aktibatuta. Online dauden erabiltzaileen jarraipena aktibatuta egon behar da.</translation>
     </message>
     <message>
       <source>Preload iframes. It will avoid loading delay after clicking widget</source>
-      <translation type="unfinished"/>
+      <translation>Prekargatu iframeak. Hau widgeta klickatzeko ondorengo delay-a ebitatzen du</translation>
     </message>
     <message>
       <source>How many seconds customer has to open already closed chat.</source>
-      <translation>Cuantos segundos, los clientes, deben abrir un chat ya cerrado</translation>
+      <translation>Zenbat segunduz, bezeroak, ireki behar dute itxitako txatak</translation>
     </message>
     <message>
       <source>On chat close exit chat</source>
-      <translation>Cerrar el chat y salir</translation>
+      <translation>Itxi txata eta atera</translation>
     </message>
     <message>
       <source/>
@@ -151,79 +151,79 @@
     </message>
     <message>
       <source>Cookie should be valid only for domain where Javascript is embedded</source>
-      <translation>La cookie es válida solo para el dominio donde el javascript está incrustado</translation>
+      <translation>Javascripta txertatuta dagoen domeinuan bakarrik izango da Cookia</translation>
     </message>
     <message>
       <source>Need help tooltip timeout, after how many hours show again tooltip?</source>
-      <translation>Límite de tiempo del mensaje de necesita ayuda, ¿después de cuantas horas deberá mostrarse de nuevo?</translation>
+      <translation>Laguntza mezuaren denbora, zenbat ordu ondoren erakutsi behar da berriro?</translation>
     </message>
     <message>
       <source>Show need help tooltip?</source>
-      <translation>¿Mostrar el mensaje de necesita ayuda?</translation>
+      <translation>Laguntza bahar mezua erakutsi?</translation>
     </message>
     <message>
       <source>Minimum phone number length</source>
-      <translation>Cantidad mínima de dígitos del número de teléfono</translation>
+      <translation>Telefono zenbakiaren gutxieneko karaktereak</translation>
     </message>
     <message>
       <source>Messages box height for operator</source>
-      <translation>Altura de la caja de mensajes para el operador</translation>
+      <translation>Operadorearen txata kaxaren altuera</translation>
     </message>
     <message>
       <source>Messages box height</source>
-      <translation>Altura de la caja de mensajes</translation>
+      <translation>Mezuaen kaxaren zabalera</translation>
     </message>
     <message>
       <source>Proactive message timeout in hours. After how many hours proactive chat mesasge should be shown again.</source>
-      <translation>Límite de tiempo en horas del mensaje pro-activo. Después de cuantas horas el mensaje de chat proactivo deberá mostrarse nuevamente.</translation>
+      <translation>Gonbidapena mezuaren durazioa horduetan. Zenbat hordu ondoren erakutsi behar da gonbidapen mezua.</translation>
     </message>
     <message>
       <source>Maximum message length in characters</source>
-      <translation>Tamaño máximo de carácteres del mensaje</translation>
+      <translation>Mezuaren karaktere maximoa</translation>
     </message>
     <message>
       <source>List unread chats, disabled for high performance</source>
-      <translation>Lista de chats sin leer, desactivado para un mejor rendimiento</translation>
+      <translation>Irakurri gabeko txatak, desaktibatu errendimendu hobe baterako</translation>
     </message>
     <message>
       <source>List online operators, 0 - no, 1 - yes.</source>
-      <translation>Lista de operadores en línea, 0 - no,  1 - sí.</translation>
+      <translation>Linean dauden operadoreen lista, 0 - ez,  1 - bai.</translation>
     </message>
     <message>
       <source>List closed chats, disabled for high performance</source>
-      <translation>Lista de chats cerrados, desactivado para un mejor rendimiento</translation>
+      <translation>Itxitako txaten lista, desaktibatu errendimendi hobe baterako</translation>
     </message>
     <message>
       <source>Default number of online operators to show</source>
-      <translation>Número predeterminado de operadores en línea a mostrar</translation>
+      <translation>Predifinitutako online operadoreak erakusteko</translation>
     </message>
     <message>
       <source>Inform visitor about unread messages from operator, value in minutes. 0 - disabled</source>
-      <translation>Advertir al visitante sobre mensajes sin leer del operador de chat, valor en minutos. 0 significa deshablitado</translation>
+      <translation>Operadoreen irakurrigabeko mezueeiburuz informatu, balioak minututan. 0 - desaktibatuta</translation>
     </message>
     <message>
       <source>Ignore users online statuses and use departments online hours</source>
-      <translation>Ignorar el estado en línea de los usuario y utilizar los horarios de los departamentos</translation>
+      <translation>Inoratu erabiltzailearen estatusa eta erabili departamentuen online ordutegia</translation>
     </message>
     <message>
       <source>Which ip should be ignored in online users list, separate by comma</source>
-      <translation>Cuál ip debe ignorarse en la lista de usuarios en línea, separar por comas</translation>
+      <translation>Zein IPak ignoratuak izan bear dira online erabiltzaileen artean, separatu komen bitartez</translation>
     </message>
     <message>
       <source>Hide right column in frontpage</source>
-      <translation>Esconde la columna derecha en la página inicial</translation>
+      <translation>Ezkutatu eskuineko zutabea horri hasieran</translation>
     </message>
     <message>
       <source>Hide disabled department widget</source>
-      <translation>Ocultar el widget de departamentos deshabilitados</translation>
+      <translation>Ezkutatu desaktibatutako departamentuak widgetean</translation>
     </message>
     <message>
       <source>Hide close button in dropdown</source>
-      <translation>Ocultar el botón de cerrar en el menú desplegable</translation>
+      <translation>Izkutatu ixteko botoia listatik</translation>
     </message>
     <message>
       <source>Home page tabs order</source>
-      <translation>Orden de las pestañas en la página de inicio</translation>
+      <translation>Hasierako orrien taulen ordena</translation>
     </message>
     <message>
       <source>Footprint updates should be processed in the background. Make sure you are running workflow background cronjob.</source>
@@ -3335,7 +3335,7 @@
       <translation>Ocultar estado si está fuera de línea</translation>
     </message>
     <message>
-      <source>Show a ‘leave a message form’ when there are no online operators</source>
+      <source>Show a ‘leave a message form’ when operators</source>
       <translation>Muestre un formulario de &apos;&apos;dejar un mensaje&apos;&apos; para cuando no haya operadores en línea</translation>
     </message>
     <message>
@@ -3376,19 +3376,19 @@
     </message>
     <message>
       <source>Try to detect language automatically</source>
-      <translation>Tratar de detectar el idioma automáticamente</translation>
+      <translation>Saiatu auto-detektatzen hizkuntza</translation>
     </message>
     <message>
       <source>Survey at the end of chat</source>
-      <translation>Encuesta al acabar el chat</translation>
+      <translation>Txataren bukarako inkesta</translation>
     </message>
     <message>
       <source>Product</source>
-      <translation>Producto</translation>
+      <translation>Produktua</translation>
     </message>
     <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
-      <translation>Minimizar, aplica solo si el Widget esta en pie de pagina</translation>
+      <translation>Txikitu, aplikatu widgeta orriaren hondoan dagoenean</translation>
     </message>
     <message>
       <source>Keep where it was</source>
@@ -3406,13 +3406,13 @@
       <source>Invisible, only JS API will be included</source>
       <translation>Invisible, solo la API JS será incluida</translation>
     </message>
-    <message>
+    <message>f
       <source>Full height right</source>
-      <translation>Altura derecha completa</translation>
+      <translation>Eskuineko altuera osoa</translation>
     </message>
     <message>
       <source>Full height left</source>
-      <translation>Altura izquierda completa</translation>
+      <translation>Ezkerreko altuera osoa</translation>
     </message>
     <message>
       <source>Popup window width</source>
@@ -3432,11 +3432,11 @@
     </message>
     <message>
       <source>Widget width in pixels</source>
-      <translation>Ancho del Widget en píxeles</translation>
+      <translation>Widgetaren zabalera pixeletan</translation>
     </message>
     <message>
       <source>Widget height in pixels</source>
-      <translation>Altura del Widget en píxeles</translation>
+      <translation>Widgetaren atuera pixeletan</translation>
     </message>
     <message>
       <source>Position from the top, only used if the middle left or the middle right side is chosen</source>
@@ -3444,23 +3444,23 @@
     </message>
     <message>
       <source>Percentage</source>
-      <translation>Porcentaje</translation>
+      <translation>Ehunekoa</translation>
     </message>
     <message>
       <source>Identifier – enter a unique identifier here. This is useful for separating messages and proactive chat invitations from different domains/web pages. Enter a string without special characters or spaces such as “homepage” or “website1”.</source>
-      <translation>Identificador: ingrese un identificador único aquí. Esto es útil para separar mensajes e invitaciones proactivas de chat de diferentes dominios / páginas web. Ingrese una cadena sin caracteres especiales o espacios como &quot;página de inicio&quot; o &quot;sitio web1&quot;.</translation>
+      <translation>Identifikatzailea: sartu identifikatzaile bakerra hemen. Hau web orri eta web ezberdinen artean identifikatzeko balio du. Karaktere eta espazio gabeko katea sartu. Adibidez: &quot;hasierako orria&quot; edo &quot;web orri1&quot;.</translation>
     </message>
     <message>
       <source>no survey</source>
-      <translation>No hay encuestas</translation>
+      <translation>Ez daude inkestarik</translation>
     </message>
     <message>
       <source>Please do not enter protocol, only domain name is required</source>
-      <translation>Por favor no incluya el protocolo, solo es necesario el nombre de dominio</translation>
+      <translation>Ez saru protokolorik, idatzi bakarrik domeinua</translation>
     </message>
     <message>
       <source>Place this tag where you want the Live Helper Status to render.</source>
-      <translation>Coloque esta etiqueta donde desee que se muestre el estado del Chat.</translation>
+      <translation>Sartu etiketa hau txata jarri nahi duzun tokian.</translation>
     </message>
     <message>
       <source>Place this tag after the Live Helper status tag.</source>
@@ -3511,7 +3511,7 @@
     <name>questionary/htmlcode</name>
     <message>
       <source>Show overlay</source>
-      <translation>Mostrar transparencia</translation>
+      <translation>Erakutsi transparentzia</translation>
     </message>
     <message>
       <source>Show different offers for the same user</source>
