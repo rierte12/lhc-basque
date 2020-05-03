@@ -1,9 +1,9 @@
 # lhc-basque
 
-<h1 style="color: rgb(124, 255, 13);">Instalazioa</h1>
-Instalatzeko jarraitu ondorengo Pausoak
+<h1>Instalazioa</h1>
+Instalatzeko jarraitu ondorengo pausoak
 
-<button href="https://github.com/rierte12/lhc-basque/wiki/Instalazioa">Nola instalatu</button>
+<a href="https://github.com/rierte12/lhc-basque/wiki/Instalazioa">Nola instalatu</a>
 
 <h1>Ez naiz itzultzaile profesionala</h1>
 Seguruenik akats ortografiko eta gramatikalak aurkituko dituzue. Mesedez, proiektua laguntzeko, Issue berri bat ireki eta segidan aldatuko dut. 
