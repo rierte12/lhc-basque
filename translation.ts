@@ -1,141 +1,157 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="eu" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="es" version="2.0">
   <context>
     <name>listchatconfig</name>
     <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source/>
+      <translation type="unfinished"/>
+    </message>
+    <message>
       <source>How many days voting widget should not be expanded after last show</source>
-      <translation>Zenbat egun ondoren ez da botazio widgeta erakutsiko azkeneko aldia ondoren</translation>
+      <translation>Zenbat eginez ez da botatzeko widgeta expandituatko azken ikstaldia ondoren</translation>
     </message>
     <message>
       <source>Use secure cookie, check this if you want to force SSL all the time</source>
-      <translation>Erabili cookie seguruak, seleccione esto si desea forzar el uso permanente de SSL</translation>
+      <translation>Erabili cookie seguruak, aukeratu hau SSL-rantz erredirekzionatu nahi baduzu</translation>
     </message>
     <message>
       <source>Which ip should be allowed to update DB by executing http request, separate by comma?</source>
-      <translation>Zein IPari eman behar zaio baimena http request-en bidez DB egineratzeko? Separatu komen bidez</translation>
+      <translation>Ze IPa baimenduta daude DB http eskaeraren bidez exekutatzekko? Separatu komen bidez</translation>
     </message>
     <message>
       <source>How long keep operators online sessions data? (days)</source>
-      <translation>Zenbat egunez gorde behar dute operadoreen sesioen datuak? (egunetan)</translation>
+      <translation>Zenbat gorde behar dira operadoreen sesion data? (egunetan)</translation>
     </message>
     <message>
       <source>Enable online site visitors tracking</source>
-      <translation>Konektatutako ikusleen jarraipena</translation>
+      <translation>Konektaturiko bisitoreen jarraipena aktibatu</translation>
     </message>
     <message>
       <source>Should mouse movement be tracked as activity measure, if not checked only basic events would be tracked</source>
-      <translation>Saguaren  mugimenduak aktibitate bezala jarraitu behar dira, bestela bakarrik elementu basikoak jarraituko dira.</translation>
+      <translation>Saguaren jarraipena egin behar zaio?, bestela ebentu basikoak jarraituko dira bakarrik</translation>
     </message>
     <message>
       <source>Track is user still on site, chat status checks also has to be enabled</source>
-      <translation>Jarraipen egin erabiltzailea orrian baldin badago, txataren egoera txekeoa aktibatuta egon behar du</translation>
+      <translation>Egin erabiltzailearen jarraipena webgunean dagoen jakiteko, txataren egoera aktibatuta egon behar da</translation>
     </message>
     <message>
       <source>Track online visitors even if there is no online operators</source>
-      <translation>Jarraipena egin ikusleei nahiz eta operadorerik online ez egon</translation>
+      <translation>Egin bisitarien jarraipena nahiz eta operadorerik online ez egon</translation>
     </message>
     <message>
       <source>Track users footprint. For this also online visitors tracking should be enabled</source>
-      <translation>Erabiltzaileen oinatzak jarritu. Ikusleen jarraipena aktibatuta egon behar luke</translation>
+      <translation>Jarratitu erabiltzaileen aztarna. Bisitarien jarraipena aktibatuta egon behar da</translation>
     </message>
     <message>
       <source>Set your domain to enable user tracking across different domain subdomains.</source>
-      <translation>Ezarri zure domeinua beste subdomeinuen artean erabiltzaileen jarraipena egiteko.</translation>
+      <translation>Idatzi zure domeninua erabiltzaiearen jarraipena subdomeinu ezberdinetan egiteko.</translation>
     </message>
     <message>
       <source>Track users activity on site?</source>
-      <translation>Erabiltzaileen aktibitatea jarraitu webgunean?</translation>
+      <translation>Egin erabiltzaileen jarraipena webgunean?</translation>
     </message>
     <message>
       <source>How many days keep records of online users.</source>
-      <translation>Zenbat egun gorde behar dira erabiltzaileen jarraipen informazioa.</translation>
+      <translation>Zenbat egunez mantendu behar dira online erabiltzaileen erregistroak.</translation>
     </message>
     <message>
       <source>How many days keep records of users footprint.</source>
-      <translation>Zenbat egun gorde behar dira erabiltzaileen oinatza datuak</translation>
+      <translation>Zenbat egon kontserbatu behar dira erabiltzaileen aztarnak.</translation>
     </message>
     <message>
       <source>Suggest user to leave a message then user chooses offline department</source>
-      <translation>Iradokitu erabiltzaileari mezu bat uzteko, gero lineaz kanpo dagoen departamentua aukeratu.</translation>
+      <translation>Esan erabiltzaileari mezu bat uzetako offline dagoen departamentu bat aukeratu ondoren.</translation>
     </message>
     <message>
       <source>Play sound on invitation to chat.</source>
-      <translation>Erreproduzitu soinua txat baten gonbidapenean.</translation>
+      <translation>Erreproduzitu txat gonbidapeneko soinua.</translation>
     </message>
     <message>
       <source>Show users option to switch language at widget</source>
-      <translation>Txataren widgetean hizkuntza aldatzeko aukera eman erabiltzaileei</translation>
+      <translation>Erakutsi erabiltzaileari widgetaren hizkuntza aldatzeko aukera</translation>
     </message>
     <message>
       <source>Between what languages user should be able to switch</source>
-      <translation>Ze hizkuntzen artean alda dezake erabiltzaileak.</translation>
+      <translation>Zein hizkuntzen artean aldatu dezake erabiltzaileak</translation>
     </message>
     <message>
       <source>Host where NodeJs is running</source>
-      <translation>NODEJS exekutatzen ari den hosta</translation>
+      <translation>NodeJs exekutatzen ari den hosta</translation>
     </message>
     <message>
       <source>Location of SocketIO JS library</source>
-      <translation>SocketIO JS liburutegiaren kokapena</translation>
+      <translation>Socket JS liburutegiaren kokapena</translation>
     </message>
     <message>
       <source>Connect to NodeJs in https mode</source>
-      <translation>Konektatu NodeJs-ra https moduan</translation>
+      <translation>Konektatu NodeJS-ra https moduan</translation>
     </message>
     <message>
       <source>socket.io path, optional</source>
-      <translation>socket.io-rako ruta, aukeran</translation>
+      <translation>socket.io-rako bidea, aukerazkoa</translation>
     </message>
     <message>
       <source>NodeJS support enabled</source>
-      <translation>NodeJS-rako soportea aktibatuta</translation>
+      <translation>NodeJs aktibatuta</translation>
     </message>
     <message>
       <source>Do not ask permission for users to see their screen</source>
-      <translation>Erabiltzailearen pantaila ikusteko baimena</translation>
+      <translation>Ez galdetu erabilztaileei haien pantailak ikusteko</translation>
     </message>
     <message>
       <source>Use session captcha. LHC have to be installed on the same domain or subdomain.</source>
-      <translation>Erabili sesiorako captcha. LHC domenu edo subdomeinu berdinean instalatuta egon behar da.</translation>
+      <translation>Erabili captcha sesioa. LHC domeinu edo subdomeinu berdinean instalatuta egon behar da.</translation>
     </message>
     <message>
       <source>Should cronjob run unanswered chats workflow and execute unaswered chats callback, 0 - no, any other number bigger than 0 is a minits how long chat have to be not accepted before executing callback.</source>
-      <translation>Debe el cronjob ejecutar el flujo de trabajo para los chats no contestados y ejecutar el callback, cualquier número mayor que 0 es en minutos cuanto tiempo el chat deberá haberse encontrado sin aceptar para ejecutar la llamada.</translation>
+      <translation>Erantzun gabeko txaten cllback lana exekutatu beharko luke cronjoba?, 0 baino zenbaki haundiagoa zenbat minutu itxoin behar da txata baimendu gabe callbacka exekutatu arte.</translation>
     </message>
     <message>
       <source>Should cronjob run departments transfer workflow, even if user leaves a chat</source>
-      <translation>Cron-ek abiatu behar du departamentuen transferentzia nahiz eta erabiltzailea txata utzi.</translation>
+      <translation>Departamentuen transferentzia lanak exekutatu beharko luke conjoba, nahiz eta erabiltzailea txata uzten badu?</translation>
     </message>
     <message>
       <source>Make default pending chats order from old to new</source>
-      <translation>Ordenatu pendieteko txata zaharrenetarik berrietara</translation>
+      <translation>Oredenatu pendienteko txatak zharretatik berrietara</translation>
     </message>
     <message>
       <source>Reopen chat functionality enabled</source>
-      <translation>Txat bat beriekitzeko funtzionalitatea</translation>
+      <translation>Txat bat berirekitzeko funtzionalitatea aktibatuta</translation>
     </message>
     <message>
       <source>Reopen closed chat as new? Otherwise it will be reopened as active.</source>
-      <translation>Berireki itxitako txata berri bat bezala? Bestela aktibo bezala irekiko da.</translation>
+      <translation>Berireki itxitako txata berri bat beza? Bestela aktibo bezala berirekiko da.</translation>
     </message>
     <message>
       <source>Should invitation logic be executed if there is no online operators</source>
-      <translation>Exekutatu behar da txaten gonbidapena operadorerik online ez badaude.</translation>
+      <translation>Exekutatu behar dira logikaren bidezko gonbidapeak nahiz eta operadorerik online ez egon.</translation>
     </message>
     <message>
       <source>Pro active chats invitations limitation based on pending chats, (-1) do not limit, (0,1,n+1) number of pending chats can be for invitation to be shown.</source>
-      <translation>Limitatu txaten gonbidapena txat pendienteen funtzian, (-1) ez limitatu, (0,1,n+1) pendiente dauden txaten zenbakia gonbidapena ikustarazteko.</translation>
+      <translation>Pendiente duaden txaten bidezko Pro active gonbidapen limitazioa, (-1) ez limitatu, (0,1,n+1) pendienteko txaten kantitatea gonbidapena erakusteko.</translation>
     </message>
     <message>
       <source>Is pro active chat invitation active. Online users tracking also has to be enabled</source>
-      <translation>Txat gonbidapena aktibatuta. Online dauden erabiltzaileen jarraipena aktibatuta egon behar da.</translation>
+      <translation>Pro acitibo gonbidapena aktibatuta dao. Bisitarien jarraipena aktibatuta egon behar da.</translation>
     </message>
     <message>
       <source>Preload iframes. It will avoid loading delay after clicking widget</source>
-      <translation>Prekargatu iframeak. Hau widgeta klickatzeko ondorengo delay-a ebitatzen du</translation>
+      <translation>Prekargatu iframeak. Hau widgeta klikatu ondorengo karga sahietsiko du</translation>
     </message>
     <message>
       <source>How many seconds customer has to open already closed chat.</source>
-      <translation>Zenbat segunduz, bezeroak, ireki behar dute itxitako txatak</translation>
+      <translation>Zenbat segunduz, bezeroek, ireki behar dute itxitako txat bat</translation>
     </message>
     <message>
       <source>On chat close exit chat</source>
@@ -151,79 +167,79 @@
     </message>
     <message>
       <source>Cookie should be valid only for domain where Javascript is embedded</source>
-      <translation>Javascripta txertatuta dagoen domeinuan bakarrik izango da Cookia</translation>
+      <translation>Cookiea Javascrip insertatuta dagoen domeinuan bakarrik izango da balidoa</translation>
     </message>
     <message>
       <source>Need help tooltip timeout, after how many hours show again tooltip?</source>
-      <translation>Laguntza mezuaren denbora, zenbat ordu ondoren erakutsi behar da berriro?</translation>
+      <translation>Laguntza mezua, zenbat ordu ondeoren erakutsi behar da berriro?</translation>
     </message>
     <message>
       <source>Show need help tooltip?</source>
-      <translation>Laguntza bahar mezua erakutsi?</translation>
+      <translation>Laguntza behar mezua erakutsi?</translation>
     </message>
     <message>
       <source>Minimum phone number length</source>
-      <translation>Telefono zenbakiaren gutxieneko karaktereak</translation>
+      <translation>Telefono zenbakiaren gutxieneko tamaina</translation>
     </message>
     <message>
       <source>Messages box height for operator</source>
-      <translation>Operadorearen txata kaxaren altuera</translation>
+      <translation>Operadorearen mezu kaxaten altuera</translation>
     </message>
     <message>
       <source>Messages box height</source>
-      <translation>Mezuaen kaxaren zabalera</translation>
+      <translation>Mezuen katxaren altuera</translation>
     </message>
     <message>
       <source>Proactive message timeout in hours. After how many hours proactive chat mesasge should be shown again.</source>
-      <translation>Gonbidapena mezuaren durazioa horduetan. Zenbat hordu ondoren erakutsi behar da gonbidapen mezua.</translation>
+      <translation>Proactibo mezuen denbora hordutan. Zenbatt orud ondoren mezua agertuko da berriro.</translation>
     </message>
     <message>
       <source>Maximum message length in characters</source>
-      <translation>Mezuaren karaktere maximoa</translation>
+      <translation>Mezuaren gehienezko luzeera karaktereetan</translation>
     </message>
     <message>
       <source>List unread chats, disabled for high performance</source>
-      <translation>Irakurri gabeko txatak, desaktibatu errendimendu hobe baterako</translation>
+      <translation>Irakurri gabeko txatak, desaktibatuta errendimendu hoberako</translation>
     </message>
     <message>
       <source>List online operators, 0 - no, 1 - yes.</source>
-      <translation>Linean dauden operadoreen lista, 0 - ez,  1 - bai.</translation>
+      <translation>Online dauden operadoreen zerrenda, 0 - ez,  1 - bai.</translation>
     </message>
     <message>
       <source>List closed chats, disabled for high performance</source>
-      <translation>Itxitako txaten lista, desaktibatu errendimendi hobe baterako</translation>
+      <translation>Itxitako txatak, desaktibatuta errendimendu hoberako</translation>
     </message>
     <message>
       <source>Default number of online operators to show</source>
-      <translation>Predifinitutako online operadoreak erakusteko</translation>
+      <translation>Online dauden operadoreen aurrezarritako zenbakia</translation>
     </message>
     <message>
       <source>Inform visitor about unread messages from operator, value in minutes. 0 - disabled</source>
-      <translation>Operadoreen irakurrigabeko mezueeiburuz informatu, balioak minututan. 0 - desaktibatuta</translation>
+      <translation>Abisatu bisitariari operadoreen irakurrigabeko mezua, minutueta. 0 desaktibatuta ezan nahi du</translation>
     </message>
     <message>
       <source>Ignore users online statuses and use departments online hours</source>
-      <translation>Inoratu erabiltzailearen estatusa eta erabili departamentuen online ordutegia</translation>
+      <translation>Ignoratu erabiltzaileen onlineko egoera eta erabili departamentuen onlune ordutegia</translation>
     </message>
     <message>
       <source>Which ip should be ignored in online users list, separate by comma</source>
-      <translation>Zein IPak ignoratuak izan bear dira online erabiltzaileen artean, separatu komen bitartez</translation>
+      <translation>Zein IPak ignoratubehar dira online daudne erabiltzaileen zerrendetan, banatu komen bidez</translation>
     </message>
     <message>
       <source>Hide right column in frontpage</source>
-      <translation>Ezkutatu eskuineko zutabea horri hasieran</translation>
+      <translation>Ezkutatu hasierako orriko eskuineko zutabea</translation>
     </message>
     <message>
       <source>Hide disabled department widget</source>
-      <translation>Ezkutatu desaktibatutako departamentuak widgetean</translation>
+      <translation>Ocultar el widget de departamentos deshabilitados</translation>
     </message>
     <message>
       <source>Hide close button in dropdown</source>
-      <translation>Izkutatu ixteko botoia listatik</translation>
+      <translation>Ocultar el botón de cerrar en el menú desplegable</translation>
     </message>
     <message>
       <source>Home page tabs order</source>
-      <translation>Hasierako orrien taulen ordena</translation>
+      <translation>Orden de las pestañas en la página de inicio</translation>
     </message>
     <message>
       <source>Footprint updates should be processed in the background. Make sure you are running workflow background cronjob.</source>
@@ -378,11 +394,11 @@
     <name>system/buttons</name>
     <message>
       <source>Save</source>
-      <translation>Guardar</translation>
+      <translation>Gorde</translation>
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -486,6 +502,14 @@
   <context>
     <name>abstract/widgettheme</name>
     <message>
+      <source>Online status text</source>
+      <translation>Texto del estado en línea</translation>
+    </message>
+    <message>
+      <source>Offline status text</source>
+      <translation>Texto del estado fuera de línea</translation>
+    </message>
+    <message>
       <source>Welcome message</source>
       <translation type="unfinished"/>
     </message>
@@ -520,6 +544,14 @@
     <message>
       <source>Add translation</source>
       <translation>Añadir idioma</translation>
+    </message>
+    <message>
+      <source>Search for language. Enter * to see all.</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>See all variations</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Invitation</source>
@@ -894,12 +926,12 @@
       <translation>Borde del Widget (en px)</translation>
     </message>
     <message>
-      <source>Online status text</source>
-      <translation>Texto del estado en línea</translation>
+      <source>Online status text [old widget]</source>
+      <translation type="unfinished"/>
     </message>
     <message>
-      <source>Offline status text</source>
-      <translation>Texto del estado fuera de línea</translation>
+      <source>Offline status text [old widget]</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Operator intro text</source>
@@ -1318,7 +1350,7 @@
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Operator. Visitor will see this operator nick.</source>
@@ -1670,7 +1702,7 @@
     </message>
     <message>
       <source>Pro active chat campaigns</source>
-      <translation>Campañas de chat pro activas</translation>
+      <translation>Txat proaktiboen kanpainak</translation>
     </message>
     <message>
       <source>Pro active chat events</source>
@@ -1686,15 +1718,15 @@
     </message>
     <message>
       <source>Pro active chat invitations</source>
-      <translation>Invitaciones de chat pro-activas</translation>
+      <translation>Txaten gonbidapen proaktiboak</translation>
     </message>
     <message>
       <source>Pro active chat variables</source>
-      <translation>Variables de chat pro activas</translation>
+      <translation>Txat proaktiboen bariableak</translation>
     </message>
     <message>
       <source>Subject</source>
-      <translation>Asunto</translation>
+      <translation>Gaia</translation>
     </message>
   </context>
   <context>
@@ -1709,7 +1741,7 @@
     </message>
     <message>
       <source>Start a chat form settings</source>
-      <translation>Ajustes de formulario de Iniciar una conversación</translation>
+      <translation>Txata hasteko formularoaren ezarpenak</translation>
     </message>
     <message>
       <source>At least one field has to be visible and required in the popup and page widget</source>
@@ -2032,7 +2064,7 @@
     </message>
     <message>
       <source>Select department</source>
-      <translation>Selecciona departamento</translation>
+      <translation>Aukeratu departamentua</translation>
     </message>
     <message>
       <source>Close selected</source>
@@ -2108,11 +2140,11 @@
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Chats pendientes</translation>
+      <translation>Pendienteko txatak</translation>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Chats activos</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Closed chats</source>
@@ -2228,7 +2260,7 @@
     </message>
     <message>
       <source>Type to search</source>
-      <translation>Escriba para buscar</translation>
+      <translation>Idatzi bilatzeko</translation>
     </message>
     <message>
       <source>Transfer to bot only if department is offline</source>
@@ -2240,7 +2272,7 @@
     </message>
     <message>
       <source>Select translations</source>
-      <translation>Seleccionar traducciones</translation>
+      <translation>Aukeratu itzulpenak</translation>
     </message>
     <message>
       <source>Name</source>
@@ -2410,8 +2442,16 @@
   <context>
     <name>chat/cannedmsg</name>
     <message>
-      <source>Language</source>
-      <translation>Idioma</translation>
+      <source>Main</source>
+      <translation>Principal</translation>
+    </message>
+    <message>
+      <source>Add translation</source>
+      <translation>Añadir idioma</translation>
+    </message>
+    <message>
+      <source>Search for language. Enter * to see all.</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Title/Message</source>
@@ -2456,14 +2496,6 @@
     <message>
       <source>Messages</source>
       <translation>Mensajes</translation>
-    </message>
-    <message>
-      <source>Main</source>
-      <translation>Principal</translation>
-    </message>
-    <message>
-      <source>Add translation</source>
-      <translation>Añadir idioma</translation>
     </message>
     <message>
       <source>Title</source>
@@ -2518,6 +2550,10 @@
       <translation>Grupo</translation>
     </message>
     <message>
+      <source>Language</source>
+      <translation>Idioma</translation>
+    </message>
+    <message>
       <source>Personal canned message</source>
       <translation>Mensajes predefinidos personales</translation>
     </message>
@@ -2551,7 +2587,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>Dialects</source>
@@ -2605,7 +2641,7 @@
     </message>
     <message>
       <source>Enter a possible answer to your question here...</source>
-      <translation>Idatzi zure galderai izan ahal den erantzun posible bat</translation>
+      <translation>Introduzca un posible respuesta a su pregunta aquí</translation>
     </message>
     <message>
       <source>Enable stars</source>
@@ -2825,7 +2861,7 @@
     </message>
     <message>
       <source>Refresh</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Additional data</source>
@@ -2945,11 +2981,11 @@
     </message>
     <message>
       <source>Active chat</source>
-      <translation>Chat activo</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Closed chat</source>
-      <translation>Chat cerrado</translation>
+      <translation>Itxitako txatak</translation>
     </message>
     <message>
       <source>Chatbox chat</source>
@@ -3097,22 +3133,26 @@
     </message>
     <message>
       <source>Has no access to this chat</source>
-      <translation>No posees acceso a este chat</translation>
+      <translation>Ez daukazu txat hori</translation>
     </message>
   </context>
   <context>
     <name>system/htmlcode</name>
     <message>
+      <source>Widget embed code (beta)</source>
+      <translation>Embed Widget kodea (beta)</translation>
+    </message>
+    <message>
       <source>HTML code</source>
-      <translation>Código HTML</translation>
+      <translation>HTML kodea</translation>
     </message>
     <message>
       <source>Popup width</source>
-      <translation>Ancho del popup</translation>
+      <translation>Popupen zabalera</translation>
     </message>
     <message>
       <source>Popup height, used only if iframe is used</source>
-      <translation>Altura del popup, sólamente si se utiliza una iframe</translation>
+      <translation>Popuaren altuera, bakarrik iframea erabiltzen bada</translation>
     </message>
     <message>
       <source>Identifier, this can be used as filter for pro active chat invitations and is use full having different messages for different domains. Only string without spaces or special characters.</source>
@@ -3128,11 +3168,11 @@
     </message>
     <message>
       <source>For what domain you are generating embed code?</source>
-      <translation>¿Para qué dominio está usted generando el código de incrustación?</translation>
+      <translation>Ze domeinurako sortzen ari zara inkrustazio kodea?</translation>
     </message>
     <message>
       <source>example.com</source>
-      <translation>ejemplo.com</translation>
+      <translation>adibidez.eus</translation>
     </message>
     <message>
       <source>Choose prefered http mode</source>
@@ -3256,7 +3296,7 @@
     </message>
     <message>
       <source>FAQ</source>
-      <translation>Preguntas frecuentes</translation>
+      <translation>Maiz agertutako galderak</translation>
     </message>
     <message>
       <source>Position from the top, only used if the Middle left or the Middle right side is chosen</source>
@@ -3284,19 +3324,27 @@
     </message>
     <message>
       <source>Embed code</source>
-      <translation>Código de incrustación</translation>
+      <translation>Inkrustazio kodea</translation>
+    </message>
+    <message>
+      <source>Widget embed code (new)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Widget embed code (legacy)</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Page embed code (legacy)</source>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>Widget embed code</source>
-      <translation>Código de incrustación del Widget</translation>
+      <translation>Widget inkrustatuaren kodea</translation>
     </message>
     <message>
       <source>Page embed code</source>
-      <translation>Código de incrustación para la página</translation>
-    </message>
-    <message>
-      <source>Widget embed code (beta)</source>
-      <translation type="unfinished"/>
+      <translation>Orrirako inkrustazio kodea</translation>
     </message>
     <message>
       <source>Set default speech recognition language</source>
@@ -3304,19 +3352,19 @@
     </message>
     <message>
       <source>Speech language</source>
-      <translation>Idioma del dictado</translation>
+      <translation>Diktatu hizkuntza</translation>
     </message>
     <message>
       <source>Languages</source>
-      <translation>Idiomas</translation>
+      <translation>Hizkuntzak</translation>
     </message>
     <message>
       <source>Dialects</source>
-      <translation>Dialectos</translation>
+      <translation>Euskalki/dialekto</translation>
     </message>
     <message>
       <source>Operator ID</source>
-      <translation>ID del Operador</translation>
+      <translation>Operadorearen IDa</translation>
     </message>
     <message>
       <source>To what operator chat should be assigned automatically?</source>
@@ -3335,7 +3383,7 @@
       <translation>Ocultar estado si está fuera de línea</translation>
     </message>
     <message>
-      <source>Show a ‘leave a message form’ when operators</source>
+      <source>Show a ‘leave a message form’ when there are no online operators</source>
       <translation>Muestre un formulario de &apos;&apos;dejar un mensaje&apos;&apos; para cuando no haya operadores en línea</translation>
     </message>
     <message>
@@ -3376,19 +3424,19 @@
     </message>
     <message>
       <source>Try to detect language automatically</source>
-      <translation>Saiatu auto-detektatzen hizkuntza</translation>
+      <translation>Tratar de detectar el idioma automáticamente</translation>
     </message>
     <message>
       <source>Survey at the end of chat</source>
-      <translation>Txataren bukarako inkesta</translation>
+      <translation>Encuesta al acabar el chat</translation>
     </message>
     <message>
       <source>Product</source>
-      <translation>Produktua</translation>
+      <translation>Producto</translation>
     </message>
     <message>
       <source>Minimize action, applies only if status widget is at the bottom</source>
-      <translation>Txikitu, aplikatu widgeta orriaren hondoan dagoenean</translation>
+      <translation>Minimizar, aplica solo si el Widget esta en pie de pagina</translation>
     </message>
     <message>
       <source>Keep where it was</source>
@@ -3406,13 +3454,13 @@
       <source>Invisible, only JS API will be included</source>
       <translation>Invisible, solo la API JS será incluida</translation>
     </message>
-    <message>f
+    <message>
       <source>Full height right</source>
-      <translation>Eskuineko altuera osoa</translation>
+      <translation>Altura derecha completa</translation>
     </message>
     <message>
       <source>Full height left</source>
-      <translation>Ezkerreko altuera osoa</translation>
+      <translation>Altura izquierda completa</translation>
     </message>
     <message>
       <source>Popup window width</source>
@@ -3432,11 +3480,11 @@
     </message>
     <message>
       <source>Widget width in pixels</source>
-      <translation>Widgetaren zabalera pixeletan</translation>
+      <translation>Ancho del Widget en píxeles</translation>
     </message>
     <message>
       <source>Widget height in pixels</source>
-      <translation>Widgetaren atuera pixeletan</translation>
+      <translation>Altura del Widget en píxeles</translation>
     </message>
     <message>
       <source>Position from the top, only used if the middle left or the middle right side is chosen</source>
@@ -3444,23 +3492,23 @@
     </message>
     <message>
       <source>Percentage</source>
-      <translation>Ehunekoa</translation>
+      <translation>Porcentaje</translation>
     </message>
     <message>
       <source>Identifier – enter a unique identifier here. This is useful for separating messages and proactive chat invitations from different domains/web pages. Enter a string without special characters or spaces such as “homepage” or “website1”.</source>
-      <translation>Identifikatzailea: sartu identifikatzaile bakerra hemen. Hau web orri eta web ezberdinen artean identifikatzeko balio du. Karaktere eta espazio gabeko katea sartu. Adibidez: &quot;hasierako orria&quot; edo &quot;web orri1&quot;.</translation>
+      <translation>Identificador: ingrese un identificador único aquí. Esto es útil para separar mensajes e invitaciones proactivas de chat de diferentes dominios / páginas web. Ingrese una cadena sin caracteres especiales o espacios como &quot;página de inicio&quot; o &quot;sitio web1&quot;.</translation>
     </message>
     <message>
       <source>no survey</source>
-      <translation>Ez daude inkestarik</translation>
+      <translation>No hay encuestas</translation>
     </message>
     <message>
       <source>Please do not enter protocol, only domain name is required</source>
-      <translation>Ez saru protokolorik, idatzi bakarrik domeinua</translation>
+      <translation>Por favor no incluya el protocolo, solo es necesario el nombre de dominio</translation>
     </message>
     <message>
       <source>Place this tag where you want the Live Helper Status to render.</source>
-      <translation>Sartu etiketa hau txata jarri nahi duzun tokian.</translation>
+      <translation>Coloque esta etiqueta donde desee que se muestre el estado del Chat.</translation>
     </message>
     <message>
       <source>Place this tag after the Live Helper status tag.</source>
@@ -3492,7 +3540,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>Chat expired</source>
@@ -3511,7 +3559,7 @@
     <name>questionary/htmlcode</name>
     <message>
       <source>Show overlay</source>
-      <translation>Erakutsi transparentzia</translation>
+      <translation>Mostrar transparencia</translation>
     </message>
     <message>
       <source>Show different offers for the same user</source>
@@ -3542,7 +3590,7 @@
     <name>browseoffer/index</name>
     <message>
       <source>Browse offers</source>
-      <translation>Ver ofertas</translation>
+      <translation>Ikusi ofertak</translation>
     </message>
     <message>
       <source>General</source>
@@ -3558,11 +3606,11 @@
     </message>
     <message>
       <source>Forms</source>
-      <translation>Formularios</translation>
+      <translation>Formularioak</translation>
     </message>
     <message>
       <source>Form</source>
-      <translation>Formulario</translation>
+      <translation>Formularioa</translation>
     </message>
   </context>
   <context>
@@ -3617,138 +3665,138 @@
     </message>
     <message>
       <source>Type your message here...</source>
-      <translation>Escribe tu mensaje aquí...</translation>
+      <translation>Idatzi zure mezua hemen...</translation>
     </message>
     <message>
       <source>Close</source>
-      <translation>Cerrar</translation>
+      <translation>Itxi</translation>
     </message>
     <message>
       <source>Send</source>
-      <translation>Enviar</translation>
+      <translation>Bidali</translation>
     </message>
     <message>
       <source>Decrease height</source>
-      <translation>Reducir altura</translation>
+      <translation>Kendu altuera</translation>
     </message>
     <message>
       <source>Increase height</source>
-      <translation>Aumentar altura</translation>
+      <translation>Gehitu altuera</translation>
     </message>
     <message>
       <source>This chat is closed.</source>
-      <translation>Este chat está cerrado.</translation>
+      <translation>Txat hau itxita dago.</translation>
     </message>
     <message>
       <source>Pending confirm</source>
-      <translation>En espera de confirmación</translation>
+      <translation>Konfirmaziorako pendiente</translation>
     </message>
     <message>
       <source>Load more...</source>
-      <translation>Cargar más...</translation>
+      <translation>Kargatu gehio...</translation>
     </message>
     <message>
       <source>Chatbox is disabled.</source>
-      <translation>Chatbox está deshabilitado.</translation>
+      <translation>Chatboxa desaktibatuta dago.</translation>
     </message>
     <message>
       <source>Invalid hash or auto creation is disabled</source>
-      <translation>Hash inválido o la creación automática está deshabilitada</translation>
+      <translation>Hash ez balidoa edo autosorrea desaktibatuta</translation>
     </message>
     <message>
       <source>Back to chat</source>
-      <translation>Volver al chat</translation>
+      <translation>Bueltatu txatera</translation>
     </message>
     <message>
       <source>Switch to widget</source>
-      <translation>Cambiar al widget</translation>
+      <translation>Aldatu widgetera</translation>
     </message>
     <message>
       <source>Visitor</source>
-      <translation>Visitante</translation>
+      <translation>Bisitaria</translation>
     </message>
     <message>
       <source>Chat started</source>
-      <translation>Chat iniciado</translation>
+      <translation>Txata hasia</translation>
     </message>
     <message>
       <source>is typing now...</source>
-      <translation>está escribiendo...</translation>
+      <translation>idazten hari da..</translation>
     </message>
     <message>
       <source>Operator is typing now...</source>
-      <translation>El operador está escribiendo...</translation>
+      <translation>Operadorea idazten ari da...</translation>
     </message>
     <message>
       <source>You have closed this chat!</source>
-      <translation>¡Has cerrado este chat!</translation>
+      <translation>Itxi duzu txata!</translation>
     </message>
     <message>
       <source>You have been redirected to survey!</source>
-      <translation>¡Has sido redirigido a una encuesta!</translation>
+      <translation>Inkestara eramana izan zara!</translation>
     </message>
   </context>
   <context>
     <name>chat/bbcodeinsert</name>
     <message>
       <source>Image</source>
-      <translation>Imagen</translation>
+      <translation>Irudia</translation>
     </message>
     <message>
       <source>Link</source>
-      <translation>Enlace</translation>
+      <translation>Esteka</translation>
     </message>
     <message>
       <source>Link title</source>
-      <translation>Título del enlace</translation>
+      <translation>Estekaren titulua</translation>
     </message>
     <message>
       <source>Bold</source>
-      <translation>Negritas</translation>
+      <translation>Beltza</translation>
     </message>
     <message>
       <source>Italic</source>
-      <translation>Itálica</translation>
+      <translation>Zeharkakoa</translation>
     </message>
     <message>
       <source>Please enter link to an image</source>
-      <translation>Por favor introduzca el enlace a una imagen</translation>
+      <translation>Mesedez, sartu argazki baten linka</translation>
     </message>
     <message>
       <source>Please enter a link</source>
-      <translation>Por favor introduzca un enlace</translation>
+      <translation>Mesedez, sartu link bat</translation>
     </message>
     <message>
       <source>Here is a link</source>
-      <translation>Aquí hay un enlace</translation>
+      <translation>Hemen link bat dago</translation>
     </message>
     <message>
       <source>Positive</source>
-      <translation>Positivo</translation>
+      <translation>Positiboa</translation>
     </message>
     <message>
       <source>Neutral</source>
-      <translation>Neutral</translation>
+      <translation>Neutrala</translation>
     </message>
     <message>
       <source>Negative</source>
-      <translation>Negativo</translation>
+      <translation>Negatiboa</translation>
     </message>
     <message>
       <source>Things</source>
-      <translation>Cosas</translation>
+      <translation>Gauzak</translation>
     </message>
     <message>
       <source>Money</source>
-      <translation>Dinero</translation>
+      <translation>Diruak</translation>
     </message>
     <message>
       <source>Please enter link to an image!</source>
-      <translation type="unfinished"/>
+      <translation>Mesedez, sartu argazki baten linka</translation>
     </message>
     <message>
       <source>Please enter a link!</source>
-      <translation type="unfinished"/>
+      <translation>Mesedez, sartu link bat!</translation>
     </message>
   </context>
   <context>
@@ -3759,65 +3807,65 @@
     </message>
     <message>
       <source>Date</source>
-      <translation>Fecha</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <source>Users who are blocked</source>
-      <translation>Usuario bloqueados</translation>
+      <translation>Blokeatutako erabiltzaileak</translation>
     </message>
     <message>
       <source>Remove block</source>
-      <translation>Retirar bloqueo</translation>
+      <translation>Kendu blokeoa</translation>
     </message>
     <message>
       <source>Empty...</source>
-      <translation>Vacío...</translation>
+      <translation>Hutsik...</translation>
     </message>
     <message>
       <source>Blocked users</source>
-      <translation>Usuario bloqueados</translation>
+      <translation>Blokeatutako erabiltzaileak</translation>
     </message>
     <message>
       <source>Please enter an IP to block</source>
-      <translation>Por favor introduzca la IP a bloquear</translation>
+      <translation>Mesedez, sartu blokeatzeko IPa</translation>
     </message>
     <message>
       <source>User was blocked!</source>
-      <translation>El usuario fue bloqueado!</translation>
+      <translation>Erabiltzailea blokeatuta izan da!</translation>
     </message>
     <message>
       <source>User blocking failed, perhaps you do not have permission to block users?</source>
-      <translation>La acción de bloquear usuario ha fallado, probablemente no tiene permisos suficientes.</translation>
+      <translation>Erabiltzailea blokeatzeko akzioa failatu du, seguruenik ez duzu baimenik.</translation>
     </message>
   </context>
   <context>
     <name>kernel/message</name>
     <message>
       <source>Are you sure?</source>
-      <translation>¿Está seguro?</translation>
+      <translation>Seguru zaude?</translation>
     </message>
   </context>
   <context>
     <name>department/edit</name>
     <message>
       <source>Any</source>
-      <translation>Cualquier</translation>
+      <translation>Edozein</translation>
     </message>
     <message>
       <source>Edit department</source>
-      <translation>Editar departamento</translation>
+      <translation>Editatu departamentua</translation>
     </message>
     <message>
       <source>Edit department group</source>
-      <translation>Editar el grupo del departamento</translation>
+      <translation>Editatu departamentuaren taldea</translation>
     </message>
     <message>
       <source>Edit department limit group</source>
-      <translation>Editar el límite del grupo del departamento</translation>
+      <translation>Editatu departamentu taldearen limiteak</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -3825,207 +3873,207 @@
     </message>
     <message>
       <source>Visible only if online</source>
-      <translation>Visible sólo si está en línea </translation>
+      <translation>Ikusi bakarrik online dagoenean</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Deshabilitado</translation>
+      <translation>Desaktibatuta</translation>
     </message>
     <message>
       <source>Will not be visible to visitor</source>
-      <translation>No será visible para los visitantes</translation>
+      <translation>Ez da erakutsiko bistatzaileari</translation>
     </message>
     <message>
       <source>Hidden</source>
-      <translation>Oculto</translation>
+      <translation>Izkutatua</translation>
     </message>
     <message>
       <source>Maximum pending chats, if this limit is reached department becomes offline automatically</source>
-      <translation>Máximo de chats pendientes, si se alcanza este límite, el departamento se desconecta automáticamente</translation>
+      <translation>Pendieneko txat limitea, limitera ailegatzean departamentua offline bueltatuko da</translation>
     </message>
     <message>
       <source>Group limit</source>
-      <translation>Limite de grupo</translation>
+      <translation>Talde limitea</translation>
     </message>
     <message>
       <source>Delay in seconds before leave a message form is shown. 0 Means functionality is disabled, </source>
-      <translation>Retraso en segundos antes de el formulario deje un mensaje sea mostrado, 0 significa deshabilitado</translation>
+      <translation>Utzi mezua formularioa baino lehenagoko denbora, 0 desaktibatuta esan nahi du,</translation>
     </message>
     <message>
       <source>Priority, used for chats priority</source>
-      <translation>Prioridad, usado para la prioridad de los chats</translation>
+      <translation>Prioritatea, erabilia txatetan</translation>
     </message>
     <message>
       <source>Priority, used for departments sort</source>
-      <translation>Prioridad, usada para clasificación por departamentos</translation>
+      <translation>Prioritatea, etabilia departamentuen ordenean</translation>
     </message>
     <message>
       <source>Automate online hours</source>
-      <translation>Automatizar horas en línea</translation>
+      <translation>Automatizatu online orduak</translation>
     </message>
     <message>
       <source>Notifications</source>
-      <translation>Notificaciones</translation>
+      <translation>Notifikazioak</translation>
     </message>
     <message>
       <source>Chat transfer worklow</source>
-      <translation>Flujo de trabajo de la transferencia de chats</translation>
+      <translation>Txaten transferentzia lana</translation>
     </message>
     <message>
       <source>Auto assignment</source>
-      <translation>Asignación automática</translation>
+      <translation>Asignazioa automatikoa</translation>
     </message>
     <message>
       <source>Product</source>
-      <translation>Producto</translation>
+      <translation>Produktua</translation>
     </message>
     <message>
       <source>Miscellaneous</source>
-      <translation>Misceláneos</translation>
+      <translation>Bestelakoak</translation>
     </message>
     <message>
       <source>Bot configuration</source>
-      <translation>Configuración de bot</translation>
+      <translation>Bot ezarpenak</translation>
     </message>
     <message>
       <source>Survey</source>
-      <translation>Encuesta</translation>
+      <translation>Inkesta</translation>
     </message>
     <message>
       <source>Work hours/work days logic is active</source>
-      <translation>Lógica de horas / días de trabajo está activa</translation>
+      <translation>Lan ordu / egunen logika aktibatuta</translation>
     </message>
     <message>
       <source>Workdays/work hours, during these days/hours chat will be active automatically</source>
-      <translation>Horas / días de trabajo, durante esta horas / días el chat se activará automáticamente</translation>
+      <translation>Lan ordu / egunak, ordu / egunak noiz txata automatikoki aktibatuko dira</translation>
     </message>
     <message>
       <source>Work hours, 24 hours format, 1 - 24, minutes format 0 - 60</source>
-      <translation>Horas de trabajo, formato de 1 a 24 horas y de 0 a 60 minutos.</translation>
+      <translation>Lan orduak, formatua 1 - 24 ordu eta 0 - 60 minutu.</translation>
     </message>
     <message>
       <source>Hours from</source>
-      <translation>Horas desde</translation>
+      <translation>Ordutik</translation>
     </message>
     <message>
       <source>Hours from, E.g. 8</source>
-      <translation>Horas desde, Ej. 8</translation>
+      <translation>ordutik, Ej. 8</translation>
     </message>
     <message>
       <source>Minutes from</source>
-      <translation>Minutos desde</translation>
+      <translation>Minutuak noiztik</translation>
     </message>
     <message>
       <source>Minutes from, E.g. 30</source>
-      <translation>Minutos desde, Ej. 30</translation>
+      <translation>Minutuak noiztik, Adb. 30</translation>
     </message>
     <message>
       <source>Hours to</source>
-      <translation>Horas para</translation>
+      <translation>Hordutara</translation>
     </message>
     <message>
       <source>Hours to, E.g. 17</source>
-      <translation>Horas hasta, Ej. 17</translation>
+      <translation>Ordu arte, Adb. 17</translation>
     </message>
     <message>
       <source>Minutes to</source>
-      <translation>Minutos para</translation>
+      <translation>Minutu arte</translation>
     </message>
     <message>
       <source>Minutes to, E.g. 30</source>
-      <translation>Minutos hasta, Ej. 30</translation>
+      <translation>Minutu arta, Ej. 30</translation>
     </message>
     <message>
       <source>Custom period</source>
-      <translation>Período personalizado</translation>
+      <translation>Denbora pertsonalizatuta</translation>
     </message>
     <message>
       <source>Date from</source>
-      <translation>Fecha desde</translation>
+      <translation>Datatik</translation>
     </message>
     <message>
       <source>Custom work day</source>
-      <translation>Día laboral personalizado</translation>
+      <translation>Lan egun pertsonalizatuta</translation>
     </message>
     <message>
       <source>Date to</source>
-      <translation>Fecha hasta</translation>
+      <translation>Data harte</translation>
     </message>
     <message>
       <source>Add</source>
-      <translation>Agregar</translation>
+      <translation>Gehitu</translation>
     </message>
     <message>
       <source>Period</source>
-      <translation>Período</translation>
+      <translation>Periodoa</translation>
     </message>
     <message>
       <source>Start time</source>
-      <translation>Tiempo de inicio</translation>
+      <translation>Hasierako denbora</translation>
     </message>
     <message>
-      <source>End time</source>
-      <translation>Tiempo de finalización</translation>
+      <source>Finish time</source>
+      <translation>Bukaera denbora</translation>
     </message>
     <message>
       <source>Remove</source>
-      <translation>Eliminar</translation>
+      <translation>Kendu</translation>
     </message>
     <message>
       <source>XMPP recipients</source>
-      <translation>Destinatarios XMPP</translation>
+      <translation>XMPP hartzaileak</translation>
     </message>
     <message>
       <source>XMPP group recipients</source>
-      <translation>Grupo destinatarios XMPP</translation>
+      <translation>XMPP talde hartzaileak</translation>
     </message>
     <message>
       <source>E.g somechat@conference.server.org/LiveChat</source>
-      <translation>Ej. somechat@conference.server.org/LiveChat</translation>
+      <translation>Adb. somechat@conference.server.org/LiveChat</translation>
     </message>
     <message>
       <source>These messages will be send as group messages</source>
-      <translation>Estos mensajes se enviarán como mensajes de grupo</translation>
+      <translation>Mezu hauek talde mezu bezela bidaliko dira</translation>
     </message>
     <message>
       <source>Inform about new chats using</source>
-      <translation>Informar acerca de nuevos chats usando</translation>
+      <translation>Abidatu txat berrien erabilera</translation>
     </message>
     <message>
       <source>XMPP messages</source>
-      <translation>mensajes XMPP</translation>
+      <translation>XMPP mezuak</translation>
     </message>
     <message>
       <source>Send XMPP messages to all department operators</source>
-      <translation>Enviar mensajes XMPP a todos los operadores de departamentos</translation>
+      <translation>Bidali XMPP mezuak departamentu operadore guztietara</translation>
     </message>
     <message>
       <source>Mail messages</source>
-      <translation>Mensajes de correo</translation>
+      <translation>Email mezuak</translation>
     </message>
     <message>
       <source>How many seconds chat can be pending before about chat is informed a staff</source>
-      <translation>¿Cuántos segundos el chat puede estar pendiente antes de que sea informado al personal?</translation>
+      <translation>Zenbat denbora pendiente langileetara informatu baino lehen?</translation>
     </message>
     <message>
       <source>Inform about unread messages if from last unread user message have passed (seconds)</source>
-      <translation>Informar sobre los mensajes no leídos, si han pasado (segundos) desde el último mensaje de usuario sin leer</translation>
+      <translation>Informatu irakurri gabeko mezueei buruz, azkeneko irakurr gabeko mezua segunduak pasa ondoren</translation>
     </message>
     <message>
       <source>Please enter value in seconds</source>
-      <translation>Por favor introduzca el valor en segundos</translation>
+      <translation>Idatzi balorea segundutan</translation>
     </message>
     <message>
       <source>Inform then chat is accepted by one of the staff members using</source>
-      <translation>Informar cuando el chat es aceptado por un operador usando</translation>
+      <translation>Abisatu txata baimendua izan denean langile bat</translation>
     </message>
     <message>
       <source>Other</source>
-      <translation>Otro</translation>
+      <translation>Beste bat</translation>
     </message>
     <message>
       <source>Inform then chat is closed by operator, only mail notification is send.</source>
-      <translation>Informar cuando un chat es cerrado por un operador, sólo se envía notificación por correo.</translation>
+      <translation>Informatu txata operadorea ixten duenean, bakarrik notifikazio mezuak bidaliak dira.</translation>
     </message>
     <message>
       <source>Inform then chat is closed automatically, only mail notification is send.</source>
@@ -4065,15 +4113,15 @@
     </message>
     <message>
       <source>Enable products </source>
-      <translation>Activar productos</translation>
+      <translation>Aktibatu produktuak</translation>
     </message>
     <message>
       <source>Required</source>
-      <translation>Requerido</translation>
+      <translation>Beharrezkoa</translation>
     </message>
     <message>
       <source>Assigned products</source>
-      <translation>Productos asignados</translation>
+      <translation>Asignatutako produktuak</translation>
     </message>
     <message>
       <source>This field is max 50 characters length and can be used for any purpose by extensions. This field is also indexed.</source>
@@ -4081,15 +4129,15 @@
     </message>
     <message>
       <source>None</source>
-      <translation>Ninguno</translation>
+      <translation>Ezer</translation>
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentos</translation>
+      <translation>Departamentuak</translation>
     </message>
     <message>
       <source>Maximum pending chats</source>
-      <translation>Máximos chats pendientes</translation>
+      <translation>Pendiente dauden gehiegizko txatak</translation>
     </message>
     <message>
       <source>These bot logic applies also</source>
@@ -4097,7 +4145,7 @@
     </message>
     <message>
       <source>Custom attribute 1</source>
-      <translation>Atributo personalizado 1</translation>
+      <translation>Pertsonalizatutako  atributoak 1</translation>
     </message>
     <message>
       <source>Custom attribute 2</source>
@@ -4125,47 +4173,47 @@
     </message>
     <message>
       <source>Identifier</source>
-      <translation>Identificador</translation>
+      <translation>Identifikatzailea</translation>
     </message>
     <message>
       <source>Translation</source>
-      <translation>Traducción</translation>
+      <translation>Itzulketa</translation>
     </message>
     <message>
       <source>Choose</source>
-      <translation>Escoger</translation>
+      <translation>Aukeratu</translation>
     </message>
     <message>
       <source>Monday</source>
-      <translation>Lunes</translation>
+      <translation>Astelehena</translation>
     </message>
     <message>
       <source>Tuesday</source>
-      <translation>Martes</translation>
+      <translation>Asteartea</translation>
     </message>
     <message>
       <source>Wednesday</source>
-      <translation>Miércoles</translation>
+      <translation>Asteazkena</translation>
     </message>
     <message>
       <source>Thursday</source>
-      <translation>Jueves</translation>
+      <translation>Osteguna</translation>
     </message>
     <message>
       <source>Friday</source>
-      <translation>Viernes</translation>
+      <translation>Ostirala</translation>
     </message>
     <message>
       <source>Saturday</source>
-      <translation>Sábado</translation>
+      <translation>Larunbata</translation>
     </message>
     <message>
       <source>Sunday</source>
-      <translation>Domingo</translation>
+      <translation>Igandea</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>Edit a department</source>
@@ -4184,19 +4232,19 @@
     <name>chat/startchat</name>
     <message>
       <source>Offline</source>
-      <translation>Desconectado</translation>
+      <translation>Deskonektatua</translation>
     </message>
     <message>
       <source>Chat is currently unavailable</source>
-      <translation type="unfinished"/>
+      <translation>Chata ez dago eskuragarri</translation>
     </message>
     <message>
       <source>Please try again later.</source>
-      <translation type="unfinished"/>
+      <translation>Saiatu berriro ondoren</translation>
     </message>
     <message>
       <source>Department is disabled</source>
-      <translation>El departamento esta deshabilitado</translation>
+      <translation>Departamentua desgaituta dago</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -4204,19 +4252,19 @@
     </message>
     <message>
       <source>Enter your email address</source>
-      <translation>Ingrese su dirección de E-Mail</translation>
+      <translation>Idatzi zure Email helbidea</translation>
     </message>
     <message>
       <source>Phone</source>
-      <translation>Teléfono</translation>
+      <translation>Telefonoa</translation>
     </message>
     <message>
       <source>Enter your phone</source>
-      <translation>Ingrese su teléfono</translation>
+      <translation>Idatzi zure telefonoa</translation>
     </message>
     <message>
       <source>Enter your message</source>
-      <translation>Sartu zure mezua</translation>
+      <translation>Idatzi zure mezua</translation>
     </message>
     <message>
       <source>Your question</source>
@@ -4224,87 +4272,87 @@
     </message>
     <message>
       <source>Type your message here and hit enter to send...</source>
-      <translation>Escriba su mensaje aquí y presione enter para enviar...</translation>
+      <translation>Idatzi hemen zure mezua eta sakatu intro bidaltzeko...</translation>
     </message>
     <message>
       <source>Please provide a department</source>
-      <translation>Por favor proporciona un departamento</translation>
+      <translation>Mesedez, aukeratu departamentu bat</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Enter your name</source>
-      <translation>Idatzi zure izena</translation>
+      <translation>Idatzi zure mezua</translation>
     </message>
     <message>
       <source>Are you sure you want to close this chat?</source>
-      <translation type="unfinished"/>
+      <translation>Seguru txata itxi nahi duzula</translation>
     </message>
     <message>
       <source>Type your message here...</source>
-      <translation>Escribe tu mensaje aquí...</translation>
+      <translation>Idatzi hemen zure mezua...</translation>
     </message>
     <message>
       <source>Live support is not available in your country</source>
-      <translation>El soporte en línea no está disponible en su país</translation>
+      <translation>Online laguntza ez dago eskuragarri zure herrialdean</translation>
     </message>
     <message>
       <source>Live Support</source>
-      <translation>Soporte en Línea</translation>
+      <translation>Laguntza Online</translation>
     </message>
     <message>
       <source>There are no online operators at the moment, please leave a message</source>
-      <translation>No hay operadores en línea en este momento, por favor deje un mensaje</translation>
+      <translation>Ez dago operadoreik online momentu honeta, utzi mezu bat</translation>
     </message>
     <message>
       <source>File</source>
-      <translation>Archivo</translation>
+      <translation>Fitxategia</translation>
     </message>
     <message>
       <source>Your request was sent!</source>
-      <translation>Su solicitud ha sido enviada!</translation>
+      <translation>Zure eskaera bidali da!</translation>
     </message>
     <message>
       <source>Leave a message</source>
-      <translation>Deje un mensaje</translation>
+      <translation>Utzi mezu bat</translation>
     </message>
     <message>
       <source>Send message</source>
-      <translation>Enviar mensaje</translation>
+      <translation>Bidali mezua</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation type="unfinished"/>
+      <translation>Bertan behera utzi</translation>
     </message>
     <message>
       <source>Record voice message</source>
-      <translation type="unfinished"/>
+      <translation>Grabatu zure ahots mezua</translation>
     </message>
     <message>
       <source>Stop recording</source>
-      <translation type="unfinished"/>
+      <translation>Gelditu grabaketa</translation>
     </message>
     <message>
       <source>Play recorded audio</source>
-      <translation type="unfinished"/>
+      <translation>Erreproduzitu grabatutako auidoa</translation>
     </message>
     <message>
       <source>Stop playing</source>
-      <translation type="unfinished"/>
+      <translation>Gelditu erreprodukzioa</translation>
     </message>
     <message>
       <source>Send voice message</source>
-      <translation type="unfinished"/>
+      <translation>Bidali ahots mezua</translation>
     </message>
     <message>
       <source>I accept my personal data will be handled according to</source>
-      <translation>Baimentzen dut nire datuen tratapena</translation>
+      <translation>Baimentzen dut nire datuen trataketa</translation>
     </message>
     <message>
       <source>our terms and to the Law</source>
-      <translation>gure terminoen eta legearen arabera </translation>
+      <translation>legea eta gure termino eta kondizioetan jartzen duen bezala</translation>
     </message>
     <message>
       <source>Start chat</source>
@@ -4324,15 +4372,15 @@
     </message>
     <message>
       <source>Department is offline</source>
-      <translation>Departamentua ofline dago</translation>
+      <translation>Departamentua offline dago</translation>
     </message>
     <message>
       <source>Go to leave a message form</source>
-      <translation>Joan mezu bat uzteko formulariora</translation>
+      <translation>Ir a formulario para dejar un mensaje</translation>
     </message>
     <message>
       <source>Cancel and choose another department</source>
-      <translation>Bertan behera utzu eta aukeratu beste departamendu bat</translation>
+      <translation>Bertan behera utzi eta aukeratu beste departamentu bat</translation>
     </message>
     <message>
       <source>characters</source>
@@ -4340,15 +4388,15 @@
     </message>
     <message>
       <source>Personal assistant</source>
-      <translation>Asistente personal</translation>
+      <translation>Asistente pertsonala</translation>
     </message>
     <message>
       <source>Fill out this form to start a chat</source>
-      <translation>Bete formulario hay chata hasteko</translation>
+      <translation>Bete ondorengo formularioa txata hasteko</translation>
     </message>
     <message>
       <source>There are no online operators at the moment, please leave your message</source>
-      <translation>No hay operadores en línea en este momento, por favor deja tu mensaje</translation>
+      <translation>Ez daude konektaturiko operadorerik, utzi mezu bat mesedez</translation>
     </message>
     <message>
       <source>Me</source>
@@ -4360,27 +4408,27 @@
     </message>
     <message>
       <source>Choose a product</source>
-      <translation>Aukeratu produktu bat</translation>
+      <translation>Aukeratu produktu edo zerbitzu bat</translation>
     </message>
     <message>
       <source>Choose your language</source>
-      <translation>Aukeratu zure lenguaia.</translation>
+      <translation>Aukeratu zure hizkuntza</translation>
     </message>
     <message>
       <source>Invalid CSRF token!</source>
-      <translation>CSRF inbalidoa</translation>
+      <translation>Token CSRF inválido</translation>
     </message>
     <message>
       <source>Please enter a valid email address</source>
-      <translationSartu email balido bat</translation>
+      <translation>Mesedez, idatzi email helbide baliagarri bat</translation>
     </message>
     <message>
       <source>Maximum 50 characters</source>
-      <translation>Gehienez 50 karaktere</translation>
+      <translation>Gehihenez 50 karaktere</translation>
     </message>
     <message>
       <source>You do not have permission to chat! Please contact site owner.</source>
-      <translation>Ez duzu chateatzeko baimenik! Mesedez, jarri harremanetan webgunearen jabearekin.</translation>
+      <translation>Ez daukazu txateatzeko baimenik! Mesedez, jarri kontaktuan webgunearen jabearekin.</translation>
     </message>
     <message>
       <source>Please enter your name</source>
@@ -4392,39 +4440,39 @@
     </message>
     <message>
       <source>Please enter your message</source>
-      <translation>Idatzi zure mezua mesedez</translation>
+      <translation>Idatzi zure mezua</translation>
     </message>
     <message>
       <source>Maximum</source>
       <translation>Gehienez</translation>
     </message>
     <message>
-      <source>characters for a message</source>
-      <translation>Karektere mezu bakoitzeko</translation>
+      <source>karaktere mezu bakoitzeko</source>
+      <translation>Karaktere mezukiko</translation>
     </message>
     <message>
       <source>You have to accept our Terms Of Service</source>
-      <translation>Zerbitzuaren kondizioak onartu behar dituzu</translation>
+      <translation>Gure zerbitzu kondizioa baimendu behar dituzu</translation>
     </message>
     <message>
       <source>Please enter your phone</source>
-      <translation>Idatzi zure telefonoa</translation>
+      <translation>Mesedez, idatzi zure telefonoa</translation>
     </message>
     <message>
       <source>Maximum 100 characters for phone</source>
-      <translation>Gehienez 100 karaktere telefonorako</translation>
+      <translation>Gehienez 100 karaktere telefonoan</translation>
     </message>
     <message>
       <source>Invalid file</source>
-      <translation>Artxibo ez balidoa</translation>
+      <translation>Fitxategi baliogabea</translation>
     </message>
     <message>
       <source>Please choose department!</source>
-      <translation>Mesedez, aukeratu departamentua!</translation>
+      <translation>Mesedez, aukeratu departamentu bat!</translation>
     </message>
     <message>
       <source>Could not find a product!</source>
-      <translation>Ez da aurkitu produkturik!</translation>
+      <translation>Ezin izan da produktu edo zerbitzu bat autkitu!</translation>
     </message>
     <message>
       <source>Please choose</source>
@@ -4432,111 +4480,111 @@
     </message>
     <message>
       <source>Could not determine a default department!</source>
-      <translation>Ezin izan da predefinitutako departamenturik aurkitu!</translation>
+      <translation>Ezin izan da determinatu departamentu berezarririk aurkitu!</translation>
     </message>
     <message>
       <source>Please choose a product!</source>
-      <translation>Mesedez aukeratu produktu bat</translation>
+      <translation>Mesedez, aukeratu produktu edo zerbitzu bat!</translation>
     </message>
     <message>
       <source>At the moment department is overloaded, please choose a different department or try again later!</source>
-      <translation>En este momento, el departamento está sobrecargado, elija un departamento diferente o inténtelo de nuevo más tarde.</translation>
+      <translation>Momentu honetan departamentua lanpetuta dago, aukeratu beste bat edo saiatu berriro geroxeago.</translation>
     </message>
     <message>
       <source>is required</source>
-      <translation>derrigorrezkoa da</translation>
+      <translation>beharrezkoa da</translation>
     </message>
     <message>
       <source>Could not decrypt data!</source>
-      <translationEzin izan dira datuak desenkriptatu!</translation>
+      <translation>Ezin izan dire datuak desenkriptatu!</translation>
     </message>
     <message>
       <source>Visitor</source>
-      <translation>Bisitantea</translation>
+      <translation>Bisitaria</translation>
     </message>
     <message>
       <source>Your request was not processed as expected - but don&apos;t worry it was not your fault. Please re-submit your request. If you experience the same issue you will need to contact us via other means.</source>
-      <translation>Su solicitud no se procesó como se esperaba, pero no se preocupe, no fue su culpa. Por favor, vuelva a enviar su solicitud. Si experimenta el mismo problema, deberá ponerse en contacto con nosotros a través de otros medios.</translation>
+      <translation>Zure eskaera ezin izan da aurreikusita zegoen bezala gertatu, dirudienez gure partetik izan da. Saiatu berriro. Arazo berdinarekin jarraitzekotan, bidali mezu bat laguntza@naseinu.eus helbidera.</translation>
     </message>
     <message>
       <source>Invalid file extension</source>
-      <translation>Artxiboaren extensioa ez da balidoa!</translation>
+      <translation>Fitxategiaren extensioa ez da baliogarria</translation>
     </message>
     <message>
       <source>Invalid file extension!</source>
-      <translation>Artxiboaren extensioa ez da balidoa!</translation>
+      <translation>Fitxategiaren extensioa ez da baliogarria!</translation>
     </message>
     <message>
       <source>To big file!</source>
-      <translation>Artxiboa oso haundia da!</translation>
+      <translation>Fitxategia oso haundia da!</translation>
     </message>
     <message>
       <source>Chat was transferred to operator!</source>
-      <translation>Txata opredoreari transefitua izan da!</translation>
+      <translation>Txata beste operadore bati transferitua izan da!</translation>
     </message>
     <message>
       <source>Chat was transferred to bot!</source>
-      <translation>Txata botari transferitua izan sa!</translation>
+      <translation>Txata bot bati transferitu zaio!</translation>
     </message>
     <message>
       <source>Button action could not be found!</source>
-      <translation>Ezin izan da botoiaren akzioa aurkitu!</translation>
+      <translation>Botoiaren akzioa ezin izan da aurkitu!</translation>
     </message>
     <message>
       <source>Trigger could not be found!</source>
-      <translation>Disparadorrea ezin izan da aurkitu!</translation>
+      <translation>Ezin izan da disparadorea aurkitu!</translation>
     </message>
     <message>
       <source>Update actions could not be found!</source>
-      <translation>Ezin izan dire eguneraketa akziak aurkitu!</translation>
+      <translation>Ez direa eguneraketa akziorik aurkitu!</translation>
     </message>
     <message>
       <source>Please enter a message, max characters</source>
-      <translation>Mesedez idatzi mezu bat, gehienezko karaktereak</translation>
+      <translation>Mesedez idatzi mezu bat, gehiegizko karakterea</translation>
     </message>
     <message>
       <source>You cannot send messages to this chat. Please refresh your browser.</source>
-      <translation>Ezin dituzu mezuak bidali chat honetan. Eguneratu orria mesedez.</translation>
+      <translation>Ezin dituzu mezurik bidali chat honetan. Mesedes, egunertatu orria.</translation>
     </message>
     <message>
       <source>Pending Chat</source>
-      <translation>Txata zain</translation>
+      <translation>Pendieteko txata</translation>
     </message>
     <message>
       <source>Unread message</source>
-      <translation>Irakurri gabeko mezuak</translation>
+      <translation>Irakurri gabeko mezua</translation>
     </message>
     <message>
       <source>New message from operator</source>
-      <translation>Opreadoreari mezu berria</translation>
+      <translation>Operadorearen mezu berria</translation>
     </message>
     <message>
       <source>Transfer Chat</source>
-      <translation>Chata transferitu</translation>
+      <translation>Transferitu txata</translation>
     </message>
     <message>
       <source>Assigned Chat</source>
-      <translation>Asignetutako txata</translation>
+      <translation>Asginatutako txata</translation>
     </message>
     <message>
       <source>Fill in the form to start a chat</source>
-      <translation>Bete formularioa chata hasteko</translation>
+      <translation>Bete formulario txata hasteko</translation>
     </message>
     <message>
       <source>Please enter a message</source>
-      <translation>Mesedez, idatzi mezua</translation>
+      <translation>Mesedez, idatzi mezu bat</translation>
     </message>
     <message>
       <source>characters max.</source>
-      <translation>karaktere gehienez</translation>
+      <translation>kataketere gehienez.</translation>
     </message>
     <message>
       <source>Minimize</source>
-      <translation>Minimizatu</translation>
+      <translation>Txikitu</translation>
     </message>
     <message>
       <source>End chat</source>
-      <translation>Buaktu txata</translation>
+      <translation>Bukatu txata</translation>
     </message>
     <message>
       <source>BB code</source>
@@ -4544,7 +4592,7 @@
     </message>
     <message>
       <source>Popup</source>
-      <translation type="unfinished"/>
+      <translation>Popup</translation>
     </message>
     <message>
       <source>Your message...</source>
@@ -4552,27 +4600,27 @@
     </message>
     <message>
       <source>Thank you for your feedback...</source>
-      <translation type="unfinished"/>
+      <translation>Eskerrik asko zure feedbacka bidaltzea gatik</translation>
     </message>
     <message>
       <source>Go to Survey.</source>
-      <translation type="unfinished"/>
+      <translation>Joan inkestara.</translation>
     </message>
     <message>
       <source>Please choose!</source>
-      <translation>Aukeratu mesedez!</translation>
+      <translation>Mesedez aukeratu!</translation>
     </message>
     <message>
       <source>Cancel voice message</source>
-      <translation type="unfinished"/>
+      <translation>Utzi ahots mezua bertan behera</translation>
     </message>
     <message>
       <source>Play recorded message</source>
-      <translation type="unfinished"/>
+      <translation>Erreproduzutu grabatutako mezua</translation>
     </message>
     <message>
       <source>Stop playing recorded audio</source>
-      <translation type="unfinished"/>
+      <translation>Gelditu grabatutako audioaren erreprodukzioa</translation>
     </message>
   </context>
   <context>
@@ -4583,7 +4631,7 @@
     </message>
     <message>
       <source>No previous chats</source>
-      <translation>Ez daude aurreko chata</translation>
+      <translation>Ez daude lehenagoko txatik</translation>
     </message>
     <message>
       <source>h.</source>
@@ -4603,15 +4651,15 @@
     </message>
     <message>
       <source>Nothing found</source>
-      <translation>Ez daude emaitzik</translation>
+      <translation>Ez da ezer aurkitu</translation>
     </message>
     <message>
       <source>Add chat</source>
-      <translation>Gehitu chata</translation>
+      <translation>Gehitu txata</translation>
     </message>
     <message>
       <source>Start chat</source>
-      <translation>Hasi chata</translation>
+      <translation>Hasi txata</translation>
     </message>
     <message>
       <source>Last activity</source>
@@ -4619,15 +4667,19 @@
     </message>
     <message>
       <source>Accept chat</source>
-      <translation>Baimendu chata</translation>
+      <translation>Onartu txata</translation>
     </message>
     <message>
       <source>Empty...</source>
-      <translation>Txuri...</translation>
+      <translation>Hutsik...</translation>
     </message>
     <message>
       <source>Configure dashboard</source>
-      <translation>Konfiguratu tabloia</translation>
+      <translation>Konfiguratu mahigaina</translation>
+    </message>
+    <message>
+      <source>All active chats will appear here.</source>
+      <translation>Txat aktibo guztiak hemen agertuko da</translation>
     </message>
     <message>
       <source>Location</source>
@@ -4635,15 +4687,15 @@
     </message>
     <message>
       <source>Sort by location</source>
-      <translation>Ordenatu kokapenaren mempe</translation>
+      <translation>Ordenatu kokapenaren menpe</translation>
     </message>
     <message>
       <source>Visitor</source>
-      <translation>Bisitantea</translation>
+      <translation>Bistaria</translation>
     </message>
     <message>
       <source>Sort by visitor nick</source>
-      <translation>Ordenatu bisitantearen nickaren mempe</translation>
+      <translation>Ordenatu bisitariaren ezizenaren menpe</translation>
     </message>
     <message>
       <source>Sort by time</source>
@@ -4651,11 +4703,11 @@
     </message>
     <message>
       <source>Sort by operator</source>
-      <translation>Ordenatu operadoreen menpe</translation>
+      <translation>Sailkatu operadorearen menpe</translation>
     </message>
     <message>
       <source>Sort by department</source>
-      <translation>Ordenatu departamentuen menpe</translation>
+      <translation>Ordenatu departamentuaren menpe</translation>
     </message>
     <message>
       <source>Status</source>
@@ -4667,7 +4719,7 @@
     </message>
     <message>
       <source>Pending chat</source>
-      <translation>Pendienteko chatak/translation>
+      <translation>Pendienteko txata</translation>
     </message>
     <message>
       <source>Operator</source>
@@ -4683,110 +4735,138 @@
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Chat aktiboak</translation>
+      <translation>Txata aktiboak</translation>
     </message>
     <message>
       <source>Sort by active chats number</source>
-      <translation>Oredatu aktiboko chaten menpe</translation>
+      <translation>Ordenatu aktibo dauden txat kantiateren menpe</translation>
     </message>
     <message>
       <source>Sort</source>
-      <translation>Ordenar</translation>
+      <translation>Ordenatu</translation>
     </message>
     <message>
       <source>Wait time</source>
-      <translation>Itxoiteko denbora</translation>
+      <translation>Itxaron denbora</translation>
     </message>
     <message>
       <source>Redirect user to contact form.</source>
-      <translation>Bideratu erabiltzailea kontaktu formulariora.</translation>
+      <translation>Eraman erabiltzailea kontaktu formulariora.</translation>
     </message>
     <message>
       <source>Are you sure?</source>
-      <translation>Seguru zauede?</translation>
+      <translation>Seguru zaude?</translation>
     </message>
     <message>
       <source>Time ago</source>
-      <translation>Aspaldi</translation>
+      <translation>Duela asko</translation>
+    </message>
+    <message>
+      <source>Bot chats will appear here.</source>
+      <translation>Hen agertuko dira bot txatak</translation>
     </message>
     <message>
       <source>Please enable bot chats list in your account!</source>
-      <translation>Por favor habilita la lista de chats bot en tu cuenta!</translation>
+      <translation>Mesedez, aktibatu bot txat zerrenda zure kontuan!</translation>
     </message>
     <message>
       <source>Sort by close time</source>
-      <translation>Ordenar por tiempo de cierre</translation>
+      <translation>Ordenatu ixketa denboraren menpe</translation>
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Chats pendientes</translation>
+      <translation>Pendienteko Chatak</translation>
+    </message>
+    <message>
+      <source>Chats assigned to you will appear here. List includes pending and active chats.</source>
+      <translation>Asignatutako chatak hemen agertuko dira. Zerrenda pendienteko eta txat aktiboak agertzen dira</translation>
+    </message>
+    <message>
+      <source>You will see short list of your site visitors here.</source>
+      <translation>Hemen zure bisitanteen zerrenda ikusiko duzu</translation>
     </message>
     <message>
       <source>Delete chat</source>
-      <translation>Borratu chata</translation>
+      <translation>Borratu txata</translation>
+    </message>
+    <message>
+      <source>All pending chats will appear here.</source>
+      <translation>Pendiente dauden txatak hemen agertuko dira</translation>
     </message>
     <message>
       <source>Created</source>
       <translation>Sortua</translation>
     </message>
     <message>
+      <source>Transferred chats to you will appear here.</source>
+      <translation>Transferitutako txatak hemen agertuko dira.</translation>
+    </message>
+    <message>
       <source>Transfer time</source>
       <translation>Transferentzia denbora</translation>
+    </message>
+    <message>
+      <source>Transferred chats to your department will appear here.</source>
+      <translation>Zure departamentura transferitutako txatak hemen agetuko dira.</translation>
+    </message>
+    <message>
+      <source>Transferred chats to you or your department will appear here.</source>
+      <translation> Zurentzat edo zure departamentura trasnferitutako txatak hemen agertuko dira</translation>
     </message>
   </context>
   <context>
     <name>chat/translation</name>
     <message>
       <source>Visitor language</source>
-      <translation>Bisitantearen hizkuntza</translation>
+      <translation>Idioma del visitante</translation>
     </message>
     <message>
       <source>My language</source>
-      <translation>Nire izkuntza</translation>
+      <translation>Mi idioma</translation>
     </message>
     <message>
       <source>Auto translate</source>
-      <translation>Auto itzuli</translation>
+      <translation>Auto traducir</translation>
     </message>
     <message>
       <source>Translating</source>
-      <translation>Itzultzen</translation>
+      <translation>Traduciendo</translation>
     </message>
     <message>
       <source>Automatically detected</source>
-      <translation>Automatikoki detektatua</translation>
+      <translation>Detectado automáticamente</translation>
     </message>
     <message>
       <source>Automatic translation</source>
-      <translation>Itzulketa automatikoa</translation>
+      <translation>Traducción automática</translation>
     </message>
     <message>
       <source>Translation settings</source>
-      <translation>Itzulketa ezarpenak</translation>
+      <translation>Ajustes de traducción</translation>
     </message>
     <message>
       <source>Enter text for testing purposes</source>
-      <translation>Idatzi testu bat proba moduan</translation>
+      <translation>Escribe un texto a modo de prueba</translation>
     </message>
     <message>
       <source>Translated text</source>
-      <translation>Itzulitako testua</translation>
+      <translation>Texto traducido</translation>
     </message>
     <message>
       <source>Detected language</source>
-      <translation>Detektatutako hizkuntza </translation>
+      <translation>Idioma detectado</translation>
     </message>
     <message>
       <source>Detect language</source>
-      <translation>Detektatu hizkuntza</translation>
+      <translation>Detectar Idioma</translation>
     </message>
     <message>
       <source>Translate</source>
-      <translation>Itzuli</translation>
+      <translation>Traducir</translation>
     </message>
     <message>
       <source>Enable translation service</source>
-      <translation>Aktibatu itzulketa zerbitzua</translation>
+      <translation>Habilitar el servicio de traducción</translation>
     </message>
     <message>
       <source>Bing</source>
@@ -4798,75 +4878,75 @@
     </message>
     <message>
       <source>Use Bing service</source>
-      <translation>Erabili Bing zerbitzua</translation>
+      <translation>Usar el servicio de Bing</translation>
     </message>
     <message>
       <source>Bing client ID</source>
-      <translation>Bing klientearen IDa</translation>
+      <translation>ID de cliente de Bing</translation>
     </message>
     <message>
       <source>Bing client secret, key is never shown for security purposes</source>
-      <translation>Bing kilientearen giltza sekretua, seguritatea dela eta giltza ez da inoiz erakusten</translation>
+      <translation>Cliente secreto de Bing, la clave nunca se muestra por motivos de seguridad</translation>
     </message>
     <message>
       <source>Bing access token expires</source>
-      <translation>Bingen token sarbidearen expirazioa</translation>
+      <translation>Vencimiento de token de acceso de Bing</translation>
     </message>
     <message>
       <source>Use Google service</source>
-      <translation>Erabili Google zerbitzua</translation>
+      <translation>Usar el servicio de Google</translation>
     </message>
     <message>
       <source>API key, key is never shown for security purposes</source>
-      <translation>API giltza, sekuritatea dela eta giltza ez da inoiz erakusten</translation>
+      <translation>Clave API, la clave nunca se muestra por motivos de seguridad</translation>
     </message>
     <message>
       <source>Set referrer, usefull if want to limit calls to specific referrer.</source>
-      <translation>Ezarri erreferentzia, erabilgarria erreferentzia batentzako deiak limitatzeko.</translation>
+      <translation>Establecer referencia, útil si desea limitar las llamadas a una referencia específica.</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Ezarpenak eguneratuak</translation>
+      <translation>Configuración actualizada</translation>
     </message>
     <message>
       <source>Missing text to translate</source>
-      <translation>Itzultzako testua falta da</translation>
+      <translation>Falta texto para traducir</translation>
     </message>
     <message>
       <source>Could not detect a language</source>
-      <translation>Ezin izan da hizkuntza detektatu</translation>
+      <translation>No se pudo detectar el idioma</translation>
     </message>
     <message>
       <source>Could not translate</source>
-      <translation>Ezin izan da itzuli</translation>
+      <translation>No se pudo traducir</translation>
     </message>
     <message>
       <source>Could not detect language</source>
-      <translation>Ezin izan da hizkuntza detektatu</translation>
+      <translation>No se pudo detectar el idioma</translation>
     </message>
     <message>
       <source>We could not detect operator language</source>
-      <translation>Ezin izan dugu operadorearen hizkuntza detektatu.</translation>
+      <translation>No pudimos detectar el lenguaje del operador.</translation>
     </message>
     <message>
       <source>Detected operator and visitor languages matches, please choose languages manually</source>
-      <translation>Operadorea eta bisitantearen hizkuntzak koinziditzen dute, aukeratu hizkuntzak eskuz</translation>
+      <translation>Coincidencias de idiomas detectados por el operador y el visitante, elija los idiomas manualmente</translation>
     </message>
     <message>
       <source>Translation configuration</source>
-      <translation>Itzulpenaren ezarpenak</translation>
+      <translation>Itzulketa ezarpena</translation>
     </message>
     <message>
       <source>Chat messages automatic translations has been stopped</source>
-      <translation>Txaten mezuen itzulpen automatikoak gelditu dira</translation>
+      <translation>Las conversaciones automáticas de mensajes de chat se han detenido</translation>
     </message>
     <message>
       <source>Messages has been translated</source>
-      <translation>Mezuak itzuliak izan dira</translation>
+      <translation>Los mensajes han sido traducidos</translation>
     </message>
     <message>
       <source>Please choose translation languages manually and click Auto translate</source>
-      <translation>Mesedez, aukeratu itzultzeko hizkuntzak eskuz eta sakatu Auto Itzuli</translation>
+      <translation>Por favor, elija los idiomas de traducción manualmente y haga clic en Auto traducir</translation>
     </message>
   </context>
   <context>
@@ -4877,34 +4957,34 @@
     </message>
     <message>
       <source>Delete file</source>
-      <translation>Boratu artxioa</translation>
+      <translation>Borrar archivo</translation>
     </message>
     <message>
       <source>Sent by Customer</source>
-      <translation>Bezeroa bidalia</translation>
+      <translation>Enviado por el Cliente</translation>
     </message>
     <message>
       <source>Sent by Operator</source>
-      <translation>Operadorea bidalia</translation>
+      <translation>Enviado por el Operador</translation>
     </message>
     <message>
       <source>Drop your files here.</source>
-      <translation>Eraman hona zure artxiboak</translation>
+      <translation>Coloca tus archivos aquí.</translation>
     </message>
     <message>
       <source>Not an accepted file type</source>
-      <translation>Ez da baimendutako artxiboa</translation>
+      <translation>No es un tipo de archivo aceptado</translation>
     </message>
     <message>
       <source>Filesize is too big</source>
-      <translation>Artxiboaren tamaina oso haundia da</translation>
+      <translation>El tamaño del archivo es muy grande</translation>
     </message>
   </context>
   <context>
     <name>chat/screenshot</name>
     <message>
       <source>Take user screenshot</source>
-      <translation>Kapturatu erabiltzailearen pantaila</translation>
+      <translation>Capturar pantalla del usuario</translation>
     </message>
     <message>
       <source>Refresh</source>
@@ -4912,93 +4992,93 @@
     </message>
     <message>
       <source>Taken</source>
-      <translation>Eginda</translation>
+      <translation>Tomada</translation>
     </message>
     <message>
       <source>Empty...</source>
-      <translation>Hutsik...</translation>
+      <translation>Vacío...</translation>
     </message>
     <message>
       <source>Perhaps screenshot is under way or screenshot is not supported on client browser, click refresh to check for a screenshot</source>
-      <translation>Agian kaptura bidean da edo ez da klientearen nabigatzailean soportatzen, egin clik orria eguneratzeko eta kaptura bilatzeko</translation>
+      <translation>Quizas la captura de pantalla está en camino o no es soportado por el navegador del cliente, presione actualizar para revisar por imagenes</translation>
     </message>
     <message>
       <source>Screenshot</source>
-      <translation>Pantaila</translation>
+      <translation>Pantalla</translation>
     </message>
     <message>
       <source>Screenshot store error</source>
-      <translation>Pantailaren argazkia gordetzeko errorea</translation>
+      <translation>Error de guardado de captura de pantalla </translation>
     </message>
     <message>
       <source>Screenshot ready...</source>
-      <translation>Kaptura...</translation>
+      <translation>Captura de pantalla lista...</translation>
     </message>
   </context>
   <context>
     <name>chat/chatpreview</name>
     <message>
       <source>Chat preview</source>
-      <translation>Txataren aurreikusketa</translation>
+      <translation>Vista previa del chat</translation>
     </message>
     <message>
       <source>Send chat</source>
-      <translation>Bidali chata</translation>
+      <translation>Enviar chat</translation>
     </message>
   </context>
   <context>
     <name>front/default</name>
     <message>
       <source>Pending confirm</source>
-      <translation>Konfirmazioa itxoiten</translation>
+      <translation>Konfiramzioa itxoiten</translation>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Chat actiboak</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Unread messages</source>
-      <translation>Irakurri gabeko mezuak</translation>
+      <translation>Mensajes no leídos</translation>
     </message>
     <message>
       <source>Closed chats</source>
-      <translation>Itxitako chatak</translation>
+      <translation>Chats cerrados</translation>
     </message>
     <message>
       <source>All pending chats</source>
-      <translation>Pendiente dauden chat guztiak</translation>
+      <translation>Pendiente dauden txat guztiak</translation>
     </message>
     <message>
       <source>All active chats</source>
-      <translation>Aktibo dauden chat guztiak</translation>
+      <translation>Aktibo dauden txat guztiak</translation>
     </message>
     <message>
       <source>All unread chats</source>
-      <translation>Irakurri gabeko chat guztiak</translation>
+      <translation>Irakurri gabeko txat guztiak</translation>
     </message>
     <message>
       <source>All closed chats</source>
-      <translation>Itxitako txat guztiak</translation>
+      <translation>Itxita dauden txat guztiak</translation>
     </message>
     <message>
       <source>You do not have permission to use chattabschrome function</source>
-      <translation>Ez daukazuu chattabschrome erabiltzeko baimenik</translation>
+      <translation>No tienes permiso para usar la función chattabschrome</translation>
     </message>
     <message>
       <source>Please</source>
-      <translation>Mesedez</translation>
+      <translation>Por favor</translation>
     </message>
     <message>
       <source>login first.</source>
-      <translation>lehen hasi saioa</translation>
+      <translation>inicia sesión</translation>
     </message>
     <message>
       <source>Online operators</source>
-      <translation>Online dauden operadoreak</translation>
+      <translation>Operadores en línea</translation>
     </message>
     <message>
       <source>Open last 10 my active chats</source>
-      <translation>Ireki nire azkeneko 10 txat aktiboak</translation>
+      <translation>Abrir mis 10 últimos chats activos</translation>
     </message>
     <message>
       <source>Open my active chats</source>
@@ -5006,7 +5086,7 @@
     </message>
     <message>
       <source>Last 10 your active chats will be always visible</source>
-      <translation>Zure azkeneko 10 txat aktiboak beti ikusiko dira.</translation>
+      <translation>Tus últimos 10 chats activos estarán siempre visibles.</translation>
     </message>
     <message>
       <source>Keep my active chats</source>
@@ -5014,11 +5094,11 @@
     </message>
     <message>
       <source>Hide nicknames for offline chats</source>
-      <translation>Ezkutatu ezaktibo dauden txatin ezizenak</translation>
+      <translation>Konexio gabeko txatetan ezizenak ezkutatu</translation>
     </message>
     <message>
       <source>Mail settings</source>
-      <translation>Emailen ezarpenak</translation>
+      <translation>Mailaren ezarpenak</translation>
     </message>
     <message>
       <source>SMTP</source>
@@ -5026,73 +5106,73 @@
     </message>
     <message>
       <source>Expand or collapse right menu</source>
-      <translation>Expanditu edo kolapsatu eskuineko menua</translation>
+      <translation>Expandir o contraer el menú de la derecha</translation>
     </message>
   </context>
   <context>
     <name>chat/checkchatstatus</name>
     <message>
       <source>You are talking with our bot now.</source>
-      <translation>Orain gure botarekin hitz egiten ari zara.</translation>
+      <translation>Bot batekin hitz egiten ari zara.</translation>
     </message>
     <message>
       <source>A support staff member has closed this chat</source>
-      <translation>Gure laguntza departamentuko langilea chata itxi du</translation>
+      <translation>Departamentuko langile batek txata hau itxi du</translation>
     </message>
     <message>
       <source>A support staff member has joined this chat</source>
-      <translation>Gure operadorea txatera batu da</translation>
+      <translation>Operadorea txatera sartu da</translation>
     </message>
     <message>
       <source>At this moment there are no logged in support staff members, but you can leave your messages</source>
-      <translation>Ez daogo online dagoen operadorerik, mezuak uzten jarrai dezakezu</translation>
+      <translation>Ez dago operadorerik online, itxoiten duzun bitartean mezuak utz ditzakezu</translation>
     </message>
     <message>
       <source>Pending a support staff member to join, you can write your questions, and as soon as a support staff member confirms this chat, he will get your messages</source>
-      <translation>Gure laguntza operadorea itxoiten, idazten jarrai dezakezu eta operadorea batzen denean erantzungo dizu...</translation>
+      <translation>Operadore bati itxoiten, idazten jarrai dezakezu eta operadorea sartzen denean erantzungo ditu...</translation>
     </message>
     <message>
       <source>You have been transferred. Please wait for operator to join a chat...</source>
-      <translation>Transferitua izan zara. Itxoin operadorea txatera sarten den bitartean..</translation>
+      <translation>Tranferitua izan zara. Itxoin operadore berria sartzen den arte...</translation>
     </message>
     <message>
       <source>You are number</source>
-      <translation>Zu</translation>
+      <translation></translation>
     </message>
     <message>
       <source>in the queue. Please wait...</source>
-      <translation>. zenbakia zara ilaran. Itxoin mesedez...</translation>
+      <translation>. zenbakia zaude ilaran. Mesedez itxoin...</translation>
     </message>
     <message>
       <source>Chat status if customer is chatting with a bot</source>
-      <translation>Txataren egorea bot batekin txateatzen ari bada</translation>
+      <translation>Estado de chat si el cliente está chateando con un robot</translation>
     </message>
     <message>
       <source>Pending a support staff member to join, you can write your questions, and as soon as a support staff member confirms this chat, they will get your messages</source>
-      <translation>Itxoiten laguntza operadore bat sartzen den bitartean, idazten jarrai dezakezu eta operadorea sartzen denean erantzungo dizu...</translation>
+      <translation>Esperando mientras un miembro de soporte se une al chat, puede escribir sus preguntas y en cuanto un miembro de soporte se una a este chat le serán respondidas...</translation>
     </message>
     <message>
       <source>You are number {number} in the queue. Please wait...</source>
-      <translation>{number}. zenbakia zara ilaran. Itxaron mesedez...</translation>
+      <translation>Eres el número {number} en la cola. Por favor espere...</translation>
     </message>
     <message>
       <source>Type your message here and hit enter to send...</source>
-      <translation>Idatzi hemen mezua eta sakatu intro bidaltzeko...</translation>
+      <translation>Escriba el mensaje aquí y presione enter para enviar...</translation>
     </message>
     <message>
       <source>Visitor has been redirected to contact form</source>
-      <translation>Bisitantea kontaktu formulariora eraman</translation>
+      <translation>El visitante se ha redirigido al formulario de contacto</translation>
     </message>
   </context>
   <context>
     <name>chat/part/operator_profile</name>
     <message>
       <source>Subscribe/Unsubscribe for notifications</source>
-      <translation>Harripedatu/kendu harripedapena notifikazioetara</translation>
+      <translation>Suscribirse/Cancelar suscripción para las notificaciones</translation>
     </message>
     <message>
       <source>Skype call</source>
-      <translation>Skype deia</translation>
+      <translation>Llamada Skype</translation>
     </message>
     <message>
       <source>Switch To Human</source>
@@ -5103,23 +5183,23 @@
     <name>chat/user_settings</name>
     <message>
       <source>End the chat</source>
-      <translation>Chata bukatu</translation>
+      <translation>Fin del chat</translation>
     </message>
     <message>
       <source>Enable/Disable sound about new messages from the operator</source>
-      <translation>Aktibatu / Desaktibatu operadoreen mezu berrien soinuak</translation>
+      <translation>Aktibatu / Desaktibatu operadorearen mezu berrien soinuad</translation>
     </message>
     <message>
       <source>Print</source>
-      <translation>Imprimatu</translation>
+      <translation>Inprimatu</translation>
     </message>
     <message>
       <source>Send chat transcript to your e-mail</source>
-      <translation>>Bidali transkripzioa zure emailera</translation>
+      <translation>Bidali transkripzioa zure emailera</translation>
     </message>
     <message>
       <source>Change my visibility to visible/invisible</source>
-      <translation>Aldatu nire ikusiera ikusia/inbisible egoerara</translation>
+      <translation>Aldatu nire ikuspena ikusgai/ez ikusgai</translation>
     </message>
     <message>
       <source>Change my status to online/offline</source>
@@ -5131,50 +5211,50 @@
     </message>
     <message>
       <source>Enable/Disable sound about new pending chats</source>
-      <translation>Aktibatu / Desaktibatu pendiente dauden chat berrien soinua</translation>
+      <translation>Aktibatu / Desaktibatu pendiente dauden txaten soinua</translation>
     </message>
   </context>
   <context>
     <name>chat/dashboardwidgets</name>
     <message>
       <source>Choose what widgets you want to see</source>
-      <translation>Aukeratu ikusi nahi dituzun widgetak</translation>
+      <translation>Elige qué widgets quieres ver</translation>
     </message>
     <message>
       <source>Column number</source>
-      <translation>Zutabe zenbakia</translation>
+      <translation>Número de columna</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Ezarpenak eguneratuak</translation>
+      <translation>Ezarpenak eguneratua</translation>
     </message>
     <message>
       <source>Online operators</source>
-      <translation>Online dauden operadoreak</translation>
+      <translation>Operadores en línea</translation>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Aktibo dauden chatak</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Online visitors</source>
-      <translation>Online dauden bisitariak</translation>
+      <translation>Visitantes en línea</translation>
     </message>
     <message>
       <source>Departments stats</source>
-      <translation>Departamentuen estatistikak</translation>
+      <translation>Estadísticas de Departamentos </translation>
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Pendiente dauden chatak</translation>
+      <translation>Pendienteko txatak</translation>
     </message>
     <message>
       <source>Transfered chats</source>
-      <translation>Transferitutako chatak</translation>
+      <translation>Chats transferidos</translation>
     </message>
     <message>
       <source>Unread chats</source>
-      <translation>Irakurri gabeko chatak</translation>
+      <translation>Irakurri gabeko txat guztiak</translation>
     </message>
     <message>
       <source>Closed chats</source>
@@ -5182,26 +5262,26 @@
     </message>
     <message>
       <source>My active and pending chats</source>
-      <translation>Nore aktibo eta pendienteko chatak</translation>
+      <translation>Mis chats activos y pendientes</translation>
     </message>
     <message>
       <source>Bot chats</source>
-      <translation>Boten chatak</translation>
+      <translation>Chats de bots</translation>
     </message>
   </context>
   <context>
     <name>chat/editchatconfig</name>
     <message>
       <source>Edit</source>
-      <translation>Editatu</translation>
+      <translation>Editar</translation>
     </message>
     <message>
       <source>Value in</source>
-      <translation>Baloarea</translation>
+      <translation>Valor en</translation>
     </message>
     <message>
       <source>site access</source>
-      <translation>lekuaren sarbidean</translation>
+      <translation>acceso al sitio</translation>
     </message>
     <message>
       <source>Update</source>
@@ -5209,47 +5289,48 @@
     </message>
     <message>
       <source>Data updated</source>
-      <translation>Datuak Eguneratuak</translation>
+      <translation>Datos Actualizados</translation>
     </message>
   </context>
   <context>
     <name>chat/editnick</name>
     <message>
       <source>Your information</source>
-      <translation>Zure informazioa</translation>
+      <translation>Su información</translation>
     </message>
     <message>
       <source>Updated!</source>
-      <translation>Eguneratua!</translation>
+      <translation>¡Actualizado!</translation>
+    </message>
   </context>
   <context>
     <name>chat/errors/adminchatnopermission</name>
     <message>
       <source>You do not have permission to access the current chat or chat was merged/deleted!</source>
-      <translation>Ez daukazu chatan sartzeko baimenik edo chata borratua/fusionatua izan da!</translation>
+      <translation>Usted no tiene permiso para ver este chat o el chat ha sido eliminado/fusionado!</translation>
     </message>
   </context>
   <context>
     <name>chat/syncuser</name>
     <message>
       <source>Support staff member has closed this chat</source>
-      <translation>Launtza operadorea chata itxi du</translation>
+      <translation>Miembro del personal de soporte ha cerrado este chat</translation>
     </message>
     <message>
       <source>Read more</source>
-      <translation>Irakurri gehiago</translation>
+      <translation>Leer más</translation>
     </message>
     <message>
       <source>Edit nick</source>
-      <translation>Editatu ezizena</translation>
+      <translation>Editar seudónimo</translation>
     </message>
     <message>
       <source>Typing...</source>
-      <translation>Idazten...</translation>
+      <translation>Escribiendo...</translation>
     </message>
     <message>
       <source>Transferred to</source>
-      <translation>Tranferitu zaio</translate>
+      <translation type="unfinished"/>
     </message>
     <message>
       <source>as no operators online in</source>
@@ -5257,56 +5338,56 @@
     </message>
     <message>
       <source>Chat was automatically transferred to</source>
-      <translation>Txata automatikoki transferitu zaio</translation>
+      <translation>El chat fue transferido automáticamente a</translation>
     </message>
     <message>
       <source>from</source>
-      <translation>Noren </translation>
+      <translation>De</translation>
     </message>
     <message>
       <source>Chat was automatically closed by cron</source>
-      <translation>Chata cronen bidez automatikoki itxi da</translation>
+      <translation>El chat ha sido automáticamente cerrado por el cron</translation>
     </message>
     <message>
       <source>Support has closed the chat window, but You can leave messages, and the administrator will read them later.</source>
-      <translation>Laguntza departamentua lehioa itxi du, hala ere mezuak utz dezakezu eta kudeatzaileak mezuak irakurriko ditu.</translation>
+      <translation>El departamento de soporte ha cerrado la ventana de chat, pero  puede dejar mensajes, y el administrador los leerá más tarde.</translation>
     </message>
     <message>
       <source>You do not have permission to view this chat, or the chat was deleted</source>
-      <translation>Ez daukazu chata ikusteko baimenik edo borratu da</translation>
+      <translation>Usted no tiene permiso para ver este chat o el chat ha sido eliminado</translation>
     </message>
   </context>
   <context>
     <name>chat/chatnotexists</name>
     <message>
       <source>Chat was deleted</source>
-      <translation>Chata borratua izan da</translation>
+      <translation>El chat ha sido eliminado</translation>
     </message>
     <message>
       <source>Survey not exist please check embed code options</source>
-      <translation>Inkesta ez da existitzen, insertatzeko kodearen ezarpenak berikusi</translation>
+      <translation>La encuesta no existe, por favor verifique las opciones de código de inserción</translation>
     </message>
     <message>
       <source>Resume chat</source>
-      <translation>Chata erreadunatu</translation>
+      <translation>Reanudar el chat</translation>
     </message>
   </context>
   <context>
     <name>chat/errors/entertext</name>
     <message>
       <source>Please enter text!</source>
-      <translation>Saru textua mesedez!</translation>
+      <translation>¡Por favor, introduzca el texto!</translation>
     </message>
   </context>
   <context>
     <name>system/xmpp</name>
     <message>
       <source>Geo adjustments active</source>
-      <translation>Geo ezarpenak aktiboak</translation>
+      <translation>Ajustes Geo activados</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Ezarpena eguneratuak</translation>
+      <translation>Ezarpenak eguneratuak</translation>
     </message>
     <message>
       <source>XMPP settings</source>
@@ -5314,15 +5395,15 @@
     </message>
     <message>
       <source>XMPP active</source>
-      <translation>XMPP aktibatuta dago</translation>
+      <translation>XMPP activo</translation>
     </message>
     <message>
       <source>XMPP Message content</source>
-      <translation>XMPP mezuaren edukia</translation>
+      <translation>Contenido del mensaje XMPP</translation>
     </message>
     <message>
       <source>XMPP Message about accepted chat</source>
-      <translation> XMPP mezua baimenduko txatari buruz</translation>
+      <translation>Mensaje XMPP acerca del chat aceptado</translation>
     </message>
     <message>
       <source>XMPP</source>
@@ -5334,7 +5415,7 @@
     </message>
     <message>
       <source>Use standard XMPP service</source>
-      <translation>Erabili XMPP zebitzu estandarra</translation>
+      <translation>Usar servicio XMPP estandar</translation>
     </message>
     <message>
       <source>Host</source>
@@ -5342,7 +5423,7 @@
     </message>
     <message>
       <source>Port</source>
-      <translation>Portua</translation>
+      <translation>Puerto</translation>
     </message>
     <message>
       <source>Login</source>
@@ -5350,118 +5431,118 @@
     </message>
     <message>
       <source>Password</source>
-      <translation>Pasahitza</translation>
+      <translation>Contraseña</translation>
     </message>
     <message>
       <source>Resource</source>
-      <translation>Errekurtsoa</translation>
+      <translation>Recurso</translation>
     </message>
     <message>
       <source>Server</source>
-      <translation>Zerbitzaria</translation>
+      <translation>Servidor</translation>
     </message>
     <message>
       <source>Recipients</source>
-      <translation>Jasotzailea</translation>
+      <translation>Destinatarios</translation>
     </message>
     <message>
       <source>Default recipients</source>
-      <translation>Preezarritako jasotzailea</translation>
+      <translation>Destinatarios predeterminados</translation>
     </message>
     <message>
       <source>Test recipients</source>
-      <translation>Proben jasotzaileak</translation>
+      <translation>Destinatarios de prueba</translation>
     </message>
     <message>
       <source>Individual recipients</source>
-      <translation>Bakrkako jasotzaileak</translation>
+      <translation>Destinatarios individuales</translation>
     </message>
     <message>
       <source>Test group recipients</source>
-      <translation>Proba taldeen jasotzailea</translation>
+      <translation>Grupo destinatarios de prueba</translation>
     </message>
     <message>
       <source>Test message will be send to your account e-mail</source>
-      <translation>Zure kontuko emailera bidaliko da test mezua</translation>
+      <translation>Se enviará un mensaje de prueba al e-mail de tu cuenta</translation>
     </message>
     <message>
       <source>Use GTalk for messaging</source>
-      <translation>Usar GTalk mezua bidaltzeko</translation>
+      <translation>Usar GTalk para enviar mensajes</translation>
     </message>
     <message>
       <source>Information for your google app</source>
-      <translation>Informazioa zure goole apperako</translation>
+      <translation>Información para tu google app</translation>
     </message>
     <message>
       <source>Redirect URL, this url you will have to enter in your google app configuration</source>
-      <translation>Url erredirekzioa,  google appen jarri beharko duzu ezarpena</translation>
+      <translation>Redirección URL, tendrás que introducir esta url en la configuración de google app</translation>
     </message>
     <message>
       <source>Enter your app information bellow</source>
-      <translation>Sartu zure apparen informazioa behean</translation>
+      <translation>Introduzce a continuación la información de tu app</translation>
     </message>
     <message>
       <source>OAuth 2.0 Client ID</source>
-      <translation>OAuth 2.0 klientearen ID</translation>
+      <translation>ID Cliente OAuth 2.0</translation>
     </message>
     <message>
       <source>Please enter your Client ID</source>
-      <translation>Sartu zure Klientearen ID</translation>
+      <translation>Por favor, introduzca su ID de Cliente</translation>
     </message>
     <message>
       <source>Client secret</source>
-      <translation>Kliente sekretua</translation>
+      <translation>Cliente secreto</translation>
     </message>
     <message>
       <source>Please enter to what gmail address test message should be send?</source>
-      <translation>Sartu mesez ze gmail helbidera bidaliko den test mezua</translation>
+      <translation>Por favor, ingrese a qué dirección de gmail se debe enviar el mensaje de prueba?</translation>
     </message>
     <message>
       <source>This message will be send to test e-mail</source>
-      <translation>Mezu hau proba helbidera bidaliko da</translation>
+      <translation>Este mensaje será enviado  al correo electrónico de prueba</translation>
     </message>
     <message>
       <source>Send test message</source>
-      <translation>Bidali test mezura</translation>
+      <translation>Enviar mensaje de prueba</translation>
     </message>
     <message>
       <source>Revoke access token</source>
-      <translation>Kendu token baimena</translation>
+      <translation>Revocar token de acceso</translation>
     </message>
     <message>
       <source>Revoke permission to send a message</source>
-      <translation>Kendu bidaltzko baimena</translation>
+      <translation>Revocar permisos para enviar mensajes</translation>
     </message>
     <message>
       <source>Authentificate and grant permission to send a message</source>
-      <translation>Autentifiacatu eta eman mezua bidaltzeko baimena</translation>
+      <translation>Auntenticar y otorgar permisos para enviar un mensaje</translation>
     </message>
     <message>
       <source>Grant permission to send a message</source>
-      <translation>Mezua bidaltzeko baimena heman</translation>
+      <translation>Otorgar permisos para enviar un mensaje</translation>
     </message>
     <message>
       <source>Succesfully authorised, now you can try to send a message</source>
-      <translation>Baimena eman da, orain mezua bidali dezakezu</translation>
+      <translation>Auntorización satisfactoria, ahora puedes probar a enviar un mensaje</translation>
     </message>
     <message>
       <source>Token was revoked</source>
-      <translation>Token baimena kendu da</translation>
+      <translation>El Token fue revocado</translation>
     </message>
     <message>
       <source>XMPP message was sent succesfuly</source>
-      <translation>XMPP mezua arrakastarekin bidali da</translation>
+      <translation>Mensaje XMPP enviado correctamente</translation>
     </message>
     <message>
       <source>Invalid test e-mail address</source>
-      <translation>Test emaila ez da bailiogarria</translation>
+      <translation>Dirección de email de prueba invalida </translation>
     </message>
   </context>
   <context>
     <name>chat/geoadjustment</name>
     <message>
       <source>Apply to chat widget status indicator these rules also? performance decrease is associated with this option</source>
-      <translation>Aplikatu chat widgetaren chat egoeran erregela hau? Errendimendua jaitsiko da</translation>
+      <translation>¿Aplicar estas reglas también al indicador de estado del widget de chat? el rendimiento será reducido si se asocia con esta opción</translation>
     </message>
     <message>
       <source>Make chat status normal for these countries, countries can be separated by comma &quot;de,gb,us,fr&quot; means chat would be shown as usual only for these countries.</source>
@@ -5469,62 +5550,62 @@
     </message>
     <message>
       <source>For</source>
-      <translation>Norentzat</translation>
+      <translation>Para</translation>
     </message>
     <message>
       <source>all</source>
-      <translation>denak</translation>
+      <translation>todos</translation>
     </message>
     <message>
-      <source>pertdona</source>
-      <translation>pertsonalizatua</translation>
+      <source>custom</source>
+      <translation>personalizado</translation>
     </message>
     <message>
       <source>E.g. ar,pl</source>
-      <translation>Ad. ar,pl</translation>
+      <translation>Ej. ar,pl</translation>
     </message>
     <message>
       <source>Other countries, put widget/chat status to</source>
-      <translation>Beste herrialdeetan, erakutsi widget/chataren egorea</translation>
+      <translation>Otros paises, mostrar el estado del widget/chat como</translation>
     </message>
     <message>
       <source>offline status</source>
-      <translation>linea kanpoko egoeran</translation>
+      <translation>estado fuera de línea</translation>
     </message>
     <message>
       <source>hidden/disabled, widget will not be shown</source>
-      <translation>ezkutatua/abilitatu gabe,widgeta ez da erakutsiko </translation>
+      <translation>oculto/deshabilitado, el widget no se mostrará</translation>
     </message>
     <message>
       <source>For unmatched countries put chat status to</source>
-      <translation>Ez aurkitutako beste herrieldararako aldatu egoera</translation>
+      <translation>Para países no encontrados mostrar el estado de chat como</translation>
     </message>
     <message>
       <source>normal status</source>
-      <translation>egorea normala</translation>
+      <translation>estado normal</translation>
     </message>
     <message>
       <source>GEO adjustment</source>
-      <translation>Geo ezarpena</translation>
+      <translation>Geo ezarpenak</translation>
     </message>
   </context>
   <context>
     <name>chat/onlineusers</name>
     <message>
       <source>GEO detection configuration</source>
-      <translation>GEO ezarpenen detekzioa</translation>
+      <translation>Configuracion de GEO Ubicación</translation>
     </message>
     <message>
       <source>Map location</source>
-      <translation>Kokapena mapa</translation>
+      <translation>Ubicación en el mapa</translation>
     </message>
     <message>
       <source>GEO Enabled</source>
-      <translation>GEOa aktibatuta</translation>
+      <translation>GEO Activado</translation>
     </message>
     <message>
       <source>Use this service</source>
-      <translation>Erabili zerbitzu hau</translation>
+      <translation>Utilizar este servicio</translation>
     </message>
     <message>
       <source>API Key</source>
@@ -5532,31 +5613,31 @@
     </message>
     <message>
       <source>Use mod_geoip2</source>
-      <translation>Erabili mod_geoip2?</translation>
+      <translation>Utilizar mod_geoip2</translation>
     </message>
     <message>
       <source>Country code server variable</source>
-      <translation>Herrialdeen kode bariablea zebitzarian</translation>
+      <translation>Variable de servidor de código de país</translation>
     </message>
     <message>
       <source>Country name server variable</source>
-      <translation>Herrialdearen izena, bariablean zerbitzarian</translation>
+      <translation>Nombre del país, variable de servidor</translation>
     </message>
     <message>
       <source>City name server variable</source>
-      <translation>Hiriaren izena zerbitzariaren bariablean </translation>
+      <translation>Nombre de la ciudad, variable de servidor </translation>
     </message>
     <message>
       <source>Region name server variable</source>
-      <translation>Probintziaren izena zerbitzari baribalea</translation>
+      <translation>Variable del nombre de región del servidor</translation>
     </message>
     <message>
       <source>Latitude variable</source>
-      <translation>Latitud bariablea</translation>
+      <translation>Variable de Latitud</translation>
     </message>
     <message>
       <source>Longitude variable</source>
-      <translation>Longitudee baribalea</translation>
+      <translation>Variable de Longitud</translation>
     </message>
     <message>
       <source>Use http://ip-api.com</source>
@@ -5564,59 +5645,59 @@
     </message>
     <message>
       <source>Use MaxMind, does not depend on any third party remote service</source>
-      <translation>Erabili MaxMind, ez du hirugarren zerbiturik erabiltzen</translation>
+      <translation>Usar MaxMind, no depende de ningún servicio remoto de terceros</translation>
     </message>
     <message>
       <source>You can download city/country database from.</source>
-      <translation>Hiri / Herrialdeen basu datua deskarga dezakezu.</translation>
+      <translation>Puedes descargar la base de datos de ciudades / paises.</translation>
     </message>
     <message>
       <source>bcmath php extension detected</source>
-      <translation>bcmath php extensioa detktauta</translation>
+      <translation>extensión bcmath php detectada</translation>
     </message>
     <message>
       <source>Location of city database</source>
-      <translation>Hirien datub basearen lokalizazioa</translation>
+      <translation>Ubicación de la base de datos de ciudad</translation>
     </message>
     <message>
       <source>User country based detection, faster</source>
-      <translation>Erabiltzailearen hiraran detektatua, azkarrago</translation>
+      <translation>País del usuario basado en la detección, más rápido</translation>
     </message>
     <message>
       <source>File exists</source>
-      <translation>Artxiboa existitzen da</translation>
+      <translation>Archivo existente</translation>
     </message>
     <message>
       <source>File does not exists</source>
-      <translation>Artxiboa ez da existitzen</translation>
+      <translation>Archivo no existe</translation>
     </message>
     <message>
       <source>User city based detection, slower</source>
-      <translation>Erabiltzailearen hirian detektatua, motelagoa</translation>
+      <translation>Detección de usuario basado en la ciudad, más lento</translation>
     </message>
     <message>
       <source>Use PHP-GeoIP module</source>
-      <translation> PHP-GeoIP moduloa</translation>
+      <translation>Utilizar módulo PHP-GeoIP</translation>
     </message>
     <message>
       <source>Support for PHP-GeoIP detected</source>
-      <translation>PHP-GeoIP soportea detektatua</translation>
+      <translation>Soporte para PHP-GeoIP detectado</translation>
     </message>
     <message>
       <source>Requests will be comming from</source>
-      <translation>Eskaerak etorriko dira</translation>
+      <translation>Las solicitudes vendrán de</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation>Erabiltzailea</translation>
+      <translation>Usuario</translation>
     </message>
     <message>
       <source>IP, if your site remote IP is different from detected one, please provide correct remote IP address</source>
-      <translation>IP, zure IP erremotoa detektaturiko ezberidana bada, mesedez, sartu IP helbide zuzena</translation>
+      <translation>IP, si tu IP remota es diferente a la detectada, por favor, proporcione la dirección IP correcta</translation>
     </message>
     <message>
       <source>Save</source>
-      <translation>Gorde</translation>
+      <translation>Guardar</translation>
     </message>
     <message>
       <source>Drag a marker where you want to have map centered by default. Zoom is also saved.</source>
@@ -5624,19 +5705,19 @@
     </message>
     <message>
       <source>Google Maps API key, saved automatically. After pasting the key, refresh the page.</source>
-      <translation>Googel Maps API giltza gordeta automatikoki. Itsatsi ondoren eguneratu orria.</translation>
+      <translation>API key de Google Maps guardada automáticamente. Después de pegar la key refresca la página.</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Ezarpenak eguneratuak</translation>
+      <translation>Configuración actualizada</translation>
     </message>
     <message>
       <source>Send message</source>
-      <translation>Bidali mezua</translation>
+      <translation>Enviar mensaje</translation>
     </message>
     <message>
       <source>Chat list</source>
-      <translation>Chaten listak</translation>
+      <translation>Lista de chat</translation>
     </message>
     <message>
       <source>Dashboard</source>
@@ -5644,7 +5725,7 @@
     </message>
     <message>
       <source>City</source>
-      <translation>Hira</translation>
+      <translation>Ciudad</translation>
     </message>
     <message>
       <source>Lat.</source>
@@ -5656,35 +5737,35 @@
     </message>
     <message>
       <source>Time zone</source>
-      <translation>Ordutegi zonaldea</translation>
+      <translation>Zona horaria</translation>
     </message>
     <message>
       <source>Identifier</source>
-      <translation>Identifikatzailea</translation>
+      <translation>Identificador</translation>
     </message>
     <message>
       <source>Nick</source>
-      <translation>Ezizena</translation>
+      <translation>Apodo</translation>
     </message>
     <message>
       <source>Additional information</source>
-      <translation>Informazio gehio</translation>
+      <translation>Información adicional</translation>
     </message>
     <message>
       <source>Last activity</source>
-      <translation>Azkeneko aktibitatea</translation>
+      <translation>Última actividad</translation>
     </message>
     <message>
       <source>ago</source>
-      <translation>duela</translation>
+      <translation>hace</translation>
     </message>
     <message>
       <source>On page</source>
-      <translation>Orrian</translation>
+      <translation>En la página</translation>
     </message>
     <message>
       <source>Yes</source>
-      <translation>Bai</translation>
+      <translation>Si</translation>
     </message>
     <message>
       <source>No</source>
@@ -5692,67 +5773,67 @@
     </message>
     <message>
       <source>User does not have any message from operator</source>
-      <translation>Erabiltzaileak ez du operadorearen mezurik</translation>
+      <translation>El usuario no tiene ningún mensaje del operador</translation>
     </message>
     <message>
       <source>User have not seen message from operator, or message window still open.</source>
-      <translation>Erabiltzaileak ez du operadorearen mezua ikusi edo mezuaren lehioa irekita jarraitzen du.</translation>
+      <translation>El usuario no ha visto un mensaje del operador o la ventana del mensaje sigue abierta.</translation>
     </message>
     <message>
       <source>User has seen message from operator.</source>
-      <translation>Erabiltzailea operadorearen mezua ikusi du.</translation>
+      <translation>El usuario ha visto el mensaje del operador.</translation>
     </message>
     <message>
       <source>User is chatting</source>
-      <translation>Erabiltzailea chateatzen dabil</translation>
+      <translation>El usuario tiene un chat activo</translation>
     </message>
     <message>
       <source>User is not having any chat right now</source>
-      <translation>Erabiltzaileak ez du chatarik irekita orain</translation>
+      <translation>El usuario no tiene ningun chat abierto actualmente</translation>
     </message>
     <message>
       <source>Operator</source>
-      <translation>Operadorea</translation>
+      <translation>Operador</translation>
     </message>
     <message>
       <source>has send message to user</source>
-      <translation>erabiltzaileari bidali dio mezua</translation>
+      <translation>ha enviado un mensaje al usuario</translation>
     </message>
     <message>
       <source>No one has send any message to user yet</source>
-      <translation>Oraindik ez zaio mezurik bidali erabiltzaileari</translation>
+      <translation>Todavia no se han enviado mensajes al usuario</translation>
     </message>
     <message>
       <source>First visit</source>
-      <translation>Lehengo bisita</translation>
+      <translation>Primera visita</translation>
     </message>
     <message>
       <source>Last visit</source>
-      <translation>Azkeneko bisita</translation>
+      <translation>Última visita</translation>
     </message>
     <message>
       <source>Total visits</source>
-      <translation>Bisita kantitatea</translation>
+      <translation>Total de visitas</translation>
     </message>
     <message>
       <source>time(s) invitation logic was applied</source>
-      <translation>gonbidapen logika aplikatu diren aldia(k)</translation>
+      <translation>veces(s) que la logica en invitación fue aplicada</translation>
     </message>
     <message>
       <source>Pageviews</source>
-      <translation>Ikusitako orriak</translation>
+      <translation>Páginas Vistas</translation>
     </message>
     <message>
       <source>Total pageviews</source>
-      <translation>Ikusitako orri kantitatea</translation>
+      <translation>Total de páginas vistas</translation>
     </message>
     <message>
       <source>Time on site</source>
-      <translation>Denbora web orrian</translation>
+      <translation>Tiempo en el sitio</translation>
     </message>
     <message>
       <source>Total time on site</source>
-      <translation>Denbora webgune osoan</translation>
+      <translation>Tiempo total en el sitio</translation>
     </message>
     <message>
       <source>Current page</source>
@@ -5760,39 +5841,39 @@
     </message>
     <message>
       <source>Came from</source>
-      <translation>Etorria</translation>
+      <translation>Vino de</translation>
     </message>
     <message>
       <source>Are you sure?</source>
-      <translation>Seguru zaude?</translation>
+      <translation>¿Está seguro?</translation>
     </message>
     <message>
       <source>Clear list</source>
-      <translation>Borratu lista</translation>
+      <translation>Limpiar lista</translation>
     </message>
     <message>
       <source>User tracking is disabled, enable it at</source>
-      <translation>Erabiltzaile jarraiketa desaktibatuta dago, aktibatu</translation>
+      <translation>El seguimiento de usuario está desactivada, actívelo en</translation>
     </message>
     <message>
-      <source>Chat ezapenetan</source>
-      <translation>Chat ezarpenak</translation>
+      <source>Chat configuration</source>
+      <translation>Configuración del chat</translation>
     </message>
     <message>
       <source>Online visitors list</source>
-      <translation>Online bistarien lista</translation>
+      <translation>Online bisitarien zerrenda</translation>
     </message>
     <message>
       <source>Online visitors on map</source>
-      <translation>Mapan online bisitariak</translation>
+      <translation>Online bisitariak mapan</translation>
     </message>
     <message>
       <source>Enable/Disable sound about new visitor</source>
-      <translation>Aktibatu/desaktibatu bidita berria dagoenean soinu abisua</translation>
+      <translation>Habilitar/deshabilitar el sonido cuando hay una nueva visita</translation>
     </message>
     <message>
       <source>Enable/Disable browser notifications about new visitor</source>
-      <translation>Aktibatu/desktubatu bidita berria dagoenean nabigatzailearen notifikazioa</translation>
+      <translation>Habilitar/deshabilitar notificación del navegador cuando hay una nueva visita</translation>
     </message>
     <message>
       <source>Online visitors</source>
@@ -5804,115 +5885,115 @@
     </message>
     <message>
       <source>Marker timeout before it dissapears from map</source>
-      <translation>Markadorea mapatik desagertzeko behar duen denbora</translation>
+      <translation>Tiempo de espera antes de que el marcador desaparezca del mapa</translation>
     </message>
     <message>
       <source>seconds</source>
-      <translation>segunduak</translation>
+      <translation>segundos</translation>
     </message>
     <message>
       <source>minute</source>
-      <translation>minutua</translation>
+      <translation>minuto</translation>
     </message>
     <message>
       <source>minutes</source>
-      <translation>minutuak</translation>
+      <translation>minutos</translation>
     </message>
     <message>
       <source>online users</source>
-      <translation>erabiltzaileak online</translation>
+      <translation>usuarios en línea</translation>
     </message>
     <message>
       <source>Group list by</source>
-      <translation>Taldekatu lista</translation>
+      <translation>Agrupar lista por</translation>
     </message>
     <message>
       <source>Group by</source>
-      <translation>Taldekatu lista</translation>
+      <translation>Agrupar por</translation>
     </message>
     <message>
       <source>User country</source>
-      <translation>Erabiltzailearen herrialdea</translation>
+      <translation>País del usuario</translation>
     </message>
     <message>
       <source>Page</source>
-      <translation>Orria</translation>
+      <translation>Página</translation>
     </message>
     <message>
       <source>Page title</source>
-      <translation>Orriarren izena</translation>
+      <translation>Título de la página</translation>
     </message>
     <message>
       <source>Referrer</source>
-      <translation>Etorria</translation>
+      <translation>Referido de</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamentua</translation>
+      <translation>Departamento</translation>
     </message>
     <message>
       <source>Refresh list every</source>
-      <translation>Eguneratu orria</translation>
+      <translation>Actualice la lista cada</translation>
     </message>
     <message>
       <source>second</source>
-      <translation>segundu ondoren</translation>
+      <translation>segundo</translation>
     </message>
     <message>
       <source>Show visitors who visited site in the past</source>
-      <translation>Erakutsi pasduan orria ikusitako bisitatzaileei</translation>
+      <translation>Mostrar a los visitantes que visitaron el sitio en el pasado</translation>
     </message>
     <message>
       <source>hour</source>
-      <translation>ordua</translation>
+      <translation>hora</translation>
     </message>
     <message>
       <source>day</source>
-      <translation>eguna</translation>
+      <translation>día</translation>
     </message>
     <message>
       <source>days</source>
-      <translation>egunak</translation>
+      <translation>días</translation>
     </message>
     <message>
       <source>Max records to return</source>
-      <translation>Erakutsi beharreko datu kantitatea</translation>
+      <translation>Cantidad máxima de datos a mostrar</translation>
     </message>
     <message>
       <source>Visitor local time</source>
-      <translation>Bisitantearen ordu lokala</translation>
+      <translation>Hora local del visitante</translation>
     </message>
     <message>
       <source>By user status on site</source>
-      <translation>Erabiltzailearen egorea weborrain</translation>
+      <translation>Por estado del usuario en el sitio</translation>
     </message>
     <message>
       <source>Action</source>
-      <translation>Akzioa</translation>
+      <translation>Acción</translation>
     </message>
     <message>
       <source>User has not seen a message from the operator, or the message window is still open.</source>
-      <translation>Erabiltzailea ezu du operadorearen mezua ikusi, edo mezu lehia irekita dago.</translation>
+      <translation>El usuario no ha visto un mensaje del operador o la ventana del mensaje sigue abierta.</translation>
     </message>
     <message>
       <source>Seen</source>
-      <translation>Ikusia</translation>
+      <translation>Visto</translation>
     </message>
     <message>
       <source>Unseen</source>
-      <translation>Ez ikusia</translation>
+      <translation>No Visto</translation>
     </message>
     <message>
       <source>User has seen the message from the operator.</source>
-      <translation>Erabiltzilea operadorearen mezua ikusi du.</translation>
+      <translation>El usuario ha visto el mensaje del operador.</translation>
     </message>
     <message>
       <source>User does not have any messages from the operator</source>
-      <translation>Erabiltzaileak ezu du operadorearen mezurik ikusi</translation>
+      <translation>El usuario no tiene ningún mensaje del operador</translation>
     </message>
     <message>
       <source>Chat</source>
-      <translation>Chat</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Returning</source>
@@ -5920,43 +6001,43 @@
     </message>
     <message>
       <source>New</source>
-      <translation>Beria</translation>
+      <translation>Nuevo</translation>
     </message>
     <message>
       <source>has sent a message to the user</source>
-      <translation>bidali dio mezua erbailtzaileari</translation>
+      <translation>ha enviado un mensaje al usuario</translation>
     </message>
     <message>
       <source>first visit</source>
-      <translation>lehenengo bisita</translation>
+      <translation>primera visita</translation>
     </message>
     <message>
       <source>last visit</source>
-      <translation>azkeneko bisita</translation>
+      <translation>última visita</translation>
     </message>
     <message>
       <source>From</source>
-      <translation>Noren</translation>
+      <translation>De</translation>
     </message>
     <message>
       <source>+20 (More than 20 seconds spend on site) 20 (Less than 20 seconds spend on site)</source>
-      <translation>+20 (20 segundu baino gehio webgunean) 20 (20 segudu baino gutxuagi weborrian)</translation>
+      <translation>+20 (Más de 20 segundos en el sitio) 20 (Menos de 20 segundos en el sitio)</translation>
     </message>
     <message>
       <source>Files upload for users is active</source>
-      <translation>Erabiltzaileen fitxategien igoera desaktibatuta dago</translation>
+      <translation>La subida de archivos para los usuarios está activa</translation>
     </message>
     <message>
       <source>Files upload for operators is active</source>
-      <translation>Operadoreen fitxategien igoera aktibatuta dago</translation>
+      <translation>La subida de archivos para los operadores está activa</translation>
     </message>
     <message>
       <source>Remove meta information from images</source>
-      <translation>Borratu argazkien meta informazioa</translation>
+      <translation>Eliminar la información meta de las imágenes</translation>
     </message>
     <message>
       <source>Uploaded files from visitors are scanned</source>
-      <translation>Bisitanten fitxategiak eskaneatuak izaten dira</translation>
+      <translation>Los archivos subidos de los visitantes son escaneados</translation>
     </message>
     <message>
       <source>Voice messages for visitors is active</source>
@@ -5968,19 +6049,19 @@
     </message>
     <message>
       <source>Preview chat</source>
-      <translation>Txataren ikusketa azkara</translation>
+      <translation>Vista previa del chat</translation>
     </message>
     <message>
       <source>Visits</source>
-      <translation>Ikusaldiak</translation>
+      <translation>Visitas</translation>
     </message>
     <message>
       <source>Country code variable does not exist!</source>
-      <translation>Herrialdearen kode bariablea ez da existitzen!</translation>
+      <translation>La variable del código de país no existe!</translation>
     </message>
     <message>
       <source>Country name variable does not exist!</source>
-      <translation>Herrialdearen izenaren bariablea ez da existitzen!</translation>
+      <translation>Variable de nombre de país no existe!</translation>
     </message>
     <message>
       <source>Please enter city variable!</source>
@@ -5988,47 +6069,47 @@
     </message>
     <message>
       <source>Please enter latitude variable!</source>
-      <translation>Mesedez, idatzi latitude bariablea</translation>
+      <translation>Por favor, introduzca la latitud</translation>
     </message>
     <message>
       <source>Please enter longitude variable!</source>
-      <translation>Mesedez, idatzi longitude bariablea</translation>
+      <translation>Por favor, introduzca la longitud</translation>
     </message>
     <message>
       <source>Please enter API Key!</source>
-      <translation>Mesedez, sartu API giltza!</translation>
+      <translation>¡Por favor, introduzca la clave de API!</translation>
     </message>
     <message>
       <source>Setting service provider failed, please check that your service provider allows you to make requests to remote pages!</source>
-      <translation>Zebitzua ematen duen ezarpena gaizki dago, konprobatu zerbitzariaren ezarpenak orri erremotoeri eskarak egiteko!</translation>
+      <translation>Los ajustes del proveedor de servicios están incorrectos, ¡por favor compruebe que el proveedor de servicios le permite hacer peticiones a páginas remotas!</translation>
     </message>
     <message>
       <source>MaxMind city file does not exists!</source>
-      <translation>MaxMind hiri fitxategia ez da existitzen!</translation>
+      <translation>¡El Archivo de ciudades de MaxMind no existe!</translation>
     </message>
     <message>
       <source>MaxMind country file does not exists!</source>
-      <translation>MaxMind herrialde fitxategia ez da existitzen!</translation>
+      <translation>¡El Archivo de paises de MaxMind no existe!</translation>
     </message>
     <message>
       <source>Setting service provider failed, please check that MaxMind database files exists!</source>
-      <translation>Zebitzua ematen duen ezarpena gaizki dago, konprobatu MaxMind database fitxategia existitzen den!</translation>
+      <translation>La configuración del proveedor de servicios esta equivocada, ¡por favor revise que el archivo de la base de datos de MaxMind existe!</translation>
     </message>
     <message>
       <source>Please enter the API key!</source>
-      <translation>Idatzi API giltza!</translation>
+      <translation>¡Por favor, introduzca la clave de API!</translation>
     </message>
     <message>
       <source>Please enter the API username!</source>
-      <translation>Idatzi APIaren erabiltzailea!</translation>
+      <translation>¡Por favor, introduzca el nombre de usuario API!</translation>
     </message>
     <message>
       <source>Please enter IP!</source>
-      <translation>Idatzi IPa!</translation>
+      <translation>¡Por favor, introduzca la IP!</translation>
     </message>
     <message>
       <source>Setting service provider failed, please check that your service provider allows you to make requests to remote pages and your API key and username is correct!</source>
-      <translation>Zerbitzariaren datuak gaizki daude, por favor, compruebe que el proveedor de servicios le permite hacer peticiones a páginas remotas y que su API key / usuario son correctos </translation>
+      <translation>Los ajustes del proveedor de servicios estan incorrectos, por favor, compruebe que el proveedor de servicios le permite hacer peticiones a páginas remotas y que su API key / usuario son correctos </translation>
     </message>
     <message>
       <source>Setting service provider failed, please check that your service provider allows you to make requests to remote pages and your API key is correct!</source>
@@ -6040,66 +6121,66 @@
     </message>
     <message>
       <source>Please choose a service provider!</source>
-      <translation>Aukeratu datu zerbitzaria!</translation>
+      <translation>¡Por favor, elija su proveedor de servicios!</translation>
     </message>
     <message>
       <source>Online users</source>
-      <translation>Online erabiltzaileak</translation>
+      <translation>Online dauden erabiltzaileak</translation>
     </message>
   </context>
   <context>
     <name>system/configuration</name>
     <message>
       <source>Request notification permission</source>
-      <translation>Eskatu notifikazio baimena</translation>
+      <translation>Solicitar permiso de notificación</translation>
     </message>
     <message>
       <source>Close button</source>
-      <translation>Ixteko botoia</translation>
+      <translation>Botón de cerrar</translation>
     </message>
     <message>
       <source>Chat duration</source>
-      <translation>Txataren iraupena</translation>
+      <translation>Duración del chat</translation>
     </message>
     <message>
       <source>New chat notification settings</source>
-      <translation>Chat berriaren notifikazio ezarpenak</translation>
+      <translation>Configuración de notificación de nuevo de chat</translation>
     </message>
     <message>
       <source>Supported: online_operators, departments_stats, online_visitors, pending_chats, unread_chats, transfered_chats, active_chats, closed_chats</source>
-      <translation>Soprtauta: online_operators, departments_stats, online_visitors, pending_chats, unread_chats, transfered_chats, active_chats, closed_chats</translation>
+      <translation>Soportados: online_operators, departments_stats, online_visitors, pending_chats, unread_chats, transfered_chats, active_chats, closed_chats</translation>
     </message>
     <message>
       <source>Supported: dashboard,online_map,online_users,pending_chats,online_map,active_chats,unread_chats,closed_chats,online_operators</source>
-      <translation>Soportatua: dashboard,online_map,online_users,pending_chats,online_map,active_chats,unread_chats,closed_chats,online_operators</translation>
+      <translation>Soportado: dashboard,online_map,online_users,pending_chats,online_map,active_chats,unread_chats,closed_chats,online_operators</translation>
     </message>
     <message>
       <source>Default settings</source>
-      <translation>Preezarritako ezarpena</translation>
+      <translation>Aurrezarritako ezarpenak</translation>
     </message>
     <message>
       <source>Departments</source>
-      <translation>Departamentua</translation>
+      <translation>Departamentuak</translation>
     </message>
     <message>
       <source>Departments groups</source>
-      <translation>Departamentuen taldea</translation>
+      <translation>Departamentuaen taldeak</translation>
     </message>
     <message>
       <source>Departments limit groups</source>
-      <translation>Departamendu taldeen limitea</translation>
+      <translation>Límite del grupo del departamento</translation>
     </message>
     <message>
       <source>Time zone settings</source>
-      <translation>Ordutegiaren hordu zonaldearen ezarpena</translation>
+      <translation>Ordutegi zonaldearen ezarpenak</translation>
     </message>
     <message>
       <source>E-mail templates</source>
-      <translation>Email txantiloaiak</translation>
+      <translation>Email txantiloiak</translation>
     </message>
     <message>
       <source>GEO detection configuration</source>
-      <translation>GEO detekzioaren ezaprenak</translation>
+      <translation>GEO detekzioaren ezarpenak</translation>
     </message>
     <message>
       <source>Audit Logs</source>
@@ -6115,7 +6196,7 @@
     </message>
     <message>
       <source>Blocked users</source>
-      <translation>Blikeatutako erabiltzaileak</translation>
+      <translation>Blokeatutako erabiltzaileak</translation>
     </message>
     <message>
       <source>Bot</source>
@@ -6123,71 +6204,71 @@
     </message>
     <message>
       <source>Bot list</source>
-      <translation>Bot zerrenda</translation>
+      <translation>Boten zerrenda</translation>
     </message>
     <message>
       <source>Bot exceptions</source>
-      <translation>Boten eszepzioak</translation>
+      <translation>Boten exzepzioa</translation>
     </message>
     <message>
       <source>Translations groups</source>
-      <translation>Itzultzaileen taldeak</translation>
+      <translation>Itzulketen taldeal</translation>
     </message>
     <message>
       <source>Browse offers embed code</source>
-      <translation>Nabigatzailearentzako inserzio kodea</translation>
+      <translation>Nabikatzailearentzako oferten inkrustazio kodea</translation>
     </message>
     <message>
       <source>Canned messages</source>
-      <translation>Aurre ezarritako mezuak</translation>
+      <translation>Aurrezarritako mezuak</translation>
     </message>
     <message>
       <source>Chat archive</source>
-      <translation>Chaten artxiboak</translation>
+      <translation>Txaten artxiboa</translation>
     </message>
     <message>
       <source>Additional chat columns</source>
-      <translation>Chaten zutabeak</translation>
+      <translation>Txaten zutabe gehigarriak</translation>
     </message>
     <message>
       <source>Chat configuration</source>
-      <translation>Chaten ezarpenak</translation>
+      <translation>Txaten ezarpena</translation>
     </message>
     <message>
       <source>Live help embed code</source>
-      <translation>Live help inserzio kodea</translation>
+      <translation>Live helpentzako inkrustazio kodea</translation>
     </message>
     <message>
       <source>Chats list</source>
-      <translation>Chat zerrenda</translation>
+      <translation>Txaten zerrenda</translation>
     </message>
     <message>
       <source>Chat priority</source>
-      <translation>Chaten prioritatea</translation>
+      <translation>Txaten prioritatea</translation>
     </message>
     <message>
       <source>Additional chat variables</source>
-      <translation>Chaten bariablea</translation>
+      <translation>Txaten bariable gehigarriak</translation>
     </message>
     <message>
       <source>Chatbox embed code</source>
-      <translation>Inserzio kodea ChatBoxarentzat</translation>
+      <translation>Txatboxarentzako inkrustazio kodea</translation>
     </message>
     <message>
       <source>Mail settings</source>
-      <translation>Mail ezarpenak</translation>
+      <translation>Helbide elektronikoaren ezarpenak</translation>
     </message>
     <message>
       <source>FAQ embed code</source>
-      <translation>FAQaren inserzio kodea</translation>
+      <translation>FAQaren inkrustazio kodea</translation>
     </message>
     <message>
       <source>Files</source>
-      <translation>Fitxategiak</translation>
+      <translation>Archivos</translation>
     </message>
     <message>
       <source>Files configuration</source>
-      <translation>Fitxategien ezarpenak</translation>
+      <translation>Fitxategiaren ezarpenak</translation>
     </message>
     <message>
       <source>List of files</source>
@@ -6195,11 +6276,11 @@
     </message>
     <message>
       <source>GEO adjustment</source>
-      <translation>GEO ezarpenak</translation>
+      <translation>Geo ezarpenak</translation>
     </message>
     <message>
       <source>Languages configuration</source>
-      <translation>Hizkuntzen Ezarpena</translation>
+      <translation>Hizkuntzen ezarpena</translation>
     </message>
     <message>
       <source>Maintenance</source>
@@ -6211,7 +6292,7 @@
     </message>
     <message>
       <source>Subscribers list</source>
-      <translation>Harripedapen zerrenda</translation>
+      <translation>Harripedatuen zerrenda</translation>
     </message>
     <message>
       <source>Settings</source>
@@ -6223,35 +6304,35 @@
     </message>
     <message>
       <source>Paid chat configuration</source>
-      <translation>Ordaindutako chaten ezapenak</translation>
+      <translation>Ordaindutako txat ezarpena</translation>
     </message>
     <message>
       <source>Update information</source>
-      <translation>Eguneratu informazioa</translation>
+      <translation>Eguneraketari buruzko informazioa</translation>
     </message>
     <message>
       <source>Pro active chat invitations</source>
-      <translation>Chaten ProAktibatutako gonbidapenak</translation>
+      <translation>Gonbidapen proaktiboak</translation>
     </message>
     <message>
       <source>Pro active chat campaigns</source>
-      <translation>Chaten ProAktibatutako kanpainak</translation>
+      <translation>Campañas de chat pro activas</translation>
     </message>
     <message>
       <source>Pro active chat events</source>
-      <translation>Chat proaktiboaen ebentuak</translation>
+      <translation>Txat proaktiboen gertaerak</translation>
     </message>
     <message>
       <source>Pro active chat variables</source>
-      <translation>Variables de chat proactivos</translation>
+      <translation>Txat proaktiboen bariableak</translation>
     </message>
     <message>
       <source>Product</source>
-      <translation>Producto</translation>
+      <translation>Produktua</translation>
     </message>
     <message>
       <source>Questionary embed code</source>
-      <translation>Código de incrustación para cuestionario</translation>
+      <translation>Galdetegiarentzako inkrustazio kodea</translation>
     </message>
     <message>
       <source>Re-captcha settings</source>
@@ -6271,15 +6352,15 @@
     </message>
     <message>
       <source>Subjects</source>
-      <translation>Asuntos</translation>
+      <translation>Gaiak</translation>
     </message>
     <message>
       <source>Surveys</source>
-      <translation>Encuestas</translation>
+      <translation>Inkestak</translation>
     </message>
     <message>
       <source>Synchronization and sound settings</source>
-      <translation>Ajustes de sincronización y sonido</translation>
+      <translation>Sinkronizazio eta soinu ezarpenak</translation>
     </message>
     <message>
       <source>Theming</source>
@@ -6287,39 +6368,39 @@
     </message>
     <message>
       <source>Widget themes</source>
-      <translation>Tema del widget</translation>
+      <translation>Widegetaren txantiloia</translation>
     </message>
     <message>
       <source>Import new themes</source>
-      <translation>Importar temas nuevos</translation>
+      <translation>Inportatu txantiloi berria</translation>
     </message>
     <message>
       <source>Default theme</source>
-      <translation>Tema predefinido</translation>
+      <translation>Aurrezarritako txantiloia</translation>
     </message>
     <message>
       <source>Back office theming</source>
-      <translation>Tematica de back office</translation>
+      <translation>Back officeko txantiloia</translation>
     </message>
     <message>
       <source>Admin themes</source>
-      <translation>Temas del Admin</translation>
+      <translation>Admin txantiloia</translation>
     </message>
     <message>
       <source>Default admin theme</source>
-      <translation>Tema por defecto del Admin</translation>
+      <translation>Aurrezarritako admin txantiloia</translation>
     </message>
     <message>
       <source>Personal theming</source>
-      <translation>Temática personal</translation>
+      <translation>Txantiloi pertsonalizatua</translation>
     </message>
     <message>
       <source>Personal theme</source>
-      <translation>Tema personal</translation>
+      <translation>Txantiloi pertsonala</translation>
     </message>
     <message>
       <source>Chat transfer configuration</source>
-      <translation>Configuración de transferencia del chat</translation>
+      <translation>Txaten trasferentzien ezarpenak</translation>
     </message>
     <message>
       <source>Automatic translations</source>
@@ -6327,51 +6408,51 @@
     </message>
     <message>
       <source>Users</source>
-      <translation>Usuarios</translation>
+      <translation>Erabiltzaileak</translation>
     </message>
     <message>
       <source>List of groups</source>
-      <translation>Lista de los grupos</translation>
+      <translation>Taldeen zerrenda</translation>
     </message>
     <message>
       <source>List of roles</source>
-      <translation>Lista de roles</translation>
+      <translation>Rolen zerrenda</translation>
     </message>
     <message>
       <source>Import users</source>
-      <translation>Importar usuarios</translation>
+      <translation>Importatu erabiltzaileak</translation>
     </message>
     <message>
       <source>Password requirements</source>
-      <translation>Requisitos de contraseña</translation>
+      <translation>Pasahitzen betebeharrak</translation>
     </message>
     <message>
       <source>Advanced</source>
-      <translation>Avanzado</translation>
+      <translation>Aurreratua</translation>
     </message>
     <message>
       <source>Users actions</source>
-      <translation>Acciones de usuarios</translation>
+      <translation>Erabiltzaileen akzioak</translation>
     </message>
     <message>
       <source>XMPP settings</source>
-      <translation>Configuración XMPP</translation>
+      <translation>XMPP ezarpenak</translation>
     </message>
     <message>
       <source>Speech</source>
-      <translation>Dictado</translation>
+      <translation>Dikatadua</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
       <source>Embed code</source>
-      <translation>Código de incrustación</translation>
+      <translation>Inkrustazio kodea</translation>
     </message>
     <message>
       <source>Live help configuration</source>
-      <translation>Configuración de la ayuda en línea</translation>
+      <translation>Live help ezarpenak</translation>
     </message>
     <message>
       <source>System</source>
@@ -6411,7 +6492,7 @@
     </message>
     <message>
       <source>Change my online/offline status based on my activity</source>
-      <translation>Cambiar mi estado en línea / fuera de línea basado en mi actividad</translation>
+      <translation>Aldatu nire egoera online / offline nire aktibitatea</translation>
     </message>
     <message>
       <source>After certain period of time if no actions are detected you will be marked as offline automatically</source>
@@ -6435,7 +6516,7 @@
     </message>
     <message>
       <source>File configuration</source>
-      <translation>Configuración de archivos</translation>
+      <translation>Fitxategien ezrpenak</translation>
     </message>
     <message>
       <source>Edit file</source>
@@ -6466,27 +6547,27 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Configuración actualizada</translation>
+      <translation>Ezarpenak eguneratuak</translation>
     </message>
     <message>
       <source>Data protection</source>
-      <translation>Protección de Datos</translation>
+      <translation>Datu babespena</translation>
     </message>
     <message>
       <source>Screen sharing</source>
-      <translation>Compartir pantalla</translation>
+      <translation>Konpartitu pantaila</translation>
     </message>
     <message>
       <source>Notifications about new chats</source>
-      <translation>Notificaciones de nuevos chats</translation>
+      <translation>Txat berrien notifikazioa</translation>
     </message>
     <message>
       <source>Copyright settings</source>
-      <translation>Configuración de Copyright</translation>
+      <translation>Copirightaren ezarpenak</translation>
     </message>
     <message>
       <source>Online tracking</source>
@@ -6533,7 +6614,7 @@
     <name>chat/pendingchats</name>
     <message>
       <source>Information</source>
-      <translation>Información</translation>
+      <translation>Informazioa</translation>
     </message>
     <message>
       <source>Operator</source>
@@ -6561,7 +6642,7 @@
     </message>
     <message>
       <source>Active chat</source>
-      <translation>Chat activo</translation>
+      <translation>Txat aktiboa</translation>
     </message>
     <message>
       <source>Closed chat</source>
@@ -6581,7 +6662,7 @@
     </message>
     <message>
       <source>Chats list</source>
-      <translation>Lista de Chats</translation>
+      <translation>Txaten zerrenda</translation>
     </message>
     <message>
       <source>Bots</source>
@@ -6634,15 +6715,15 @@
     </message>
     <message>
       <source>Nothing found...</source>
-      <translation>No hay resultados</translation>
+      <translation>Ez dago emaitzik</translation>
     </message>
     <message>
       <source>collapse/expand</source>
-      <translation>contraer/expandir</translation>
+      <translation>Uzkurtu/zabaldu></translation>
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Chats activos</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Closed chats</source>
@@ -6650,11 +6731,11 @@
     </message>
     <message>
       <source>My active and pending chats</source>
-      <translation>Mis chats activos y pendientes</translation>
+      <translation>Aktibo eta pendiente dauden nire txatak</translation>
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Chats pendientes</translation>
+      <translation>Pendiente dauden txatak</translation>
     </message>
     <message>
       <source>Unread messages</source>
@@ -6670,47 +6751,47 @@
     </message>
     <message>
       <source>Download XLS</source>
-      <translation>Descargar XLS</translation>
+      <translation>XLSa deskargatu</translation>
     </message>
     <message>
       <source>Main information</source>
-      <translation>Información principal</translation>
+      <translation>Informazio nagusia</translation>
     </message>
     <message>
       <source>All departments</source>
-      <translation>Todos los departamentos</translation>
+      <translation>Departamentu guztiak</translation>
     </message>
     <message>
       <source>Check all</source>
-      <translation>Seleccionar todo</translation>
+      <translation>Arakatu guztia</translation>
     </message>
     <message>
       <source>Only online</source>
-      <translation>Solo en línea</translation>
+      <translation>Online bakarrik</translation>
     </message>
     <message>
       <source>Only explicit online</source>
-      <translation>Sólo explícito en línea</translation>
+      <translation>Bakarrik online esplizituki</translation>
     </message>
     <message>
       <source>Hide hidden</source>
-      <translation>Ocultar escondidos</translation>
+      <translation>Ezkutatu ezkutatuak</translation>
     </message>
     <message>
       <source>Hide disabled</source>
-      <translation>Ocultar deshabilitados</translation>
+      <translation>Ezkutatu desaktibatuak</translation>
     </message>
     <message>
       <source>Department group</source>
-      <translation>Grupo de departamentos</translation>
+      <translation>Departamentu taldea</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Departamentua</translation>
     </message>
     <message>
       <source>Users</source>
-      <translation>Usuarios</translation>
+      <translation>Erabiltzaileak</translation>
     </message>
     <message>
       <source>User group</source>
@@ -6730,35 +6811,35 @@
     </message>
     <message>
       <source>Departments stats</source>
-      <translation>Estadisticas de Departamentos </translation>
+      <translation>Departamentuen estatistikak</translation>
     </message>
     <message>
       <source>Online operators</source>
-      <translation>Operadores Online</translation>
+      <translation>Online dauden operadorea</translation>
     </message>
     <message>
       <source>Online visitors</source>
-      <translation>Visitantes en línea</translation>
+      <translation>Online bisitariak</translation>
     </message>
     <message>
       <source>Transferred chats</source>
-      <translation>Chats transferidos</translation>
+      <translation>Transferitutako txatak</translation>
     </message>
     <message>
       <source>Clean cache</source>
-      <translation>Limpiar caché</translation>
+      <translation>Garbitu cachea</translation>
     </message>
     <message>
       <source>Home</source>
-      <translation>Inicio</translation>
+      <translation>Hasiera</translation>
     </message>
     <message>
       <source>Modules</source>
-      <translation>Módulos</translation>
+      <translation>Moduluak</translation>
     </message>
     <message>
       <source>Browse offers</source>
-      <translation>Ver ofertas</translation>
+      <translation>Ikusi ofertak</translation>
     </message>
     <message>
       <source>Chatbox</source>
@@ -6766,11 +6847,11 @@
     </message>
     <message>
       <source>FAQ</source>
-      <translation>Preguntas frecuentes</translation>
+      <translation>Maiz agetutako    galderak</translation>
     </message>
     <message>
       <source>Questionary</source>
-      <translation>Cuestionario</translation>
+      <translation>Galdetegia</translation>
     </message>
     <message>
       <source>New chat request</source>
@@ -6782,15 +6863,15 @@
     </message>
     <message>
       <source>Chat</source>
-      <translation>Chat</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Dashboard</source>
-      <translation>Escritorio</translation>
+      <translation>Mahigaina</translation>
     </message>
     <message>
       <source>Settings</source>
-      <translation>Configuración</translation>
+      <translation>Ezarpenak</translation>
     </message>
     <message>
       <source>This window will be automatically refreshed in {{lhc.lhcVersionCounter}} seconds due to a version update.</source>
@@ -6798,15 +6879,15 @@
     </message>
     <message>
       <source>Chat tabs</source>
-      <translation>Chat tabs</translation>
+      <translation>Chat taulak</translation>
     </message>
     <message>
       <source>Configuration</source>
-      <translation>Configuración</translation>
+      <translation>Ezarpenak</translation>
     </message>
     <message>
       <source>Chats list</source>
-      <translation>Lista de Chats</translation>
+      <translation>Txaten zerrenda</translation>
     </message>
     <message>
       <source>Account</source>
@@ -6859,7 +6940,7 @@
     <name>chat/statistic</name>
     <message>
       <source>Statistic</source>
-      <translation>Estadísticas</translation>
+      <translation>Estatistika</translation>
     </message>
     <message>
       <source>What charts to display</source>
@@ -7258,7 +7339,7 @@
     </message>
     <message>
       <source>Update chat</source>
-      <translation>Actualizar chat</translation>
+      <translation>Eguneratu txata</translation>
     </message>
     <message>
       <source>Unanswered chat</source>
@@ -7308,7 +7389,7 @@
     </message>
     <message>
       <source>Type your message to the user</source>
-      <translation>Idatzi erabiltzailearentzako mezua</translation>
+      <translation>Escriba su mensaje al usuario</translation>
     </message>
     <message>
       <source>Send the mail</source>
@@ -7320,11 +7401,11 @@
     </message>
     <message>
       <source>Send mail to the user</source>
-      <translation>Bidali email bat erabiltzaileari</translation>
+      <translation>Enviar correo al usuario</translation>
     </message>
     <message>
       <source>Mail was sent to the user</source>
-      <translation>Mezua bidali zaio erabiltzaileari</translation>
+      <translation>El correo fué enviado al usuario</translation>
     </message>
     <message>
       <source>Please enter recipient e-mail!</source>
@@ -7375,7 +7456,7 @@
     </message>
     <message>
       <source>Campaign</source>
-      <translation>Campaña</translation>
+      <translation>Kanpainak</translation>
     </message>
     <message>
       <source>Canned message</source>
@@ -7410,19 +7491,19 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation>Cancelar</translation>
+      <translation>Behertan behera utzi</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Configuración actualizada</translation>
+      <translation>Ezarpenak eguneratuak</translation>
     </message>
     <message>
       <source>Synchronisation and sound settings</source>
-      <translation>Ajustes de sincronización y sonido</translation>
+      <translation>Sinkronizazio eta soinu ezarpenak</translation>
     </message>
     <message>
       <source>How many seconds for a user to be considered as being online</source>
@@ -7446,7 +7527,7 @@
     </message>
     <message>
       <source>Messages settings</source>
-      <translation>Configuración de mensajes</translation>
+      <translation>Mezu ezarpenak</translation>
     </message>
     <message>
       <source>Sync for a new user message, interval in seconds</source>
@@ -7573,7 +7654,7 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>What languages you speak?</source>
@@ -7737,7 +7818,7 @@
     </message>
     <message>
       <source>All departments</source>
-      <translation>Todos los departamentos</translation>
+      <translation>Departamentu guztiak</translation>
     </message>
     <message>
       <source>Individual departments</source>
@@ -7761,7 +7842,7 @@
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Chats pendientes</translation>
+      <translation>Pendiente dauden dauden txatak</translation>
     </message>
     <message>
       <source>User receives other operators permissions request</source>
@@ -7905,7 +7986,7 @@
     </message>
     <message>
       <source>Configuration</source>
-      <translation>Configuración</translation>
+      <translation>Ezarpenak</translation>
     </message>
   </context>
   <context>
@@ -8215,11 +8296,11 @@
     </message>
     <message>
       <source>Active chats</source>
-      <translation>Chats Activos</translation>
+      <translation>Aktibo dauden txatak</translation>
     </message>
     <message>
       <source>Pending chats</source>
-      <translation>Chats pendientes</translation>
+      <translation>Pendienteko txatak</translation>
     </message>
     <message>
       <source>Inactive chats</source>
@@ -8231,31 +8312,31 @@
     </message>
     <message>
       <source>Update stats</source>
-      <translation>Actualizar estadísticas</translation>
+      <translation>Eguneratu estatistikak</translation>
     </message>
     <message>
       <source>Users</source>
-      <translation>Usuarios</translation>
+      <translation>Erabiltzaileak</translation>
     </message>
     <message>
       <source>Username (Nickname)</source>
-      <translation>Nombre de usuario (Seudónimo)</translation>
+      <translation>Erabiltzaile izena (Ezizena)</translation>
     </message>
     <message>
       <source>E-mail</source>
-      <translation>Correo</translation>
+      <translation>E-maila</translation>
     </message>
     <message>
       <source>Login As</source>
-      <translation>Entrar como</translation>
+      <translation>Sartu nola</translation>
     </message>
     <message>
       <source>New user</source>
-      <translation>Nuevo usuario</translation>
+      <translation>Erabiltzaile berria</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
       <source>Statistic</source>
@@ -8352,7 +8433,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>Archive configuration</source>
@@ -8409,6 +8490,10 @@
   <context>
     <name>chat/operatorsbalancing</name>
     <message>
+      <source>Hide send button for operators</source>
+      <translation>Ocultar botón de envío para operadores</translation>
+    </message>
+    <message>
       <source>Active</source>
       <translation>Activo</translation>
     </message>
@@ -8457,8 +8542,8 @@
       <translation>Reanudar la asignación automática si el chat permanece pendiente durante n segundos</translation>
     </message>
     <message>
-      <source>Hide send button for operators</source>
-      <translation>Ocultar botón de envío para operadores</translation>
+      <source>Hide send e-mail button for operators in chat window</source>
+      <translation type="unfinished"/>
     </message>
   </context>
   <context>
@@ -8500,14 +8585,14 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
   </context>
   <context>
     <name>faq/faqwidget</name>
     <message>
       <source>FAQ</source>
-      <translation>Preguntas frecuentes</translation>
+      <translation>Maiz galderak</translation>
     </message>
     <message>
       <source>Ask a question</source>
@@ -8515,7 +8600,7 @@
     </message>
     <message>
       <source>Type your question</source>
-      <translation>Idatzi zure galdera</translation>
+      <translation>Idatzi hemen zure galdera</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -8531,7 +8616,7 @@
     </message>
     <message>
       <source>Your question was submitted!</source>
-      <translation>Bidali da zure galdera!</translation>
+      <translation>Su pregunta ha sido enviada!</translation>
     </message>
     <message>
       <source>Please enter a question!</source>
@@ -8581,7 +8666,7 @@
     <name>faq/list</name>
     <message>
       <source>FAQ</source>
-      <translation>Preguntas frecuentes</translation>
+      <translation>Maiz agertzen diren galderak</translation>
     </message>
     <message>
       <source>Question</source>
@@ -8648,7 +8733,7 @@
     </message>
     <message>
       <source>FAQ</source>
-      <translation>Preguntas frecuentes</translation>
+      <translation>Maiz agertzen diren galderak</translation>
     </message>
     <message>
       <source>FAQ description</source>
@@ -8683,7 +8768,7 @@
     </message>
     <message>
       <source>Chat</source>
-      <translation>Chat</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Persistent</source>
@@ -8824,7 +8909,7 @@
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Identifier</source>
@@ -8882,7 +8967,7 @@
     <name>form/index</name>
     <message>
       <source>Form</source>
-      <translation>Formulario</translation>
+      <translation>Formularioa</translation>
     </message>
     <message>
       <source>List of forms</source>
@@ -9062,7 +9147,7 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -9090,11 +9175,11 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>Users</source>
-      <translation>Usuarios</translation>
+      <translation>Erabiltzaleak</translation>
     </message>
     <message>
       <source>User edit</source>
@@ -9346,7 +9431,7 @@
     <name>paidchat/expiredchat</name>
     <message>
       <source>Chat</source>
-      <translation>Chat</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Chat was closed.</source>
@@ -9400,7 +9485,7 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -9448,7 +9533,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>List of roles</source>
@@ -9579,7 +9664,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
     <message>
       <source>List of roles</source>
@@ -9648,7 +9733,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
   </context>
   <context>
@@ -9714,7 +9799,7 @@
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del Sistema</translation>
+      <translation>Sistemaren ezarpena</translation>
     </message>
   </context>
   <context>
@@ -9776,7 +9861,7 @@
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Cancel</source>
@@ -9883,7 +9968,7 @@
     </message>
     <message>
       <source>Questionary</source>
-      <translation>Cuestionario</translation>
+      <translation>Galdetegia</translation>
     </message>
     <message>
       <source>Admin themes</source>
@@ -9947,7 +10032,7 @@
     <name>questionary/votingwidget</name>
     <message>
       <source>Questionary</source>
-      <translation>Cuestionario</translation>
+      <translation>Gladetegia</translation>
     </message>
     <message>
       <source>Thank you!</source>
@@ -10005,175 +10090,175 @@
     <name>speech/language</name>
     <message>
       <source>Dialects</source>
-      <translation>Dialectos</translation>
+      <translation>Euskalki / Dialektoa</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation>Idioma</translation>
+      <translation>Hizkuntza</translation>
     </message>
     <message>
       <source>Dialect</source>
-      <translation>Idioma</translation>
+      <translation>Euskalki / Dialektoa</translation>
     </message>
     <message>
       <source>Language Code</source>
-      <translation>Código de Idioma</translation>
+      <translation>Hizkuntzaren kodea</translation>
     </message>
     <message>
       <source>Short Code</source>
-      <translation>Código Corto</translation>
+      <translation>Kode motza</translation>
     </message>
     <message>
       <source>New dialect</source>
-      <translation>Nuevo dialecto</translation>
+      <translation>Euskalki / Dialekto berria</translation>
     </message>
     <message>
       <source>Edit dialect</source>
-      <translation>Editar dialecto</translation>
+      <translation>Editatu esukalki / dialektoa</translation>
     </message>
     <message>
       <source>Edit language</source>
-      <translation>Editar idioma</translation>
+      <translation>Editatu hizkuntza</translation>
     </message>
     <message>
       <source>Dialect name</source>
-      <translation>Nombre del Dialecto</translation>
+      <translation>Euskalki / Dialektoaren izena</translation>
     </message>
     <message>
       <source>Language code</source>
-      <translation>Código de Idioma</translation>
+      <translation>Hizkuntza kodea</translation>
     </message>
     <message>
       <source>Short code</source>
-      <translation>Código Corto</translation>
+      <translation>Kode motza</translation>
     </message>
     <message>
       <source>Languages</source>
-      <translation>Idiomas</translation>
+      <translation>Hizkuntza</translation>
     </message>
     <message>
       <source>New language</source>
-      <translation>Nuevo idioma</translation>
+      <translation>Hizkuntza berria</translation>
     </message>
     <message>
       <source>Choose speech recognition language for this chat</source>
-      <translation>Elija el lenguaje de reconocimiento de voz para este chat</translation>
+      <translation>Aukeratu txat honetarako hizkun errekonozimendua</translation>
     </message>
     <message>
       <source>Default speech recognition language</source>
-      <translation>Idioma de reconocimiento de voz por defecto</translation>
+      <translation>Aurrezarritako hizkuntza errekonozimendua</translation>
     </message>
   </context>
   <context>
     <name>speech/speech</name>
     <message>
       <source>Use application default recognition language</source>
-      <translation>Usar el idioma de reconocimiento predeterminado de la aplicación</translation>
+      <translation>Aplikazioaren hizkunt aurrezarria erabilia hizkuntza errekonozimenduan</translation>
     </message>
     <message>
       <source>Use application default recognition dialect</source>
-      <translation>Usar el dialecto de reconocimiento predeterminado de la aplicación.</translation>
+      <translation>Erabili aplikazioaren Euskalki / Dialekto aurrezarria bezala.</translation>
     </message>
   </context>
   <context>
     <name>statistic/campaign</name>
     <message>
       <source>Parameter</source>
-      <translation>Parámetro</translation>
+      <translation>Parametroa</translation>
     </message>
     <message>
       <source>Value</source>
-      <translation>Valor</translation>
+      <translation>Balorea</translation>
     </message>
     <message>
       <source>Explanation</source>
-      <translation>Explicación</translation>
+      <translation>Esplikazioa</translation>
     </message>
     <message>
       <source>Total send</source>
-      <translation>Total Envío</translation>
+      <translation>Bidalketa totala</translation>
     </message>
     <message>
       <source>Invitation was assigned to online visitor</source>
-      <translation>La invitación fue asignada al visitante en línea.</translation>
+      <translation>Gonbidapena online bisitariari asignatu zaio.</translation>
     </message>
     <message>
       <source>Total shown</source>
-      <translation>Total mostrado</translation>
+      <translation>Erakutsi totala</translation>
     </message>
     <message>
       <source>widget was opened with invitation content</source>
-      <translation>El widget se abrió con contenido de invitación.</translation>
+      <translation>Gonbidapen edukiarekin ireki da widgeta.</translation>
     </message>
     <message>
       <source>Total seen</source>
-      <translation>Total visto</translation>
+      <translation>Ikusketa osoa</translation>
     </message>
     <message>
       <source>Widget was shown but visitor closed it without starting a chat</source>
-      <translation>Se mostró el widget pero el visitante lo cerró sin iniciar un chat</translation>
+      <translation>Gonbidapena erakutsi da baino bisitaria txata ireki gabe itxi du</translation>
     </message>
     <message>
       <source>Chat started</source>
-      <translation>Chat iniciado</translation>
+      <translation>Txata hasia</translation>
     </message>
     <message>
       <source>Visitor started chat by online invitation</source>
-      <translation>El visitante comenzó el chat por invitación en línea.</translation>
+      <translation>Bisitaria gonbidapen ondoren hasi du txata.</translation>
     </message>
   </context>
   <context>
     <name>survey/choosesurvey</name>
     <message>
       <source>Survey</source>
-      <translation>Encuesta</translation>
+      <translation>Inkesta</translation>
     </message>
     <message>
       <source>Collected information</source>
-      <translation>Información recolectada</translation>
+      <translation>Hartutako informazioa</translation>
     </message>
     <message>
       <source>Visitor was redirected to survey, you can now close this window.</source>
-      <translation>Se redirigió al visitante a la encuesta, ahora puede cerrar esta ventana.</translation>
+      <translation>Bisitaria inkestara eramana izana da, orain lehioa itxi dezakezu</translation>
     </message>
   </context>
   <context>
     <name>survey/collected</name>
     <message>
       <source>List</source>
-      <translation>Lista</translation>
+      <translation>Zerrenda</translation>
     </message>
     <message>
       <source>Chart</source>
-      <translation>Gráfico</translation>
+      <translation>Grafikoa</translation>
     </message>
     <message>
       <source>Great chats with average of</source>
-      <translation>Grandes chats con promedio de</translation>
+      <translation>Txat haundiak bataz bestearekin</translation>
     </message>
     <message>
       <source>Not so great chats</source>
-      <translation>Chats no tan buenos</translation>
+      <translation>Txat ez oso onak</translation>
     </message>
     <message>
       <source>Average</source>
-      <translation>Promedio</translation>
+      <translation>Bataz bestekoa</translation>
     </message>
     <message>
       <source>Stars</source>
-      <translation>Estrellas</translation>
+      <translation>Izarra</translation>
     </message>
     <message>
       <source>Percentages</source>
-      <translation>Porcentajes</translation>
+      <translation>Portzentaia</translation>
     </message>
     <message>
       <source>Chats</source>
-      <translation>Chats</translation>
+      <translation>Txatal</translation>
     </message>
     <message>
       <source>Chat</source>
-      <translation>Chat</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Department</source>
@@ -10181,294 +10266,294 @@
     </message>
     <message>
       <source>Operator</source>
-      <translation>Operador</translation>
+      <translation>Operadorea</translation>
     </message>
     <message>
       <source>Time</source>
-      <translation>tiempo</translation>
+      <translation>Denbora</translation>
     </message>
     <message>
       <source>View information</source>
-      <translation>Ver información</translation>
+      <translation>Ikusi informazioa</translation>
     </message>
     <message>
       <source>Collected information</source>
-      <translation>Información recolectada</translation>
+      <translation>Jasotako informazioa</translation>
     </message>
     <message>
       <source>Survey</source>
-      <translation>Encuesta</translation>
+      <translation>Inkesta</translation>
     </message>
     <message>
       <source>Department name</source>
-      <translation>Nombre del Departamento</translation>
+      <translation>Departamentuaren izena</translation>
     </message>
     <message>
       <source>Survey ID</source>
-      <translation>ID Encuesta</translation>
+      <translation>Inkestaren ID</translation>
     </message>
   </context>
   <context>
     <name>survey/fill</name>
     <message>
       <source>Preview chat</source>
-      <translation>Vista previa del chat</translation>
+      <translation>Txataren aurreikusketa</translation>
     </message>
     <message>
       <source>star</source>
-      <translation>Estrella</translation>
+      <translation>Izarra</translation>
     </message>
     <message>
       <source>Poor</source>
-      <translation>Pobre</translation>
+      <translation>Pobrea</translation>
     </message>
     <message>
       <source>stars</source>
-      <translation>estrellas</translation>
+      <translation>izarrak</translation>
     </message>
     <message>
       <source>Excellent</source>
-      <translation>Excelente</translation>
+      <translation>Bikain</translation>
     </message>
     <message>
       <source>Thank you for your feedback...</source>
-      <translation>Gracias por tus comentarios...</translation>
+      <translation>Eskerrik asko zure iruzkina uztea gatik...</translation>
     </message>
     <message>
       <source>Please complete this short evaluation survey</source>
-      <translation>Por favor complete esta breve encuesta de evaluación</translation>
+      <translation>Mesedez, bete inkesta motz hau.</translation>
     </message>
   </context>
   <context>
     <name>users/autologin</name>
     <message>
       <source>Auto login settings</source>
-      <translation>Configuración auto login</translation>
+      <translation>Auto loginaren ezarpenak</translation>
     </message>
     <message>
       <source>Custom auto logins</source>
-      <translation>Inicio de sesión automático personalizado</translation>
+      <translation>Pertsonalizatutako auto logina</translation>
     </message>
     <message>
       <source>This module can be used if you are generating autologin link. See site for code examples</source>
-      <translation>Este módulo puede usarse si está generando un enlace de inicio de sesión automático. Ver sitio para ejemplos de código</translation>
+      <translation>Saio hasierako auto logina erabii daiteke moduloa aktibatuta dago. Ikusi kode adibideak</translation>
     </message>
     <message>
       <source>Enabled</source>
-      <translation>Habilitado</translation>
+      <translation>Aktibatua</translation>
     </message>
     <message>
       <source>Secret hash used for authentification token generation, min 10 characters</source>
-      <translation>Hash secreto utilizado para la generación del token de autenticación, mínimo 10 caracteres</translation>
+      <translation>Autentifikazio kodea tokena sortzeko erabiltzen duen hasha, gutxienez 10 karaktere</translation>
     </message>
     <message>
       <source>User ID</source>
-      <translation>ID Usuario</translation>
+      <translation>Erabiltzailearen IDa</translation>
     </message>
     <message>
       <source>SiteAccess</source>
-      <translation>Acceso Sitio</translation>
+      <translation>Lekura sarrea</translation>
     </message>
     <message>
       <source>Default URL</source>
-      <translation>URL predeterminado</translation>
+      <translation>URL aurrezarria</translation>
     </message>
     <message>
       <source>Secret hash</source>
-      <translation>Hash secreto</translation>
+      <translation>Hash sekretua</translation>
     </message>
     <message>
       <source>IP Allowed</source>
-      <translation>IP Permitida</translation>
+      <translation>Baimendutako IP</translation>
     </message>
     <message>
       <source>Copied!</source>
-      <translation>¡Copiado!</translation>
+      <translation>Kopiatua!</translation>
     </message>
     <message>
       <source>Copy URL to clipboard</source>
-      <translation>Copiar el URL al portapapeles</translation>
+      <translation>Kopiatu urla</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Configuración actualizada</translation>
+      <translation>Ezarpenak eguneratuak</translation>
     </message>
     <message>
       <source>User has to change password every n days</source>
-      <translation>El usuario tiene que cambiar la contraseña cada n días</translation>
+      <translation>Erabiltzailea n egun ondoren aldatu beharko du</translation>
     </message>
     <message>
       <source>Minimal password length</source>
-      <translation>Longitud mínima de la contraseña</translation>
+      <translation>Pasahitzaren gutxieneko luzeera</translation>
     </message>
     <message>
       <source>Uppercase letter required</source>
-      <translation>Se requiere letra mayúscula</translation>
+      <translation>Letra larria beharrezkoa da</translation>
     </message>
     <message>
       <source>Number required</source>
-      <translation>Número requerido</translation>
+      <translation>Zenbakia beharrezkoa da</translation>
     </message>
     <message>
       <source>Special character required</source>
-      <translation>Se requiere carácter especial</translation>
+      <translation>Karaktere espeziala beharrezkoa da</translation>
     </message>
     <message>
       <source>Autologin hash has expired</source>
-      <translation>Autologin hash ha caducado</translation>
+      <translation>Autologin hasha kadukatu du</translation>
     </message>
     <message>
       <source>Could not find a user</source>
-      <translation>No se pudo encontrar un usuario</translation>
+      <translation>Ez da aurkitu erabiltzailea</translation>
     </message>
     <message>
       <source>Could not find a provided user</source>
-      <translation>No se pudo encontrar un usuario</translation>
+      <translation>Ezin izan da erabiltzailea aurkitu</translation>
     </message>
     <message>
       <source>Invalid autologin hash</source>
-      <translation>Autologin  hash No valido</translation>
+      <translation>Autologin  hash ez erabilgarria</translation>
     </message>
     <message>
       <source>Auto login module is not enabled</source>
-      <translation>Módulo de inicio de sesión automático no está activado</translation>
+      <translation>Auto saio hasiera ez da aktibatu</translation>
     </message>
     <message>
       <source>Invalid hash or user</source>
-      <translation>Hash o usuario inválido</translation>
+      <translation>Hash erabiltzailea ez balidoa</translation>
     </message>
     <message>
       <source>Password requirements</source>
-      <translation>Requisitos de contraseña</translation>
+      <translation>Pasahitzaren beharrak</translation>
     </message>
     <message>
       <source>Update password</source>
-      <translation>Actualizar contraseña</translation>
+      <translation>Eguneratu pasahitza</translation>
     </message>
   </context>
   <context>
     <name>system/languages</name>
     <message>
       <source>Languages configuration</source>
-      <translation>Configuración de Idiomas</translation>
+      <translation>Hizkuntzen ezarpenak</translation>
     </message>
     <message>
       <source>Your language</source>
-      <translation>Su idioma</translation>
+      <translation>Zure hizkuntza</translation>
     </message>
     <message>
       <source>General language settings</source>
-      <translation>Configuración general de idiomas</translation>
+      <translation>Hizkuntzaren ezarpen orokorra</translation>
     </message>
     <message>
       <source>Language</source>
-      <translation>Idioma</translation>
+      <translation>Hizkuntza</translation>
     </message>
     <message>
       <source>Current site access</source>
-      <translation>Acceso al sitio actual</translation>
+      <translation>Oraingo lekuko sarrera</translation>
     </message>
     <message>
       <source>Site access</source>
-      <translation>Acceso al sitio</translation>
+      <translation>Lekura sarrera</translation>
     </message>
     <message>
       <source>options for</source>
-      <translation>Opciones para</translation>
+      <translation>Aukerak</translation>
     </message>
     <message>
       <source>Theme, separate themes by new line</source>
-      <translation>Tema, separar temas por nueva línea</translation>
+      <translation>Txantiloiak, separatu komen bidez</translation>
     </message>
     <message>
       <source>Default module</source>
-      <translation>Módulo predeterminado</translation>
+      <translation>Aurrezarritako moduloa</translation>
     </message>
     <message>
       <source>Default view</source>
-      <translation>Vista predeterminada</translation>
+      <translation>Ikusketa aurrezarria</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Configuración actualizada</translation>
+      <translation>Ezarpenak eguneratuak</translation>
     </message>
     <message>
       <source>Please choose correct language</source>
-      <translation>Por favor, elija el idioma correcto</translation>
+      <translation>Mesedez, aukeratu hizkuntz zuzena</translation>
     </message>
     <message>
       <source>Please enter theme</source>
-      <translation>Por favor, introduzca el tema</translation>
+      <translation>Mesedez, sartu txantiloia</translation>
     </message>
     <message>
       <source>Please enter module name</source>
-      <translation>Por favor, ingrese el nombre del módulo</translation>
+      <translation>Mesedez, idatzi moduloaren izena</translation>
     </message>
     <message>
       <source>Please enter view name</source>
-      <translation>Por favor ingrese el nombre de la vista</translation>
+      <translation>Mesedez idatzi ikusketa moduaren izena</translation>
     </message>
   </context>
   <context>
     <name>system/offlinesettings</name>
     <message>
       <source>Offline settings</source>
-      <translation>Configuración sin conexión</translation>
+      <translation>Konexio gabeko ezrpenak</translation>
     </message>
     <message>
       <source>Offline chat request won&apos;t be saved.</source>
-      <translation>La solicitud de chat sin conexión no se guardará.</translation>
+      <translation>Konexio gabeko eskaera ez da gordeko.</translation>
     </message>
     <message>
       <source>Then offline chat is registered it&apos;s status will be changed to closed chat.</source>
-      <translation>Luego se registra el chat sin conexión, su estado cambiará a chat cerrado.</translation>
+      <translation>Konexio gabeko txata erregistratu ondoren, txata egoera itxitara aldatuko da.</translation>
     </message>
   </context>
   <context>
     <name>system/timezone</name>
     <message>
       <source>Do not save offline chats</source>
-      <translation>No guardar chats sin conexión</translation>
+      <translation>Ez gorde offine txatak</translation>
     </message>
     <message>
       <source>Automatically change offline chat status to closed</source>
-      <translation>Cambiar automáticamente el estado de chat sin conexión a cerrado</translation>
+      <translation>Aldatu konexio gabeko txaten egoera automatikoki itxitara</translation>
     </message>
     <message>
       <source>Enable</source>
-      <translation>Habilitar</translation>
+      <translation>Aktibatu</translation>
     </message>
     <message>
       <source>Time zone settings</source>
-      <translation>Configuración de la zona horaria</translation>
+      <translation>Ordu-eramuaren ezarpenak</translation>
     </message>
     <message>
       <source>Set application specific time zone</source>
-      <translation>Establecer la zona horaria específica de la aplicación</translation>
+      <translation>Aplikazioaren ordu-eremu espezifikoa</translation>
     </message>
     <message>
       <source>Date format E.g (Y-m-d)</source>
-      <translation>Formato de fecha Ej. (Y-m-d)</translation>
+      <translation>Dataren formatua Adb. (Y-m-d)</translation>
     </message>
     <message>
       <source>Full date format E.g (Y-m-d H:i:s)</source>
-      <translation>Formato de fecha completo Ej. (Y-m-d H:i:s)</translation>
+      <translation>Data fromatu osoa Adb. (Y-m-d H:i:s)</translation>
     </message>
     <message>
       <source>Hour format E.g (H:i:s)</source>
-      <translation>Formato de hora Ej. (H:i:s)</translation>
+      <translation>Ordu formatua Adb. (H:i:s)</translation>
     </message>
     <message>
       <source>Live Helper Chat update</source>
-      <translation>Actualización de Live Helper Chat</translation>
+      <translation>Live Helper Chaten eguneraketa</translation>
     </message>
     <message>
       <source>Comparing current database structure, please wait...</source>
-      <translation>Comparando la estructura actual de la base de datos, por favor espere...</translation>
+      <translation>Datu basearen estruktura analizatzen, itxoin mesedez...</translation>
     </message>
     <message>
       <source>Time zone</source>
-      <translation>Zona horaria</translation>
+      <translation>Ordu eremeua</translation>
     </message>
   </context>
   <context>
@@ -10479,23 +10564,23 @@
     </message>
     <message>
       <source>Mail settings</source>
-      <translation>Configuración del correo electrónico</translation>
+      <translation>Helbide elktronikoaren ezarpenak</translation>
     </message>
     <message>
       <source>Sender address</source>
-      <translation>Dirección del remitente</translation>
+      <translation>Bidaltzailearen helbidea</translation>
     </message>
     <message>
       <source>Default from e-mail address</source>
-      <translation>Dirección de email por defecto</translation>
+      <translation>Aurrezarritako email helbidea</translation>
     </message>
     <message>
       <source>Default from name</source>
-      <translation>Por defecto de nombre</translation>
+      <translation>Aurrezarritako izena</translation>
     </message>
     <message>
       <source>SMTP enabled</source>
-      <translation>SMTP habilitado</translation>
+      <translation>SMTP aktibatuta</translation>
     </message>
     <message>
       <source>Login</source>
@@ -10503,7 +10588,7 @@
     </message>
     <message>
       <source>Password</source>
-      <translation>Contraseña</translation>
+      <translation>Pasahitza</translation>
     </message>
     <message>
       <source>Host</source>
@@ -10511,57 +10596,57 @@
     </message>
     <message>
       <source>Port</source>
-      <translation>Puerto</translation>
+      <translation>Portua</translation>
     </message>
     <message>
       <source>Re-captcha settings</source>
-      <translation>Ajustes de Re-captcha</translation>
+      <translation>Re-captcharen ezarpenak</translation>
     </message>
     <message>
       <source>Transfer configuration</source>
-      <translation>Configuración de transferencia</translation>
+      <translation>Transferitu konfigurazioa</translation>
     </message>
   </context>
   <context>
     <name>system/recaptcha</name>
     <message>
       <source>Re-captcha settings</source>
-      <translation>Ajustes de Re-captcha</translation>
+      <translation>Re-captcharen ezarpenak</translation>
     </message>
     <message>
       <source>This works with V3 re-captcha.</source>
-      <translation>Esto funciona con V3 re-captcha.</translation>
+      <translation>Funtzionatzen du V3 re-captcharekin.</translation>
     </message>
     <message>
       <source>Get Re-captcha keys</source>
-      <translation>Obtener claves Re-captcha</translation>
+      <translation>Lortu Re-captcha giltzak</translation>
     </message>
     <message>
       <source>Site key</source>
-      <translation>Llave del Sitio</translation>
+      <translation>Lekuaren giltza</translation>
     </message>
     <message>
       <source>Secret key</source>
-      <translation>LLave Secreta</translation>
+      <translation>Giltza sekretua</translation>
     </message>
     <message>
       <source>Secret key is not shown!</source>
-      <translation>¡No se muestra la clave secreta!</translation>
+      <translation>Ez da giltza sekretua erakutsiko!</translation>
     </message>
   </context>
   <context>
     <name>system/transferconfiguration</name>
     <message>
       <source>Transfer configuration</source>
-      <translation>Configuración de transferencia</translation>
+      <translation>Transferentzia konfigurazioa</translation>
     </message>
     <message>
       <source>Options for chat transfer to department</source>
-      <translation>Opciones de transferencia de chat al departamento.</translation>
+      <translation>Departamentuen arteko transferentzia aukerak.</translation>
     </message>
     <message>
       <source>Settings updated</source>
-      <translation>Ajustes actualizados</translation>
+      <translation>Ezaprenak eguneratuak</translation>
     </message>
   </context>
   <context>
@@ -10576,47 +10661,47 @@
     </message>
     <message>
       <source>Make chat unassigned. Assigned operator will be unassigned</source>
-      <translation>Pasar el chat a no asignado. El operador asignado quedará sin asignar</translation>
+      <translation>Pasatu txata ez asignatu bezala. Asignatutako operadorea asignatu bezala pasatuko da</translation>
     </message>
     <message>
       <source>I receive other operators permissions request</source>
-      <translation>Recibo solicitud de permisos de otros operadores.</translation>
+      <translation>Beste operadoreen baimen eskaera jasotzen ditut.</translation>
     </message>
     <message>
       <source>Offline</source>
-      <translation>Desconectado</translation>
+      <translation>Deskinektauta</translation>
     </message>
     <message>
       <source>Invisible mode</source>
-      <translation>Modo invisible</translation>
+      <translation>Modu ikusezina</translation>
     </message>
     <message>
       <source>User receives other operators permissions request</source>
-      <translation>El usuario recibe solicitud de permisos de otros operadores.</translation>
+      <translation>Erbiltzialiea beste operadoreen baimenak hartzen ditu.</translation>
     </message>
     <message>
       <source>User group</source>
-      <translation>Grupo de usuarios</translation>
+      <translation>Erabiltzailearen tadea</translation>
     </message>
     <message>
       <source>Required groups, choose one or more</source>
-      <translation>Grupos requeridos, elija uno o más</translation>
+      <translation>Beharrezko taldeak, aukeratu bat edo gehio</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Deshabilitado</translation>
+      <translation>Desaktibatuta</translation>
     </message>
     <message>
       <source>User department</source>
-      <translation>Departamento del usuario</translation>
+      <translation>Erabiltzailearen departamenta</translation>
     </message>
     <message>
       <source>New user</source>
-      <translation>Nuevo usuario</translation>
+      <translation>Erabiltzaile berria</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation>Nombre de usuario</translation>
+      <translation>Erabiltzaile izena</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -10624,112 +10709,112 @@
     </message>
     <message>
       <source>Password</source>
-      <translation>Contraseña</translation>
+      <translation>Pasahitza</translation>
     </message>
     <message>
       <source>Repeat the new password</source>
-      <translation>Repita la nueva contraseña</translation>
+      <translation>Errepikatu pasahitz berria</translation>
     </message>
     <message>
       <source>Chat nickname</source>
-      <translation>Seudónimo en el Chat</translation>
+      <translation>Txataren ezizena</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Surname</source>
-      <translation>Apellido</translation>
+      <translation>Abizena</translation>
     </message>
     <message>
       <source>Photo</source>
-      <translation>Foto</translation>
+      <translation>Argazkia</translation>
     </message>
     <message>
       <source>Save</source>
-      <translation>Guardar</translation>
+      <translation>Gorde</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
       <source>Users</source>
-      <translation>Usuarios</translation>
+      <translation>Erabiltzailea</translation>
     </message>
     <message>
       <source>Please enter a group name</source>
-      <translation>Por favor, introduzca un nombre de grupo</translation>
+      <translation>Mesedez, idatzi taldearen izena</translation>
     </message>
   </context>
   <context>
     <name>system/update</name>
     <message>
       <source>Your version</source>
-      <translation>Su versión</translation>
+      <translation>Zure bertsioa</translation>
     </message>
     <message>
       <source>Current version</source>
-      <translation>Versión actual</translation>
+      <translation>Azkeneko bertsioa</translation>
     </message>
     <message>
       <source>News</source>
-      <translation>Noticias</translation>
+      <translation>Berria</translation>
     </message>
     <message>
       <source>Update instructions</source>
-      <translation>Instrucciones para actualizar</translation>
+      <translation>Eguneratzeko instrukzioa</translation>
     </message>
     <message>
       <source>Live Helper Chat update information</source>
-      <translation>Información de actualización de Live Helper Chat</translation>
+      <translation>Live Helpr Chataren eguneraketa informazioat</translation>
     </message>
   </context>
   <context>
     <name>update/statusdb</name>
     <message>
       <source>Database structure check</source>
-      <translation>Comprobación de estructura de la base de datos</translation>
+      <translation>Konprobatu datu basuaren estruktura</translation>
     </message>
     <message>
       <source>Your database does not require any updates</source>
-      <translation>Su base de datos no requiere actualización</translation>
+      <translation>Zure datu baseak ez du eguneraketarik behar</translation>
     </message>
     <message>
       <source>Update database</source>
-      <translation>Actualizar base de datos</translation>
+      <translation>Eguneratu datu baseak</translation>
     </message>
     <message>
       <source>Queries which will be executed on update</source>
-      <translation>Consultas que se ejecutarán al actualizar</translation>
+      <translation>Eguneraketan exekutatu behar den lanak</translation>
     </message>
   </context>
   <context>
     <name>icclicktocallform/form</name>
     <message>
       <source>Settings</source>
-      <translation>Configuración</translation>
+      <translation>Ezarpenak</translation>
     </message>
     <message>
       <source>Chat attributes</source>
-      <translation>Atributos de chat</translation>
+      <translation>Txaten atributoak</translation>
     </message>
     <message>
       <source>Main attributes</source>
-      <translation>Atributos principales</translation>
+      <translation>Atribito generalak</translation>
     </message>
     <message>
       <source>Header settings</source>
-      <translation>Ajustes del Encabezado</translation>
+      <translation>Headrraren ezarpenak</translation>
     </message>
     <message>
       <source>Header css</source>
-      <translation>CSS del Encabezado</translation>
+      <translation>Headeraren CSS</translation>
     </message>
     <message>
       <source>Static content</source>
-      <translation>Contenido estático</translation>
+      <translation>Eduki estatikoa</translation>
     </message>
     <message>
       <source>JS</source>
@@ -10741,130 +10826,130 @@
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Header content</source>
-      <translation>Contenido del Encabezado</translation>
+      <translation>Headerraren edukia</translation>
     </message>
     <message>
       <source>Resource name for replacement</source>
-      <translation>Nombre del recurso para el reemplazo</translation>
+      <translation>Erremplazatzeko errekurtsoaren izena.</translation>
     </message>
     <message>
       <source>Empty...</source>
-      <translation> Vacío ...</translation>
+      <translation> Hutsik ...</translation>
     </message>
     <message>
       <source>Invalid CSRF token!</source>
-      <translation>Token CSRF inválido!</translation>
+      <translation>Token CSRF ez bailidao!</translation>
     </message>
     <message>
       <source>Please enter a name</source>
-      <translation>Por favor, introduzca un nombre</translation>
+      <translation>Mesedez, idatzi izne bat</translation>
     </message>
     <message>
       <source>File not chosen for</source>
-      <translation>Archivo no elegido para</translation>
+      <translation>Fitxategia ez da aukeratu</translation>
     </message>
   </context>
   <context>
     <name>lhtheme/admin</name>
     <message>
       <source>New admin theme</source>
-      <translation>Nuevo tema de administración</translation>
+      <translation>Txantiloi berria admin txantiloia</translation>
     </message>
     <message>
       <source>Admin themes</source>
-      <translation>Temas del Admin</translation>
+      <translation>Admin txantiloia</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Operator</source>
-      <translation>Operador</translation>
+      <translation>Operadorea</translation>
     </message>
     <message>
       <source>Default admin theme</source>
-      <translation>Tema admin predeterminado</translation>
+      <translation>Admin txantiloi aurrezarria</translation>
     </message>
     <message>
       <source>Edit admin theme</source>
-      <translation>Editar tema de administrador</translation>
+      <translation>Editatu adminaren txantiloia</translation>
     </message>
     <message>
       <source>Personal theme</source>
-      <translation>Tema personal</translation>
+      <translation>Txantiloi pertsonala</translation>
     </message>
   </context>
   <context>
     <name>admintheme/form</name>
     <message>
       <source>Edit theme</source>
-      <translation>Editar tema</translation>
+      <translation>Esitatu txantiloia</translation>
     </message>
     <message>
       <source>Updated</source>
-      <translation>Actualizado</translation>
+      <translation>Eguneratua</translation>
     </message>
     <message>
       <source>Personal theme</source>
-      <translation>Tema personal</translation>
+      <translation>Txantiloi pertsonala</translation>
     </message>
   </context>
   <context>
     <name>theme/default</name>
     <message>
       <source>Set as default theme</source>
-      <translation>Establecer como tema predefinido</translation>
+      <translation>Txantiloi berria  berezarri da</translation>
     </message>
   </context>
   <context>
     <name>theme/import</name>
     <message>
       <source>Default theme was set</source>
-      <translation>Se ha establecido el tema predefinido</translation>
+      <translation>Txntiloi berezarria ezarri da</translation>
     </message>
     <message>
       <source>Default admin theme was set</source>
-      <translation>Se ha establecido el tema predefinido de administración</translation>
+      <translation>Administrazioko txantiloi berezarria ezarri da</translation>
     </message>
     <message>
       <source>Import theme</source>
-      <translation>Importar tema</translation>
+      <translation>Inportatu txantiloia</translation>
     </message>
     <message>
       <source>File</source>
-      <translation>Archivo</translation>
+      <translation>Fitxategia</translation>
     </message>
     <message>
       <source>Import</source>
-      <translation>Importar</translation>
+      <translation>Inportatu</translation>
     </message>
     <message>
       <source>Theme imported</source>
-      <translation>Tema importado</translation>
+      <translation>Txantiloia importatu da!</translation>
     </message>
     <message>
       <source>Could not import a new theme!</source>
-      <translation>No pudo importar el tema nuevo!</translation>
+      <translation>Ezin izan da txantiloi berria inportatua!</translation>
     </message>
     <message>
       <source>Invalid file!</source>
-      <translation>Archivo inválido!</translation>
+      <translation>Fitxategi ez balidoa!</translation>
     </message>
   </context>
   <context>
     <name>user/editgroup</name>
     <message>
       <source>Group edit</source>
-      <translation>Editar grupo</translation>
+      <translation>Editatu taldea</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation>Título</translation>
+      <translation>Izenburua</translation>
     </message>
     <message>
       <source>Member of this group can work with the following groups</source>
@@ -10876,108 +10961,108 @@
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Desactivado</translation>
+      <translation>Desaktibatu</translation>
     </message>
     <message>
       <source>Required</source>
-      <translation>Requerido</translation>
+      <translation>Beharrezkoa</translation>
     </message>
     <message>
       <source>If group is required, at least one group of required groups has to be selected.</source>
-      <translation>Si se requiere un grupo, se debe seleccionar al menos un grupo de los grupos requeridos.</translation>
+      <translation>Talde bat beharrezkoa bada, gutxienez tade bat aukeratzea beharrezkoa da.</translation>
     </message>
     <message>
       <source>Update</source>
-      <translation>Actualizar</translation>
+      <translation>Eguneratu</translation>
     </message>
     <message>
       <source>Assigned users</source>
-      <translation>Usuarios asignados</translation>
+      <translation>Asignatutako erabiltzaileak</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation>Nombre de usuario</translation>
+      <translation>Erabiltzaile izena</translation>
     </message>
     <message>
       <source>Remove user from the group</source>
-      <translation>Eliminar usuario del grupo</translation>
+      <translation>Borratu erabiltzailea taldetik</translation>
     </message>
     <message>
       <source>Assign user</source>
-      <translation>Asignar usuario</translation>
+      <translation>Asignatu erabiltzailea</translation>
     </message>
     <message>
       <source>Assigned roles</source>
-      <translation>Roles asignadas</translation>
+      <translation>Asignatutako rola</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Remove role from group</source>
-      <translation>Eliminar el rol del grupo</translation>
+      <translation>Borratu taldearen rola</translation>
     </message>
     <message>
       <source>Assign role</source>
-      <translation>Asignar rol</translation>
+      <translation>Asignatu rola</translation>
     </message>
     <message>
       <source>Please enter a group name</source>
-      <translation>Por favor ingrese un nombre de grupo</translation>
+      <translation>Mesedez, idatzi taldearen izena</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
       <source>Groups</source>
-      <translation>Grupos</translation>
+      <translation>Taldeak</translation>
     </message>
   </context>
   <context>
     <name>user/forgotpassword</name>
     <message>
       <source>Password reminder</source>
-      <translation>Recordatorio de contraseña</translation>
+      <translation>Gogoratu pashitza</translation>
     </message>
     <message>
       <source>E-mail</source>
-      <translation>Correo electrónico</translation>
+      <translation>Helbide elektronikoa</translation>
     </message>
     <message>
       <source>Restore password</source>
-      <translation>Restaurar contraseña</translation>
+      <translation>Berezarri pasahitza</translation>
     </message>
     <message>
       <source>Invalid e-mail address!</source>
-      <translation>E-mail inválido</translation>
+      <translation>E-mail ez balidoa</translation>
     </message>
     <message>
       <source>Password remind</source>
-      <translation>Recordar contraseña</translation>
+      <translation>Gogoratu pasahitza</translation>
     </message>
     <message>
       <source>Click this link and You will be sent a new password</source>
-      <translation>Haga click en este enlace y se le enviará una nueva contraseña</translation>
+      <translation>Egin click estekan eta pasahitz berria bidaliko zaizu</translation>
     </message>
   </context>
   <context>
     <name>user/forgotpasswordsent</name>
     <message>
       <source>Password reminder</source>
-      <translation>¿Olvido su contraseña?</translation>
+      <translation>Ahaztu duzu pasahitza?</translation>
     </message>
     <message>
       <source>E-mail sent. Click the link in the email and You will be sent out a new password.</source>
-      <translation>E-mail enviado. Haga clic en el enlace del correo electrónico y se le enviará una nueva contraseña.</translation>
+      <translation>E-maila bidalia. Egin klik emaileko linkean eta pasahitz berria bidaliko zaizu.</translation>
     </message>
   </context>
   <context>
     <name>user/groupassignuser</name>
     <message>
       <source>Username</source>
-      <translation>Usuario</translation>
+      <translation>Erabiltzailea</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -10985,81 +11070,81 @@
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Surname</source>
-      <translation>Apellido</translation>
+      <translation>Abizena</translation>
     </message>
     <message>
       <source>Assign</source>
-      <translation>Asignar</translation>
+      <translation>Asignatu</translation>
     </message>
     <message>
       <source>User was assigned to the group!</source>
-      <translation>El usuario fue asignado al grupo!</translation>
+      <translation>Erabiltzailea taldeari asignatu zaio!</translation>
     </message>
   </context>
   <context>
     <name>user/grouplist</name>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Edit group</source>
-      <translation>Editar grupo</translation>
+      <translation>Editatu taldea</translation>
     </message>
     <message>
       <source>Delete group</source>
-      <translation>Eliminar grupo</translation>
+      <translation>Borratu taldea</translation>
     </message>
     <message>
       <source>New group</source>
-      <translation>Nuevo grupo</translation>
+      <translation>Talde berria</translation>
     </message>
     <message>
       <source>Groups</source>
-      <translation>Grupos</translation>
+      <translation>Taldeak</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
   </context>
   <context>
     <name>user/import</name>
     <message>
       <source>Import users</source>
-      <translation>Importar usuarios</translation>
+      <translation>Inportatu erabiltzailea</translation>
     </message>
     <message>
       <source>CSV Separator</source>
-      <translation>Separador CSV</translation>
+      <translation>CSV separatzailea</translation>
     </message>
     <message>
       <source>Skip first row</source>
-      <translation>Saltar la primera fila</translation>
+      <translation>Salto egin lehenengo ilarara</translation>
     </message>
     <message>
       <source>File</source>
-      <translation>Archivo</translation>
+      <translation>Artxiboa</translation>
     </message>
     <message>
       <source>Import only one record to test</source>
-      <translation>Importar solo un registro para probar</translation>
+      <translation>Inportatu erregistro bakarra test moduan</translation>
     </message>
     <message>
       <source>Enter column number starting from 1</source>
-      <translation>Ingrese el número de columna comenzando desde 1</translation>
+      <translation>Idatzi zutabe zenbakia 1etik haisita</translation>
     </message>
     <message>
       <source>Import</source>
-      <translation>Importar</translation>
+      <translation>Inportatu</translation>
     </message>
     <message>
       <source>Updated!</source>
-      <translation>¡Actualizado!</translation>
+      <translation>Eguneratua!</translation>
     </message>
     <message>
       <source>Updated</source>
@@ -11067,11 +11152,11 @@
     </message>
     <message>
       <source>Username</source>
-      <translation>Nombre de usuario</translation>
+      <translation>Erabiltzaile izena</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation>Contraseña</translation>
+      <translation>Pasahitza</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -11079,27 +11164,27 @@
     </message>
     <message>
       <source>First name</source>
-      <translation>Primer nombre</translation>
+      <translation>Lehenengo Izena</translation>
     </message>
     <message>
       <source>Last name</source>
-      <translation>Apellido</translation>
+      <translation>Abizena</translation>
     </message>
     <message>
       <source>Nickname</source>
-      <translation>Seudónimo en el Chat</translation>
+      <translation>Ezizena</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Deshabilitado</translation>
+      <translation>Habilitatu abe</translation>
     </message>
     <message>
       <source>Hide Online</source>
-      <translation>Ocultar En Línea</translation>
+      <translation>Ezkutatu Online</translation>
     </message>
     <message>
       <source>Can access all departments</source>
-      <translation>Puede acceder a todos los departamentos.</translation>
+      <translation>Departamentu guztietara sar daiteke.</translation>
     </message>
     <message>
       <source>Skype</source>
@@ -11107,167 +11192,167 @@
     </message>
     <message>
       <source>Job title</source>
-      <translation>Cargo</translation>
+      <translation>Kargua</translation>
     </message>
     <message>
       <source>Time Zone</source>
-      <translation>Zona horaria</translation>
+      <translation>Ordutegi zonaldea</translation>
     </message>
     <message>
       <source>Invisible</source>
-      <translation>Invisible</translation>
+      <translation>Ikusgabea</translation>
     </message>
     <message>
       <source>Username field not found!</source>
-      <translation>Campo de nombre de usuario no encontrado!</translation>
+      <translation>Erabiltzaile izenaren kanpoa ez da aurkitu!</translation>
     </message>
   </context>
   <context>
     <name>user/login</name>
     <message>
       <source>Please login</source>
-      <translation>Por favor, inicie sesión</translation>
+      <translation>Mesedez, hasi saioa</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation>Usuario</translation>
+      <translation>Erabiltzailea</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation>Contraseña</translation>
+      <translation>Pasahitza</translation>
     </message>
     <message>
       <source>Remember me</source>
-      <translation>Recuérdame</translation>
+      <translation>Gogoratu</translation>
     </message>
     <message>
       <source>Login</source>
-      <translation>Acceso</translation>
+      <translation>Sartu</translation>
     </message>
     <message>
       <source>Password reminder</source>
-      <translation>Recordar contraseña</translation>
+      <translation>Gogoratu pasahitza</translation>
     </message>
     <message>
       <source>Your session has ended. Please login!</source>
-      <translation type="unfinished"/>
+      <translation>Zure sesioa bukatu da. Hasi saioa!</translation>
     </message>
     <message>
       <source>You were logged out because another user logged under same account</source>
-      <translation>Se desconectó porque otro usuario inició sesión en la misma cuenta</translation>
+      <translation>Deskonektatu zara beste erabiltzaile batek kontu berdinean saioa hasi duelako</translation>
     </message>
     <message>
       <source>Your password has expired. Please update it</source>
-      <translation>Su contraseña ha expirado. Por favor actualícela.</translation>
+      <translation>Pasahitza iragindu da. Mesedez, eguneratu.</translation>
     </message>
     <message>
       <source>Go to back office</source>
-      <translation>Volver al Panel de Administración</translation>
+      <translation>Buestatu administrazio bulegora</translation>
     </message>
     <message>
       <source>Old password</source>
-      <translation>Contraseña anterior</translation>
+      <translation>Aurreko pasahitza</translation>
     </message>
     <message>
       <source>New password</source>
-      <translation>Nueva contraseña</translation>
+      <translation>Pasahitz berria</translation>
     </message>
     <message>
       <source>Repeat password</source>
-      <translation>Repetir contraseña</translation>
+      <translation>Errepitkatu pasahitza</translation>
     </message>
     <message>
       <source>Update password</source>
-      <translation>Actualizar contraseña</translation>
+      <translation>Egunerato pasahitza</translation>
     </message>
     <message>
       <source>CSFR token is invalid, try to resubmit form</source>
-      <translation>El token CSRF no es válido, intente reenviar el formulario</translation>
+      <translation>Token CSFR es da balidoa, saiatu formularioa berriro bidaltzen</translation>
     </message>
     <message>
       <source>Google re-captcha validation failed</source>
-      <translation>Falló la validación de Google re-captcha</translation>
+      <translation>Google re-captcharren balidazioa failatu du</translation>
     </message>
     <message>
       <source>Incorrect username or password</source>
-      <translation>Nombre de usuario o contraseña incorrectos</translation>
+      <translation>Erabiltzailea edo pasahitza gaizki dago</translation>
     </message>
     <message>
       <source>Logged in successfully</source>
-      <translation>Sesión iniciada con éxito</translation>
+      <translation>Saioa hasi da arrakatsarekin</translation>
     </message>
     <message>
       <source>User could not be found!</source>
-      <translation>¡El usuario no pudo ser encontrado!</translation>
+      <translation>Ez da aurkitu erabiltzailea!</translation>
     </message>
   </context>
   <context>
     <name>user/newgroup</name>
     <message>
       <source>New group</source>
-      <translation>Nuevo grupo</translation>
+      <translation>Talde berria</translation>
     </message>
     <message>
       <source>Title</source>
-      <translation>Título</translation>
+      <translation>Izenburua</translation>
     </message>
     <message>
       <source>Save</source>
-      <translation>Guardar</translation>
+      <translation>Gorde</translation>
     </message>
     <message>
       <source>Save and assign the user</source>
-      <translation>Guardar y asignar el usuario</translation>
+      <translation>Gorde eta asignatu erabiltzailea</translation>
     </message>
     <message>
       <source>System configuration</source>
-      <translation>Configuración del sistema</translation>
+      <translation>Sistemaren ezarpenak</translation>
     </message>
     <message>
       <source>Groups</source>
-      <translation>Grupos</translation>
+      <translation>Taldeak</translation>
     </message>
   </context>
   <context>
     <name>user/remindpassword</name>
     <message>
       <source>New password</source>
-      <translation>Nueva contraseña</translation>
+      <translation>Pasahitza berrai</translation>
     </message>
     <message>
       <source>Hash was not found or was used already</source>
-      <translation>No se encontró el hash o ya ha sido utilizado</translation>
+      <translation>Ez da aurkitu hash-a edo erabilia izan da</translation>
     </message>
     <message>
       <source>Password remind - new password</source>
-      <translation>Recordatorio de contraseña - nueva contraseña</translation>
+      <translation>Gogoratu pasahitza - pasahitza berria</translation>
     </message>
     <message>
       <source>New password:</source>
-      <translation>Nueva contraseña:</translation>
+      <translation>Pasahitza berria:</translation>
     </message>
     <message>
       <source>New password has been sent to your email.</source>
-      <translation>La nueva contraseña ha sido enviada a su correo electrónico.</translation>
+      <translation>Pasahitza emailera bidali da.</translation>
     </message>
   </context>
   <context>
     <name>user/wentinactive</name>
     <message>
       <source>Because of inactivity you went offline, click continue to go online.</source>
-      <translation>Se desconectó debido a la inactividad, haga clic en continuar para conectarse.</translation>
+      <translation>Inaktibitatea dela eta deskonektatu zaizu, egin klik jarraitun online joateko.</translation>
     </message>
     <message>
       <source>Continue</source>
-      <translation>Continuar</translation>
+      <translation>Jarraitu</translation>
     </message>
     <message>
       <source>Logout</source>
-      <translation>Cerrar Sesión</translation>
+      <translation>Itxi saioa</translation>
     </message>
     <message>
       <source>Offline</source>
-      <translation>Desconectado</translation>
+      <translation>Deskonektauta</translation>
     </message>
   </context>
   <context>
@@ -11278,261 +11363,261 @@
     </message>
     <message>
       <source>IP address</source>
-      <translation>Dirección IP</translation>
+      <translation>IP helbidea</translation>
     </message>
     <message>
       <source>Current page</source>
-      <translation>Página actual</translation>
+      <translation>Oraingo orria</translation>
     </message>
     <message>
       <source>Last visit</source>
-      <translation>Última visita</translation>
+      <translation>Azkeneko bisita</translation>
     </message>
     <message>
       <source>User agent</source>
-      <translation>Agente</translation>
+      <translation>Agentea</translation>
     </message>
     <message>
       <source>Country code</source>
-      <translation>Código del país</translation>
+      <translation>Hiriaren kodea</translation>
     </message>
     <message>
       <source>Country name</source>
-      <translation>Nombre del país</translation>
+      <translation>Herrialdearen izena</translation>
     </message>
     <message>
       <source>Message seen</source>
-      <translation>Mensaje visto</translation>
+      <translation>Mezua ikusia</translation>
     </message>
   </context>
   <context>
     <name>abstract/product</name>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Priority</source>
-      <translation>Prioridad</translation>
+      <translation>Prioritatea</translation>
     </message>
     <message>
       <source>Product</source>
-      <translation>Producto</translation>
+      <translation>Produktua</translation>
     </message>
     <message>
       <source>API Key</source>
-      <translation>Clave API</translation>
+      <translation>API Giltza</translation>
     </message>
     <message>
       <source>Rest API Remote Keys</source>
-      <translation>LLaves Remotas API Rest</translation>
+      <translation>API Erremotoaren Giltza</translation>
     </message>
   </context>
   <context>
     <name>abstract/survey</name>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Feedback text</source>
-      <translation>Texto de retroalimentación</translation>
+      <translation>Feedbak testua</translation>
     </message>
     <message>
       <source>Max stars for feedback</source>
-      <translation>Max estrellas para comentarios</translation>
+      <translation>Iruzkinetarako gehiegizko izarrak</translation>
     </message>
     <message>
       <source>Max stars pos</source>
-      <translation>Max estrellas pos</translation>
+      <translation>Gehiegizko izarrak</translation>
     </message>
     <message>
       <source>Title for evaluation</source>
-      <translation>Titulo para evaluaciación</translation>
+      <translation>Ebaluazioaren izenburua</translation>
     </message>
     <message>
       <source>Required</source>
-      <translation>Obligatorio</translation>
+      <translation>Beharrezkoa</translation>
     </message>
     <message>
       <source>Title for plain question</source>
-      <translation>Titulo de la pregunta</translation>
+      <translation>Galderaren izenburua</translation>
     </message>
     <message>
       <source>Title for custom questions</source>
-      <translation>Título para preguntas personalizadas</translation>
+      <translation>Pertsonalizatutako galderen izenburua</translation>
     </message>
     <message>
       <source>Survey</source>
-      <translation>Encuesta</translation>
+      <translation>Inkesta</translation>
     </message>
   </context>
   <context>
     <name>file/file</name>
     <message>
       <source>Download file</source>
-      <translation>Descargar archivo</translation>
+      <translation>Deskargatu fitxategia</translation>
     </message>
     <message>
       <source>Collected survey data</source>
-      <translation>Información de encuestas recogida</translation>
+      <translation>Inkestetetan lortutako datuak</translation>
     </message>
   </context>
   <context>
     <name>chat/chatcommand</name>
     <message>
       <source>Nick changed!</source>
-      <translation>Cambió el Seudónimo!</translation>
+      <translation>Ezizena aldatu da!</translation>
     </message>
     <message>
       <source>Chat status changed on-hold!</source>
-      <translation>Estado del chat cambiado a en espera!</translation>
+      <translation>Txataren egoera itxoin egoerara aldatu da!</translation>
     </message>
     <message>
       <source>Chat was transferred to bot!</source>
-      <translation>El chat fue transferido al bot!</translation>
+      <translation>Txata botari transferitu zaio!</translation>
     </message>
     <message>
       <source>E-mail changed!</source>
-      <translation>Correo electrónico cambiado!</translation>
+      <translation>Emaila aldatua!</translation>
     </message>
     <message>
       <source>You do not have permission to transfer chat directly!</source>
-      <translation>¡No tiene el permiso para transferir el chat directamente!</translation>
+      <translation>Ez daukazu txata zuzenean tranferitzeko baimenik!</translation>
     </message>
     <message>
       <source>User could not be found!</source>
-      <translation>¡El usuario no pudo ser encontrado!</translation>
+      <translation>Ez da aurkitu erabiltzailea!</translation>
     </message>
     <message>
       <source>Phone changed!</source>
-      <translation>Teléfono cambiado!</translation>
+      <translation>Telefonoa aldatuta!</translation>
     </message>
     <message>
       <source>User was redirected!</source>
-      <translation>¡El usuario fue redirigido!</translation>
+      <translation>Erabiltzailea eramana izan da!</translation>
     </message>
     <message>
       <source>Screenshot was scheduled!</source>
-      <translation>La captura de pantalla fue programada!</translation>
+      <translation>Kaptura programatua izan da!</translation>
     </message>
     <message>
       <source>User was redirected to contact form!</source>
-      <translation>El visitante se ha redirigido al formulario de contacto</translation>
+      <translation>Erabiltzailea kontaktu formulariora eramana izan da!</translation>
     </message>
     <message>
       <source>User was blocked!</source>
-      <translation>El usuario fue bloqueado!</translation>
+      <translation>Erabiltzailea blokeatuta izan da!</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Departamenuta</translation>
     </message>
     <message>
       <source>Started chat from</source>
-      <translation>Chat iniciado desde</translation>
+      <translation>Txata hasia</translation>
     </message>
     <message>
       <source>Refered from</source>
-      <translation>Referido desde</translation>
+      <translation>Nondik etorria</translation>
     </message>
     <message>
       <source>Current page</source>
-      <translation>Página actual</translation>
+      <translation>Orri aktuaka</translation>
     </message>
     <message>
       <source>E-mail</source>
-      <translation>E-mail</translation>
+      <translation>E-maila</translation>
     </message>
     <message>
       <source>Phone</source>
-      <translation>Teléfono</translation>
+      <translation>Telefonoa</translation>
     </message>
     <message>
       <source>Country</source>
-      <translation>País</translation>
+      <translation>Hiria</translation>
     </message>
     <message>
       <source>Chat was closed!</source>
-      <translation>El chat fue cerrado.</translation>
+      <translation>Txata izan zen.</translation>
     </message>
     <message>
       <source>You do not have permission to close a chat!</source>
-      <translation>Usted no tiene permiso para cerrar un chat actual!</translation>
+      <translation>Ez daukazu txat hau ixteko baimenik!</translation>
     </message>
     <message>
       <source>Chat was deleted!</source>
-      <translation>El chat ha sido eliminado</translation>
+      <translation>Txata borratua izan da!</translation>
     </message>
     <message>
       <source>You do not have permission to delete a chat!</source>
-      <translation>Usted no tiene derechos para eliminar un chat!</translation>
+      <translation>Ez duzu txata borratzeko baimenik!</translation>
     </message>
     <message>
       <source>Chat status was changed to pending!</source>
-      <translation>Estado del chat cambiado a pendiente!</translation>
+      <translation>Txataren egoera pendientera aldatu da!</translation>
     </message>
     <message>
       <source>Chat status was changed to active!</source>
-      <translation>Estado del chat cambiado a activo!</translation>
+      <translation>Txataren egoera aktibora aldatu da!</translation>
     </message>
     <message>
       <source>Remarks were saved!</source>
-      <translation>Los comentarios fueron guardados!</translation>
+      <translation>Iruzkinak gorde dira!</translation>
     </message>
   </context>
   <context>
     <name>chat/accepttrasnfer</name>
     <message>
       <source>Chat has been transfered to</source>
-      <translation>El chat ha sido transferido a</translation>
+      <translation>Txata trasnsferitua izan da</translation>
     </message>
     <message>
       <source>has joined the chat!</source>
-      <translation>se ha unido al chat!</translation>
+      <translation>batu da txatera!</translation>
     </message>
     <message>
       <source>has accepted a chat!</source>
-      <translation>¡ha aceptado el chat!</translation>
+      <translation>baimendu du txata!</translation>
     </message>
   </context>
   <context>
     <name>chat/chatexport</name>
     <message>
       <source>Department name</source>
-      <translation>Nombre del Departamento</translation>
+      <translation>Departamentuaren izena</translation>
     </message>
     <message>
       <source>Pending chats number</source>
-      <translation>Nto. de Chat Pendientes</translation>
+      <translation>Pendiente dauden txat kantitatea</translation>
     </message>
     <message>
       <source>Active chats number</source>
-      <translation>Nro de Chats Activos</translation>
+      <translation>Aktibo dauden txat kantitatea</translation>
     </message>
     <message>
       <source>Visitor Name</source>
-      <translation>Nombre del visitante</translation>
+      <translation>Bisitariaren izena</translation>
     </message>
     <message>
       <source>E-mail</source>
-      <translation>Correo electrónico</translation>
+      <translation>Helbide elektronikoa</translation>
     </message>
     <message>
       <source>Phone</source>
-      <translation>Teléfono</translation>
+      <translation>Telefonoa</translation>
     </message>
     <message>
       <source>Wait time</source>
-      <translation>Tiempo de espera</translation>
+      <translation>Itxoitako denbora</translation>
     </message>
     <message>
       <source>Country</source>
-      <translation>País</translation>
+      <translation>Herrialdea</translation>
     </message>
     <message>
       <source>City</source>
-      <translation>Ciudad</translation>
+      <translation>Hiria</translation>
     </message>
     <message>
       <source>IP</source>
@@ -11540,63 +11625,63 @@
     </message>
     <message>
       <source>Operator</source>
-      <translation>Operador</translation>
+      <translation>Operadorea</translation>
     </message>
     <message>
       <source>Department</source>
-      <translation>Departamento</translation>
+      <translation>Departamentua</translation>
     </message>
     <message>
       <source>Date</source>
-      <translation>Fecha</translation>
+      <translation>Data</translation>
     </message>
     <message>
       <source>Minutes</source>
-      <translation>Minutos</translation>
+      <translation>Minutu</translation>
     </message>
     <message>
       <source>Vote status</source>
-      <translation>Estado de Votación</translation>
+      <translation>Bozkaketaren egoera</translation>
     </message>
     <message>
       <source>Mail send</source>
-      <translation>Correo enviado</translation>
+      <translation>Emaila bidalia</translation>
     </message>
     <message>
       <source>Page</source>
-      <translation>Página</translation>
+      <translation>Orria</translation>
     </message>
     <message>
       <source>Came from</source>
-      <translation>Viene desde</translation>
+      <translation>Nondik etorria</translation>
     </message>
     <message>
       <source>Link</source>
-      <translation>Enlace</translation>
+      <translation>Esteka</translation>
     </message>
     <message>
       <source>Remarks</source>
-      <translation>Observaciones</translation>
+      <translation>Ikuskizunak</translation>
     </message>
     <message>
       <source>Additional data</source>
-      <translation>Datos adicionales</translation>
+      <translation>Datu gehio</translation>
     </message>
     <message>
       <source>Survey data</source>
-      <translation>Datos de encuesta</translation>
+      <translation>Inkesten datuak</translation>
     </message>
     <message>
       <source>Chat content</source>
-      <translation>Contenido del Chat</translation>
+      <translation>Txataren edukia1</translation>
     </message>
     <message>
       <source>User ID</source>
-      <translation>Usuario ID</translation>
+      <translation>Erabiltzailearen IDa</translation>
     </message>
     <message>
       <source>Chat average in seconds</source>
-      <translation>Promedio de Chat en segundos</translation>
+      <translation>Txaten bataz bestekoa segunduetan</translation>
     </message>
     <message>
       <source>Agent</source>
@@ -11604,125 +11689,635 @@
     </message>
     <message>
       <source>Chats</source>
-      <translation>Chats</translation>
+      <translation>Txat</translation>
     </message>
     <message>
       <source>Total number of chats</source>
-      <translation>Total de chats</translation>
+      <translation>Txat guztira</translation>
     </message>
     <message>
       <source>Number of chats while online</source>
-      <translation>Número de chats mientras estaba online</translation>
+      <translation>Online bitarteko txat zenbakia</translation>
     </message>
     <message>
       <source>Hours on chat (sum of chat duration)</source>
-      <translation>Horas en el chat (suma de la duración del chat)</translation>
+      <translation>Orudak txatean (txat guztien iraupenen durazioa)</translation>
     </message>
     <message>
       <source>Time online (sum of time spend online)</source>
-      <translation>Tiempo conectado (suma de todo el tiempo empleado conectado)</translation>
+      <translation>Konektatutako denbora (konektaturiko denbora osoa)</translation>
     </message>
     <message>
       <source>AVG number of chat per hour</source>
-      <translation>Número de chats por hora</translation>
+      <translation>Txat ordukoen bataz bestekoa</translation>
     </message>
     <message>
       <source>Average pick-up time</source>
-      <translation>Tiempo medio de respuesta</translation>
+      <translation>Erantzunen bataz-bestekoa</translation>
     </message>
     <message>
       <source>Average chat length</source>
-      <translation>Longitud media de chat</translation>
+      <translation>Txataren irapen bataz-bestekoa</translation>
     </message>
     <message>
       <source>Online</source>
-      <translation>En Linea</translation>
+      <translation>Online</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Desabilitado</translation>
+      <translation>Desaktibatuta</translation>
     </message>
     <message>
       <source>Overloaded</source>
-      <translation>Sobrecargado</translation>
+      <translation>Gehiegi kargatua</translation>
     </message>
     <message>
       <source>Offline</source>
-      <translation>Fuera de Linea</translation>
+      <translation>Offline</translation>
     </message>
     <message>
       <source>Hour</source>
-      <translation>Hora</translation>
+      <translation>Ordua</translation>
     </message>
   </context>
   <context>
     <name>chat/closechatadmin</name>
     <message>
       <source>has redirected visitor to contact form!</source>
-      <translation>ha redirigido al usuario al formulario de contacto!</translation>
+      <translation>eraman du bisitaria kontaktu formulariora!</translation>
     </message>
     <message>
       <source>has redirected visitor to survey form!</source>
-      <translation>Ha redirigido al visitante al formulario de encuesta!</translation>
+      <translation>eraman du erabiltzailea inkestara!</translation>
     </message>
     <message>
       <source>Bot</source>
-      <translation>Robot</translation>
+      <translation>Robota</translation>
     </message>
     <message>
       <source>has closed the chat!</source>
-      <translation>ha cerrado el chat!</translation>
+      <translation>itxi du txata!</translation>
     </message>
     <message>
       <source>Visitor auto responder was reset because of sync timeout, returned after</source>
-      <translation>El contestador automático de visitantes se restableció debido al tiempo de espera de sincronización, devuelto después</translation>
+      <translation>Auto erresponderra erreseteatu izan da sinkronizazio denbora dela eta, bueltatu ondoren</translation>
     </message>
     <message>
       <source>seconds!</source>
-      <translation>segundos!</translation>
+      <translation>segundu!</translation>
     </message>
     <message>
       <source>Visitor auto responder was reset because the visitor returned!</source>
-      <translation>¡El contestador automático del visitante se restableció porque el visitante volvió!</translation>
+      <translation>Auto responderrek ereseteatu egun da bisitatzaileak bueltatu delako!</translation>
     </message>
     <message>
       <source>Visitor was redirected to survey by auto responder!</source>
-      <translation>¡El visitante fue redirigido a la encuesta por contestador automático!</translation>
+      <translation>Auto responderrek inkesara eraman du inkestara!</translation>
     </message>
     <message>
       <source>changed chat department from</source>
-      <translation>cambiado el departamento de chat de</translation>
+      <translation>aldatu du txataren departamentua</translation>
     </message>
     <message>
       <source>to</source>
-      <translation>para</translation>
+      <translation>norentzat</translation>
     </message>
     <message>
       <source>changed visitor nick from</source>
-      <translation>Seudónimo de visitante cambiado</translation>
+      <translation>Bisitariaren ezizena aldatua</translation>
     </message>
   </context>
   <context>
     <name>departament/edit</name>
     <message>
       <source>Please enter a department name</source>
-      <translation>Por favor ingrese un nombre de departamento</translation>
+      <translation>Mesedes, idatzi departamentu izen bat</translation>
     </message>
     <message>
       <source>Minimum 5 seconds</source>
-      <translation>5 segundos mínimo</translation>
+      <translation>5 segundu gutxieneza</translation>
     </message>
     <message>
       <source>Transfer department has to be different one than self</source>
-      <translation>El departamento a transferir tiene que ser diferente al actual</translation>
+      <translation>Transferituko den departamentua ezin da honen berdina izan</translation>
     </message>
     <message>
       <source>Please enter bot name!</source>
-      <translation>Por favor, introduzca el nombre de bot!</translation>
+      <translation>Mesedez, idatzi botaren izena!</translation>
     </message>
     <message>
       <source>Please enter bot nick!</source>
-      <translation>Por favor, ingrese su Seudónimo</translation>
+      <translation>Mesedez, idatzi botaren ezizena</translation>
     </message>
     <message>
-      <source>Please enter trans
+      <source>Please enter translation group name!</source>
+      <translation>Mesedez, idatzi itzulketen tadearen izena!</translation>
+    </message>
+    <message>
+      <source>Please enter default translation!</source>
+      <translation type="unfinished"/>
+    </message>
+    <message>
+      <source>Please choose a group!</source>
+      <translation>Mesedez, aukeratu talde bat!</translation>
+    </message>
+    <message>
+      <source>Please enter exception group name!</source>
+      <translation>Mesedez, idatzi exzepzio taldearen izena!</translation>
+    </message>
+    <message>
+      <source>Please enter chat id!</source>
+      <translation>Mesedez, sartu txat id-a!</translation>
+    </message>
+    <message>
+      <source>Please enter a valid from date range!</source>
+      <translation>Mesedez, idatzi noiztik data!</translation>
+    </message>
+    <message>
+      <source>Please enter a valid to date range!</source>
+      <translation>Mesedez, noiz harteko data!</translation>
+    </message>
+  </context>
+  <context>
+    <name>departament/editgroup</name>
+    <message>
+      <source>Please enter a department group name</source>
+      <translation>Mesedez idatzi departamentu taldearen izena</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhrestapi/validation</name>
+    <message>
+      <source>Authorization failed!</source>
+      <translation>Autorizazioa failatu da!</translation>
+    </message>
+    <message>
+      <source>You do not have permission to use REST API directly. &quot;lhrestapi&quot;, &quot;use_direct_logins&quot; is missing!</source>
+      <translation>Ez daukazu REST API zuzenean erabiltzeko baimenik. &quot;lhrestapi&quot;, &quot;use_direct_logins&quot; falta da!</translation>
+    </message>
+    <message>
+      <source>Authorization header is missing!</source>
+      <translation>Header autorizazioa faltan da!</translation>
+    </message>
+    <message>
+      <source>Could not find chat by chat_id!</source>
+      <translation>Ezin izan da txat bat aurkitu chat_id-arekin!</translation>
+    </message>
+    <message>
+      <source>You do not have permission to read this chat!</source>
+      <translation>Ez duzu txat hau irakurtzeko baimenik!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/validator</name>
+    <message>
+      <source>Please enter a username</source>
+      <translation>Mesedez, idatzi erabiltzaile bat</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Erabiltzailea existitzen da</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Pasahitzak ez dute koinziditzne</translation>
+    </message>
+    <message>
+      <source>User action type not set</source>
+      <translation>Tipo de acción del usuario no configurado</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Emal hebidea ez dago ongi</translation>
+    </message>
+    <message>
+      <source>Please enter a name</source>
+      <translation>Mesedez, idatzi izen bat</translation>
+    </message>
+    <message>
+      <source>You have to choose one of required groups!</source>
+      <translation>Beharrezko talde bat aukeratu behar duzu!</translation>
+    </message>
+    <message>
+      <source>You are trying to assign group which are not known!</source>
+      <translation>Koinziditzen ez diren grupo batean asignatzen saiatzen ari zara!</translation>
+    </message>
+    <message>
+      <source>Please choose a default user group</source>
+      <translation>Mesedez, aukeratu aurrezarritako erabiltzaile talde bat</translation>
+    </message>
+    <message>
+      <source>Password has to be atleast</source>
+      <translation>Pasahitza gutxienez</translation>
+    </message>
+    <message>
+      <source>characters length</source>
+      <translation>karaktere luzeera izan behar du</translation>
+    </message>
+    <message>
+      <source>Password has to have at-least one uppercase letter</source>
+      <translation>Pasahitzak zenbaki bat izan behar du gutxienez</translation>
+    </message>
+    <message>
+      <source>Password has to have at-least one number</source>
+      <translation>La contraseña debe tener al menos un número</translation>
+    </message>
+    <message>
+      <source>Password has to have at-least one special character</source>
+      <translation>Pasahitzak karaktere espezial bat izan behar du gutxienez</translation>
+    </message>
+    <message>
+      <source>Old password incorrect!</source>
+      <translation>Pasahitza zahara gaizki dago!</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch!</source>
+      <translation>Pasahitzak ez dute koinziditzen!</translation>
+    </message>
+    <message>
+      <source>Old and new password has to be different!</source>
+      <translation>Pasahitza ezin da zaharraren berdina izan!</translation>
+    </message>
+  </context>
+  <context>
+    <name>abstract/browserofferinvitation</name>
+    <message>
+      <source>Name for personal purposes</source>
+      <translation>Proposito pertsonalerako izena</translation>
+    </message>
+    <message>
+      <source>Language, leave empty for all. E.g lit, rus, ger etc...</source>
+      <translation>Hizkuntza, utzi hutsik guztietarako. Adb. lit, rus, ger, etc...</translation>
+    </message>
+    <message>
+      <source>Time on site on single page in seconds</source>
+      <translation>Lekuko orrian denbora segundutan</translation>
+    </message>
+    <message>
+      <source>Priority, the lower the higher</source>
+      <translation>Prioritatea, ahalik eta txikien orduan prioritate altuagoa</translation>
+    </message>
+    <message>
+      <source>Popup width</source>
+      <translation>Popuparen zabaleara</translation>
+    </message>
+    <message>
+      <source>Popup height</source>
+      <translation>Popuparen altuera</translation>
+    </message>
+    <message>
+      <source>Measure units, px or percents</source>
+      <translation>Neurketa unitatea, px edo portzentaia</translation>
+    </message>
+    <message>
+      <source>Referrer domain without www, E.g google keyword will match any of google domain</source>
+      <translation>Erreferentziako domeinua www gabe, Adb. googke hitza balidoa izango da google domeinu guztietan</translation>
+    </message>
+    <message>
+      <source>URL, enter * at the end for the wildcard</source>
+      <translation>URL, sartu * bukaeran wildcardentako</translation>
+    </message>
+    <message>
+      <source>Custom iframe URL, takes priority over default content</source>
+      <translation>Iframearen URL pertsonalizata, edukiaren gainezko prioritatea dauka</translation>
+    </message>
+    <message>
+      <source>Default popup content</source>
+      <translation>Popuparen ediki aurrezarria</translation>
+    </message>
+    <message>
+      <source>Callback content, must be valid json</source>
+      <translation>Erantzunaren edukia, json balidoa izan beharko da</translation>
+    </message>
+    <message>
+      <source>Load content in lhc iframe</source>
+      <translation>Iframeko edukia kargatu</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktiboa</translation>
+    </message>
+    <message>
+      <source>Identifier, for what identifier this message should be shown, leave empty for all</source>
+      <translation>Identibikatzailea, ze identifikatzailerako erakutsi behar den, uzi hutsik guztietarako</translation>
+    </message>
+    <message>
+      <source>Matched times</source>
+      <translation>Aldi aurkitua</translation>
+    </message>
+    <message>
+      <source>Browser offer invitations</source>
+      <translation>Nabigatzailearen oferten gonbidapena</translation>
+    </message>
+    <message>
+      <source>Content</source>
+      <translation>Edukia</translation>
+    </message>
+    <message>
+      <source>Name attributes</source>
+      <translation>Izendatu atributuak</translation>
+    </message>
+    <message>
+      <source>Introduction attributes</source>
+      <translation>Sarrerako atributoak</translation>
+    </message>
+    <message>
+      <source>XLS Columns</source>
+      <translation>XLS Zutabeak</translation>
+    </message>
+    <message>
+      <source>Recipient</source>
+      <translation>Jasotzen du</translation>
+    </message>
+    <message>
+      <source>Post content after form is submitted</source>
+      <translation>Posteatu edukia bidali ondoren</translation>
+    </message>
+    <message>
+      <source>Custom pagelayout</source>
+      <translation>Petsonalizatu orriaren formatua</translation>
+    </message>
+    <message>
+      <source>Forms list</source>
+      <translation>Formularioentzako zerrenda</translation>
+    </message>
+  </context>
+  <context>
+    <name>abstract/email_template</name>
+    <message>
+      <source>Name, for personal purposes</source>
+      <translation>Izena, gai pertsonaleentzako</translation>
+    </message>
+    <message>
+      <source>Subject</source>
+      <translation>Gaia</translation>
+    </message>
+    <message>
+      <source>Allow user to change subject</source>
+      <translation>Baimendu erabiltzailea gaia aldatzeko</translation>
+    </message>
+    <message>
+      <source>From name</source>
+      <translation>Izenez</translation>
+    </message>
+    <message>
+      <source>Allow to change from name</source>
+      <translation>Baimendu noren izena aldatzea</translation>
+    </message>
+    <message>
+      <source>From e-mail</source>
+      <translation>Noren emila</translation>
+    </message>
+    <message>
+      <source>Allow to change from e-mail</source>
+      <translation>Nor bidaliko Email aldaketa baimendu</translation>
+    </message>
+    <message>
+      <source>Use user e-mail as from address</source>
+      <translation>Erabili erabiltzailearen emaila noren helbidetik</translation>
+    </message>
+    <message>
+      <source>Reply to</source>
+      <translation>Erantzun</translation>
+    </message>
+    <message>
+      <source>Allow to change reply e-mail</source>
+      <translation>Erantzuteko emailaren aldaketak baimendu</translation>
+    </message>
+    <message>
+      <source>Recipient email, this is used if the application could not determine who should receive an email.</source>
+      <translation>Hatrtzailearen emaila, hau erabiltzen da aplikazioak ezin badu determinatu nori bidali behar zaionean.</translation>
+    </message>
+    <message>
+      <source>BCC recipients, can be separated by comma.</source>
+      <translation>BCC hartzaileak komen bidez separatu daitezke.</translation>
+    </message>
+    <message>
+      <source>Content</source>
+      <translation>Contenido</translation>
+    </message>
+    <message>
+      <source>E-mail templates</source>
+      <translation>Emailaen txantiloia</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/deletechatadmin</name>
+    <message>
+      <source>You do not have rights to delete a chat</source>
+      <translation>Ez duzu txata borratzeko eskubiderik</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/voteaction</name>
+    <message>
+      <source>User has updated his profile information</source>
+      <translation>Erabiltzaileak bere profilaren informazioa egunertau du</translation>
+    </message>
+    <message>
+      <source>Thumbs up</source>
+      <translation>Onartu</translation>
+    </message>
+    <message>
+      <source>Thumbs down</source>
+      <translation>Ez onartu</translation>
+    </message>
+    <message>
+      <source>Removed thumb vote</source>
+      <translation>Borratu botoa</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/refreshcustomfields</name>
+    <message>
+      <source>Custom chat data was saved</source>
+      <translation>Pertsonalizatutako txaten data gorde da</translation>
+    </message>
+    <message>
+      <source>Data refreshed</source>
+      <translation>Datuak eguneratuak</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/reopenchat</name>
+    <message>
+      <source>has reopened the chat!</source>
+      <translation>berireki du txata!</translation>
+    </message>
+    <message>
+      <source>No permission to reopen the chat!</source>
+      <translation>Ez duzu txata berirekitzako baimenik!</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/single</name>
+    <message>
+      <source>Chat started with</source>
+      <translation>Txat hasia</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/transferuser</name>
+    <message>
+      <source>has changed owner to</source>
+      <translation>aldatu du txataren jabetza</translation>
+    </message>
+    <message>
+      <source>Chat owner was changed to</source>
+      <translation>Txataren jabea aldatu da</translation>
+    </message>
+    <message>
+      <source>has transferred chat to</source>
+      <translation>txata transferitu dio</translation>
+    </message>
+    <message>
+      <source>department</source>
+      <translation>Departamentu</translation>
+    </message>
+    <message>
+      <source>Chat was assigned to selected department</source>
+      <translation>Txata aukeratutako departamentuari asignatu zaio</translation>
+    </message>
+    <message>
+      <source>Chat was assigned to selected user</source>
+      <translation>Txata aukeratutako erabiltzaileari asignatu zaio</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/updatemsguser</name>
+    <message>
+      <source>User has edited his last message</source>
+      <translation>Erabiltzaileak bere azkeneko mezua editatu du</translation>
+    </message>
+  </context>
+  <context>
+    <name>chatarchive/viewarchivedchat</name>
+    <message>
+      <source>View archived chat</source>
+      <translation>Ikusi artxibatutako txatak</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhchatsettings/startchat</name>
+    <message>
+      <source>Start chat form settings</source>
+      <translation>Hasierako txataren formularioaren ezarpenak</translation>
+    </message>
+    <message>
+      <source>Start chat settings list</source>
+      <translation>Hasierako txat zerrenden ezarpenak</translation>
+    </message>
+    <message>
+      <source>Edit start chat settings</source>
+      <translation>Editatu hasierako txataren ezarpenak</translation>
+    </message>
+    <message>
+      <source>New start chat settings</source>
+      <translation>Hasierako txat berriaren ezarpenak</translation>
+    </message>
+  </context>
+  <context>
+    <name>file/configurations</name>
+    <message>
+      <source>Please enter valid file type!</source>
+      <translation>Mesedez, idatzi fitxategi balido mota bat!</translation>
+    </message>
+  </context>
+  <context>
+    <name>genericbot/new</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistetmaren ezarpenak</translation>
+    </message>
+    <message>
+      <source>Bots</source>
+      <translation>Botak</translation>
+    </message>
+    <message>
+      <source>New</source>
+      <translation>Berria</translation>
+    </message>
+    <message>
+      <source>Translations groups</source>
+      <translation>Itzulketen taldeak</translation>
+    </message>
+  </context>
+  <context>
+    <name>genericbot/edit</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemaren ezarpenak</translation>
+    </message>
+    <message>
+      <source>Bots</source>
+      <translation>Botak</translation>
+    </message>
+    <message>
+      <source>Exceptions</source>
+      <translation>Exzepzioak</translation>
+    </message>
+    <message>
+      <source>Translations groups</source>
+      <translation>Itzulketen taldeak</translation>
+    </message>
+    <message>
+      <source>Translations items</source>
+      <translation>Itzulketen gauzak</translation>
+    </message>
+    <message>
+      <source>New</source>
+      <translation>Berria</translation>
+    </message>
+  </context>
+  <context>
+    <name>notifications/index</name>
+    <message>
+      <source>Notifications</source>
+      <translation>Notifikazioak</translation>
+    </message>
+    <message>
+      <source>Subscribers list</source>
+      <translation>Harripedatuen zerrenda</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Ezarpenak</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/onlinehours</name>
+    <message>
+      <source>Online Hours</source>
+      <translation>Online orduak</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/backtochat</name>
+    <message>
+      <source>Visitor has been redirected back to chat!</source>
+      <translation>Bisitantea txatera bueltan bidali da!</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/file</name>
+    <message>
+      <source>Uploading</source>
+      <translation>Igotzen</translation>
+    </message>
+    <message>
+      <source>Incorrect file type!</source>
+      <translation>Fitxategi mota ez balidoa</translation>
+    </message>
+    <message>
+      <source>File to big!</source>
+      <translation>Fitxategia oso haundia</translation>
+    </message>
+  </context>
+  <context>
+    <name>chat/notifications</name>
+    <message>
+      <source>Subscribing...</source>
+      <translation>Harripedatzen...</translation>
+    </message>
+  </context>
+</TS>
