@@ -3,7 +3,7 @@
 <h1>Instalazioa</h1>
 Instalatzeko jarraitu ondorengo pausoak
 
-<a href="https://github.com/rierte12/lhc-basque/wiki/Instalazioa">Nola instalatu</a>
+<a href="https://github.com/rierte12/lhc-basque/wiki/Insataltu">Nola instalatu</a>
 
 <h1>Ez naiz itzultzaile profesionala</h1>
 Seguruenik akats ortografiko eta gramatikalak aurkituko dituzue. Mesedez, proiektua laguntzeko, Issue berri bat ireki eta segidan aldatuko dut. 
