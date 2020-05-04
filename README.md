@@ -1,4 +1,6 @@
-# lhc-basque
+# Live Helper Chat Euskaraz
+
+Hizkuntza instalatzeko Live Helper Chat open source behar da. Doainik deskarga daiteke <a href="https://livehelperchat.com/" tarjet="_blank">web orri ofizialetik</a>
 
 <h1>Instalazioa</h1>
 Instalatzeko jarraitu ondorengo pausoak
