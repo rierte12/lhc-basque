@@ -19,7 +19,7 @@
     </message>
     <message>
       <source>How many days voting widget should not be expanded after last show</source>
-      <translation>Zenbat eginez ez da botatzeko widgeta expandituatko azken ikstaldia ondoren</translation>
+      <translation>Zenbat egunez ez da botatzeko widgeta expandituatko azken ikstaldia ondoren</translation>
     </message>
     <message>
       <source>Use secure cookie, check this if you want to force SSL all the time</source>
@@ -402,47 +402,47 @@
     </message>
     <message>
       <source>Cancel</source>
-      <translation>Cancelar</translation>
+      <translation>Bertan behera utzi</translation>
     </message>
     <message>
       <source>Edit</source>
-      <translation>Editar</translation>
+      <translation>Editatu</translation>
     </message>
     <message>
       <source>Delete</source>
-      <translation>Borrar</translation>
+      <translation>Borratu</translation>
     </message>
     <message>
       <source>Empty...</source>
-      <translation>Vacío...</translation>
+      <translation>Hutsik...</translation>
     </message>
     <message>
       <source>New</source>
-      <translation>Nuevo</translation>
+      <translation>Berria</translation>
     </message>
     <message>
       <source>Updated</source>
-      <translation>Actualizado</translation>
+      <translation>Eguneratua</translation>
     </message>
     <message>
       <source>Yes</source>
-      <translation type="unfinished"/>
+      <translation>Bai</translation>
     </message>
     <message>
       <source>No</source>
-      <translation type="unfinished"/>
+      <translation>Ez</translation>
     </message>
     <message>
       <source>Send</source>
-      <translation>Enviar</translation>
+      <translation>Bidali</translation>
     </message>
     <message>
       <source>Save and continue</source>
-      <translation>Guardar y continuar</translation>
+      <translation>Gorde eta jarraitu</translation>
     </message>
     <message>
       <source>Continue</source>
-      <translation>Continuar</translation>
+      <translation>Jarraitu</translation>
     </message>
     <message>
       <source>Start archiving</source>
@@ -450,112 +450,112 @@
     </message>
     <message>
       <source>Return</source>
-      <translation>Volver</translation>
+      <translation>Bueltatu</translation>
     </message>
     <message>
       <source>Save &amp; Exit</source>
-      <translation>Guardar &amp; Salir</translation>
+      <translation>Gorde &amp; Atera</translation>
     </message>
     <message>
       <source>Delete department</source>
-      <translation>Borrar departamento</translation>
+      <translation>Borratu departamentua</translation>
     </message>
     <message>
       <source>Send test notification</source>
-      <translation>Enviar notificación de prueba</translation>
+      <translation>Bidali proba notifikazioa</translation>
     </message>
     <message>
       <source>Submit</source>
-      <translation>Enviar</translation>
+      <translation>Bidali</translation>
     </message>
     <message>
       <source>Test</source>
-      <translation>Prueba</translation>
+      <translation>Proba</translation>
     </message>
     <message>
       <source>Send test message</source>
-      <translation>Enviar mensaje de prueba</translation>
+      <translation>Bidali proba mezua</translation>
     </message>
   </context>
   <context>
     <name>abstract/abstract_form</name>
     <message>
       <source>Updated!</source>
-      <translation>¡Actualizada!</translation>
+      <translation>Eguneratua!</translation>
     </message>
   </context>
   <context>
     <name>chat/copyautoresponder</name>
     <message>
       <source>Copy</source>
-      <translation>Copia</translation>
+      <translation>Kopiatu</translation>
     </message>
     <message>
       <source>Copied!</source>
-      <translation>¡Copiado!</translation>
+      <translation>Kopiatua!</translation>
     </message>
     <message>
       <source>Please choose atleast one department!</source>
-      <translation>¡Por favor elige al menos un departamento!</translation>
+      <translation>Aukeratu departamentu bat gutxienez!</translation>
     </message>
   </context>
   <context>
     <name>abstract/widgettheme</name>
     <message>
       <source>Online status text</source>
-      <translation>Texto del estado en línea</translation>
+      <translation>Online egoera testua</translation>
     </message>
     <message>
       <source>Offline status text</source>
-      <translation>Texto del estado fuera de línea</translation>
+      <translation>Offline egoera testua</translation>
     </message>
     <message>
       <source>Welcome message</source>
-      <translation type="unfinished"/>
+      <translation>Ongi etorri mezua</translation>
     </message>
     <message>
       <source>Offline message</source>
-      <translation type="unfinished"/>
+      <translation>Offline mezua</translation>
     </message>
     <message>
       <source>Pending chat messaging</source>
-      <translation>Mensajes pendientes del chat</translation>
+      <translation>Pendiente dauden txaten mezua</translation>
     </message>
     <message>
       <source>Visitor not replying messaging</source>
-      <translation type="unfinished"/>
+      <translation>Bisitariak ez da erantzuten ari mezua</translation>
     </message>
     <message>
       <source>Operator not replying messaging</source>
-      <translation type="unfinished"/>
+      <translation>Operadorea ez erantzuten mezua</translation>
     </message>
     <message>
       <source>On-hold chat messaging</source>
-      <translation>Mensajes del chat en espera</translation>
+      <translation>Itxon Txat mezua</translation>
     </message>
     <message>
       <source>Close messaging</source>
-      <translation type="unfinished"/>
+      <translation>Itxi mezua</translation>
     </message>
     <message>
       <source>Survey</source>
-      <translation>Encuesta</translation>
+      <translation>Inkesta</translation>
     </message>
     <message>
       <source>Add translation</source>
-      <translation>Añadir idioma</translation>
+      <translation>Gehitu itzulketa</translation>
     </message>
     <message>
       <source>Search for language. Enter * to see all.</source>
-      <translation type="unfinished"/>
+      <translation>Bilatu hizkuntza. Idatzi * guztiak ikusteko.</translation>
     </message>
     <message>
       <source>See all variations</source>
-      <translation type="unfinished"/>
+      <translation>Ikusi bariazio guztiak</translation>
     </message>
     <message>
       <source>Invitation</source>
-      <translation>Invitación</translation>
+      <translation>Gonbidapena</translation>
     </message>
     <message>
       <source>Bot</source>
@@ -563,267 +563,267 @@
     </message>
     <message>
       <source>Dynamic</source>
-      <translation>Dinamico</translation>
+      <translation>Dinamikoa</translation>
     </message>
     <message>
       <source>Events</source>
-      <translation>Eventos</translation>
+      <translation>Ebentua</translation>
     </message>
     <message>
       <source>Design</source>
-      <translation>Diseño</translation>
+      <translation>Diseinua</translation>
     </message>
     <message>
       <source>Inject HTML</source>
-      <translation>Inyectar HTML</translation>
+      <translation>HTMLa injektatu</translation>
     </message>
     <message>
       <source>Choose what bot trigger element append after auto responder message</source>
-      <translation>Elija qué elemento del disparador del robot se agregará después del mensaje de respuesta automática</translation>
+      <translation>Aukeratu ze trigger elentua aktibatuko den auto responder mezuaren ondoren</translation>
     </message>
     <message>
       <source>Preview</source>
-      <translation>Vista previa</translation>
+      <translation>Aurreikusketa</translation>
     </message>
     <message>
       <source>Download theme</source>
-      <translation>Descargar tema</translation>
+      <translation>Deskargatu txantiloia</translation>
     </message>
     <message>
       <source>Status widget style</source>
-      <translation>Estilo del widget de estado</translation>
+      <translation>Egoera widgetaren estilua</translation>
     </message>
     <message>
       <source>Widget container</source>
-      <translation>Contenedor del widget</translation>
+      <translation>Widgetaren kontenedorea</translation>
     </message>
     <message>
       <source>Messages style</source>
-      <translation>Estilo de mensajes</translation>
+      <translation>Mezuen estiloa</translation>
     </message>
     <message>
       <source>Need help widget</source>
-      <translation>Widget de necesita ayuda</translation>
+      <translation>Laguntza behar widgeta</translation>
     </message>
     <message>
       <source>Chat widget</source>
-      <translation>Widget de chat</translation>
+      <translation>Chat widgeta</translation>
     </message>
     <message>
       <source>Custom content</source>
-      <translation>Contenido personalizado</translation>
+      <translation>Eduki pertsonalizatua</translation>
     </message>
     <message>
       <source>Custom CSS</source>
-      <translation>CSS personalizado</translation>
+      <translation>CSS pertsonalizatua</translation>
     </message>
     <message>
       <source>Custom bot style</source>
-      <translation>Estilo de bot personalizado</translation>
+      <translation>Bot pertsonalizatuaren estiloa</translation>
     </message>
     <message>
       <source>Notification</source>
-      <translation>Notificación</translation>
+      <translation>Notifikazioa</translation>
     </message>
     <message>
       <source>Live preview</source>
-      <translation>Vista previa en vivo</translation>
+      <translation>Zuzeneko aurreikusketa</translation>
     </message>
     <message>
       <source>Visitor messages style</source>
-      <translation>Estilo de los mensajes de visitantes</translation>
+      <translation>Bistariaren mezu estiloa</translation>
     </message>
     <message>
       <source>Operator messages style</source>
-      <translation>Estilo de mensajes de operador</translation>
+      <translation>Operadorearen mezu estiloa</translation>
     </message>
     <message>
       <source>General settings</source>
-      <translation>Configuración general</translation>
+      <translation>Ezarpen generala</translation>
     </message>
     <message>
       <source>Text changes</source>
-      <translation>Cambios en el texto</translation>
+      <translation>Aldaketa testuan</translation>
     </message>
     <message>
       <source>Text content before user fields</source>
-      <translation>Contenido de texto antes de los campos de usuario</translation>
+      <translation>Erabiltzaile kaxen aurreko testua</translation>
     </message>
     <message>
       <source>Default</source>
-      <translation>Por defecto</translation>
+      <translation>Aurrezarria</translation>
     </message>
     <message>
       <source>System assistant messages style</source>
-      <translation>Estilo de mensajes del asistente del sistema</translation>
+      <translation>Sistema laguntzailearen mezu estiloa</translation>
     </message>
     <message>
       <source>General</source>
-      <translation>General</translation>
+      <translation>Generala</translation>
     </message>
     <message>
       <source>Buble background color</source>
-      <translation>Color de fondo de la burbuja</translation>
+      <translation>Burbuilaren atzeko kolora</translation>
     </message>
     <message>
       <source>Title color</source>
-      <translation>Color del Título</translation>
+      <translation>Izenburuaren kolora</translation>
     </message>
     <message>
       <source>Text color</source>
-      <translation>Color del texto</translation>
+      <translation>Testuaren kolora</translation>
     </message>
     <message>
       <source>Chat background color</source>
-      <translation>Color de fondo del chat</translation>
+      <translation>Txataren atzeko kolorea</translation>
     </message>
     <message>
       <source>Time text color</source>
-      <translation>Color de texto para el tiempo</translation>
+      <translation>Denbora testuaren kolorea</translation>
     </message>
     <message>
       <source>Title text colorr</source>
-      <translation>Color de texto para el título</translation>
+      <translation>Izenburu testuaren kolorea</translation>
     </message>
     <message>
       <source>Message text color</source>
-      <translation>Color de texto para el mensaje</translation>
+      <translation>Mezuaren testu kolora</translation>
     </message>
     <message>
       <source>Main background color</source>
-      <translation>Color de fondo principal</translation>
+      <translation>Atzeko kolore printzipalaren kolorea</translation>
     </message>
     <message>
       <source>Link default text color</source>
-      <translation>Color de texto predeterminado para los enlaces</translation>
+      <translation>Aurrezarritako esteken kolora</translation>
     </message>
     <message>
       <source>Default text color</source>
-      <translation>Color de texto predeterminado</translation>
+      <translation>Aurrezarritako testu kolorea</translation>
     </message>
     <message>
       <source>Dropdown background color</source>
-      <translation>Color de fondo desplegable</translation>
+      <translation>Desplegablearen atzeko kolorea</translation>
     </message>
     <message>
       <source>Navigation bar icons text color</source>
-      <translation>Color de texto de los iconos de la barra de navegación</translation>
+      <translation>Nabigazio ikonoen testu kolorea</translation>
     </message>
     <message>
       <source>Navigation bar icons hover text color</source>
-      <translation>Color del texto de los iconos flotantes de la barra de navegación .</translation>
+      <translation>Nabigazio barrako ikonoen testu kolorea sagua pasatzena .</translation>
     </message>
     <message>
       <source>Tab border color</source>
-      <translation>Color del borde para la pestaña</translation>
+      <translation>Lahioaren ertzaren kolorea</translation>
     </message>
     <message>
       <source>Button text color</source>
-      <translation>Color del texto del botón</translation>
+      <translation>Botoiaren testuaren kolora</translation>
     </message>
     <message>
       <source>Button background color</source>
-      <translation>Color de fondo del botón</translation>
+      <translation>Botoiaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Button border color</source>
-      <translation>Color de borde del botón</translation>
+      <translation>Botoiaren ertz kolorea</translation>
     </message>
     <message>
       <source>Button active text color</source>
-      <translation>Color del texto del botón activo</translation>
+      <translation>Aktibo dagoen botoiaren testua</translation>
     </message>
     <message>
       <source>Button active background color</source>
-      <translation>Color de fondo del botón activo</translation>
+      <translation>Aktibo dagoen botoiaren atzeko testua</translation>
     </message>
     <message>
       <source>Button active border color</source>
-      <translation>Color de borde del botón activo</translation>
+      <translation>Aktibo dagoen botoiaren ertzaren kolorea</translation>
     </message>
     <message>
       <source>Dropdown hover background color</source>
-      <translation>Color de fondo flotante del desplegable</translation>
+      <translation>Desplegablearen atzeko kolorea</translation>
     </message>
     <message>
       <source>Dropdown border color</source>
-      <translation>Color de borde del desplegable</translation>
+      <translation>Desplegadorearen ertzaren kolora</translation>
     </message>
     <message>
       <source>Online background color</source>
-      <translation>Color de fondo en línea</translation>
+      <translation>Online atzko kolorea</translation>
     </message>
     <message>
       <source>Panel header background color</source>
-      <translation>Color de fondo del encabezado del panel</translation>
+      <translation>Panelaren headeraren atzeko kolorea</translation>
     </message>
     <message>
       <source>Panel header border color</source>
-      <translation>Color de borde del encabezado del panel</translation>
+      <translation>Panelaren header ertzaren kolorea</translation>
     </message>
     <message>
       <source>Header background color</source>
-      <translation>Color de fondo del encabezado</translation>
+      <translation>Headeraren atzeko kolorea</translation>
     </message>
     <message>
       <source>Panel background color</source>
-      <translation>Color de fondo del panel</translation>
+      <translation>Panelaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Active tab background color</source>
-      <translation>Color de fondo de la pestaña activa</translation>
+      <translation>Aktibo lehioaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Breadcrumb background color</source>
-      <translation>Color de fondo de las migas de pan</translation>
+      <translation>Ogi migen atzeko kolorea</translation>
     </message>
     <message>
       <source>Breadcrumb border color</source>
-      <translation>Color de borde de las migas de pan</translation>
+      <translation>Ogi migen ertzen kolorea</translation>
     </message>
     <message>
       <source>Menu active background color</source>
-      <translation>Color de fondo del menú activo</translation>
+      <translation>Aktibo menuaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Menu text color</source>
-      <translation>Color del texto del menú</translation>
+      <translation>Menu testuaren kolorea</translation>
     </message>
     <message>
       <source>Tab text color</source>
-      <translation>Color del texto de la pestaña</translation>
+      <translation>Lehioaren testuaren kolorea</translation>
     </message>
     <message>
       <source>Table border color</source>
-      <translation>Color del borde de la tabla</translation>
+      <translation>Taularen ertz kolorea</translation>
     </message>
     <message>
       <source>Navbar toggle background color</source>
-      <translation>Color de fondo para alternar la barra de navegación</translation>
+      <translation>Nabigazio barra alternatzeko atzelo kolorea</translation>
     </message>
     <message>
       <source>Navbar toggle border color</source>
-      <translation>Color de borde para alternar la barra de navegación</translation>
+      <translation>Nabigazio barra alternatzeko ertz kolorea</translation>
     </message>
     <message>
       <source>Tab active text color</source>
-      <translation>Color de texto de la pestaña activa</translation>
+      <translation>Lehio aktiboaren testu kolorea</translation>
     </message>
     <message>
       <source>Header border color</source>
-      <translation>Color de borde del encabezado</translation>
+      <translation>Headerraren ertzeko kolorea</translation>
     </message>
     <message>
       <source>Button border radius</source>
-      <translation>Radio del borde del botón</translation>
+      <translation>Botoiaren ertzaren erradiusa</translation>
     </message>
     <message>
       <source>Choose a bot</source>
-      <translation>Elegir bot</translation>
+      <translation>Aukeratu bota</translation>
     </message>
     <message>
       <source>Choose a trigger</source>
-      <translation>Elegir disparador</translation>
+      <translation>Aukeratu triggerra</translation>
     </message>
     <message>
       <source>Minimum time in second how long sync has to be stopped before allowing reset auto responder</source>
@@ -9009,121 +9009,121 @@
     <name>genericbot/list</name>
     <message>
       <source>Download</source>
-      <translation>Descargar</translation>
+      <translation>Deskargatu</translation>
     </message>
     <message>
       <source>Bot list</source>
-      <translation>Lista de bots</translation>
+      <translation>Boten zerrenda</translation>
     </message>
     <message>
       <source>New</source>
-      <translation>Nuevo</translation>
+      <translation>Berria</translation>
     </message>
     <message>
       <source>Import</source>
-      <translation>Importar</translation>
+      <translation>Inportatu</translation>
     </message>
     <message>
       <source>Bot exceptions groups</source>
-      <translation>Grupos de excepciones de Robot</translation>
+      <translation>Bot exzepzio taldeak</translation>
     </message>
     <message>
       <source>Translations groups</source>
-      <translation>Grupos de traducciones</translation>
+      <translation>Itzulketa taldeak</translation>
     </message>
     <message>
       <source>Translations items</source>
-      <translation>Elementos de traducciones</translation>
+      <translation>Itzulpen elementuak</translation>
     </message>
     <message>
       <source>Could not execute</source>
-      <translation>No se pudo ejecutar</translation>
+      <translation>Ezin izan da exekutatu</translation>
     </message>
     <message>
       <source>with args</source>
-      <translation>Con Args</translation>
+      <translation>Argumentuekin</translation>
     </message>
     <message>
       <source>Confirm</source>
-      <translation>Confirmar</translation>
+      <translation>Konfirmatu</translation>
     </message>
     <message>
       <source>Cancel</source>
-      <translation>Cancelar</translation>
+      <translation>Bertan behera utzi</translation>
     </message>
     <message>
       <source>Function is not callable</source>
-      <translation>La función no se puede llamar</translation>
+      <translation>Funtzioa ezin da deitu</translation>
     </message>
     <message>
       <source>Choose</source>
-      <translation>Escoger</translation>
+      <translation>Aukeratu</translation>
     </message>
     <message>
       <source>Bots</source>
-      <translation>Robots</translation>
+      <translation>Botak</translation>
     </message>
   </context>
   <context>
     <name>genericbot/import</name>
     <message>
       <source>Import group</source>
-      <translation>Importar grupo</translation>
+      <translation>Inportatu taldea</translation>
     </message>
     <message>
       <source>File</source>
-      <translation>Archivo</translation>
+      <translation>Fitxategia</translation>
     </message>
     <message>
       <source>Import</source>
-      <translation>Importar</translation>
+      <translation>Inportatu</translation>
     </message>
     <message>
       <source>Group imported</source>
-      <translation>Grupo importado</translation>
+      <translation>Taldea inportatua</translation>
     </message>
     <message>
       <source>Import bot</source>
-      <translation>Importar Robot</translation>
+      <translation>Inportatu Bota</translation>
     </message>
     <message>
       <source>Bot imported</source>
-      <translation>Robot importado</translation>
+      <translation>Bota inportatua</translation>
     </message>
     <message>
       <source>Invalid file!</source>
-      <translation>Archivo inválido!</translation>
+      <translation>Fitxategi ez balidoa!</translation>
     </message>
   </context>
   <context>
     <name>user/edit</name>
     <message>
       <source>Photo</source>
-      <translation>Foto</translation>
+      <translation>Argazkia</translation>
     </message>
     <message>
       <source>Server default time zone</source>
-      <translation>Zona horaria por defecto del servidor</translation>
+      <translation>Zerbitzariaren aurrezarritako ordutegi-zonaldea</translation>
     </message>
     <message>
       <source>Edit user</source>
-      <translation>Editar usuario</translation>
+      <translation>Editatu erabiltzailea</translation>
     </message>
     <message>
       <source>Do not enter a password unless you want to change it</source>
-      <translation>No escriba una contraseña a menos que desee cambiar la actual</translation>
+      <translation>Ez idatzi pasaitza aldatu nahi ez baduzu</translation>
     </message>
     <message>
       <source>Username</source>
-      <translation>Nombre de usuario</translation>
+      <translation>Erabiltzailea</translation>
     </message>
     <message>
       <source>Password</source>
-      <translation>Contraseña</translation>
+      <translation>Pasahitza</translation>
     </message>
     <message>
       <source>Repeat the new password</source>
-      <translation>Repita la nueva contraseña</translation>
+      <translation>Errepikatu pasahitza</translation>
     </message>
     <message>
       <source>E-mail</source>
@@ -9131,19 +9131,19 @@
     </message>
     <message>
       <source>Chat nickname</source>
-      <translation>Seudónimo en el Chat</translation>
+      <translation>Txateko ezizena</translation>
     </message>
     <message>
       <source>Name</source>
-      <translation>Nombre</translation>
+      <translation>Izena</translation>
     </message>
     <message>
       <source>Surname</source>
-      <translation>Apellido</translation>
+      <translation>Abizena</translation>
     </message>
     <message>
       <source>Save</source>
-      <translation>Guardar</translation>
+      <translation>Gorde</translation>
     </message>
     <message>
       <source>Update</source>
@@ -9151,27 +9151,27 @@
     </message>
     <message>
       <source>Cancel</source>
-      <translation>Cancelar</translation>
+      <translation>Bertan behera utzi</translation>
     </message>
     <message>
       <source>Assigned departments</source>
-      <translation>Departamentos asignados</translation>
+      <translation>Asignatutako departamentuak</translation>
     </message>
     <message>
       <source>User time zone</source>
-      <translation>Zona horaria del usuario</translation>
+      <translation>Erabiltzailearen ortudtegi-zonaldea</translation>
     </message>
     <message>
       <source>Application default time zone</source>
-      <translation>Zona horaria predeterminada de la aplicación</translation>
+      <translation>Aplikazioaren ordutegi-zonaldea</translation>
     </message>
     <message>
       <source>Wrong email address</source>
-      <translation>Dirección de E-mail incorrecta</translation>
+      <translation>Email helbidea ez da zuzena</translation>
     </message>
     <message>
       <source>Invalid CSRF token!</source>
-      <translation>Token CSRF inválido</translation>
+      <translation>CSRF tokena ez da baliogarria!</translation>
     </message>
     <message>
       <source>System configuration</source>
@@ -9183,30 +9183,30 @@
     </message>
     <message>
       <source>User edit</source>
-      <translation>Editar usuario</translation>
+      <translation>Editatu erabiltzailea</translation>
     </message>
   </context>
   <context>
     <name>kernel/nopermission</name>
     <message>
       <source>Go back</source>
-      <translation>Volver</translation>
+      <translation>Bueltatu</translation>
     </message>
     <message>
       <source>You do not have permission to access the module</source>
-      <translation>Usted no tiene permiso para acceder al módulo</translation>
+      <translation>Ez duzu modulora sartzeko baimenik</translation>
     </message>
     <message>
       <source>and use</source>
-      <translation>y utilizar</translation>
+      <translation>eta erabili</translation>
     </message>
     <message>
       <source>function</source>
-      <translation>función</translation>
+      <translation>funtzioa</translation>
     </message>
     <message>
       <source>You do not have permission to edit selected object</source>
-      <translation>No tiene permiso para editar el objeto seleccionado</translation>
+      <translation>Ez duzu baimenik aukeratutako objektua editatzeko</translation>
     </message>
   </context>
   <context>
@@ -9889,27 +9889,27 @@
     </message>
     <message>
       <source>Position</source>
-      <translation>Posición</translation>
+      <translation>Posizioa</translation>
     </message>
     <message>
       <source>Edit</source>
-      <translation>Editar</translation>
+      <translation>Editatu</translation>
     </message>
     <message>
       <source>Delete</source>
-      <translation>Borrar</translation>
+      <translation>Borratu</translation>
     </message>
     <message>
       <source>Please enter a question!</source>
-      <translation>¡Por favor, introduzca una pregunta!</translation>
+      <translation>Mesedez, idatzi galdera bat!</translation>
     </message>
     <message>
       <source>Please enter an option!</source>
-      <translation>¡Por favor, introduzca una opción!</translation>
+      <translation>Mesedez, sartu aukera bat!</translation>
     </message>
     <message>
       <source>Edit a question</source>
-      <translation>Editar una pregunta</translation>
+      <translation>Editatu galdera bat</translation>
     </message>
   </context>
   <context>
