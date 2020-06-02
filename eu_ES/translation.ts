@@ -231,163 +231,163 @@
     </message>
     <message>
       <source>Hide disabled department widget</source>
-      <translation>Ocultar el widget de departamentos deshabilitados</translation>
+      <translation>Ezkutatu desaktibatutako departamentuak widgetean</translation>
     </message>
     <message>
       <source>Hide close button in dropdown</source>
-      <translation>Ocultar el botón de cerrar en el menú desplegable</translation>
+      <translation>Ezkutatu itci botoia menu desplegablean</translation>
     </message>
     <message>
       <source>Home page tabs order</source>
-      <translation>Orden de las pestañas en la página de inicio</translation>
+      <translation>Hasiera orriko taulen ordena</translation>
     </message>
     <message>
       <source>Footprint updates should be processed in the background. Make sure you are running workflow background cronjob.</source>
-      <translation>Las actualizaciones de la huella deben procesarse en segundo plano. Asegúrese de que está ejecutando el cronjob de fondo de flujo de trabajo.</translation>
+      <translation>Oin aztarenen eguneraketa atzeko planoak prozesatu behar da. Cronjob exekutatzen ari zarela aseguratu zaitez</translation>
     </message>
     <message>
       <source>Is visitor e-mail required for FAQ</source>
-      <translation>El e-mail del visitante es requerido para las Preguntas Frecuentes</translation>
+      <translation>Eskatu emailea FAQ galdetekian</translation>
     </message>
     <message>
       <source>Chats export secret hash</source>
-      <translation>Exportar el hash secreto de los chats</translation>
+      <translation>Esportatu txaten hash sekretua</translation>
     </message>
     <message>
       <source>Please enter explicit http mode. Either http: or https:, do not forget : at the end.</source>
-      <translation>Por favor introduzca el modo http explícito, ya sea http: o https: no olvide los : al final.</translation>
+      <translation>Mesedez, idatzi  http modua explizituki, http: edo https: (ez ahaztu puntuak bukaeran).</translation>
     </message>
     <message>
       <source>Encrypt also operators messages.</source>
-      <translation>Cifrar también los mensajes del operador</translation>
+      <translation>Zifratu baita ere operadoreen mezuak</translation>
     </message>
     <message>
       <source>After how many days encrypt messaes.</source>
-      <translation>Después de cuántos días cifrar los mensajes</translation>
+      <translation>Zenbat egun ondoren enkriptatu mezuak.</translation>
     </message>
     <message>
       <source>Do not track visitors IP.</source>
-      <translation>No rastrear IP del visitante</translation>
+      <translation>Ez jarraitu bisitarein IPa</translation>
     </message>
     <message>
       <source>Disable chat transcript send</source>
-      <translation>Deshabilitar el envío de la transcripción del chat</translation>
+      <translation>Desaktibatu txaten trasnkripzioen bidalketa</translation>
     </message>
     <message>
       <source>Disable chat print</source>
-      <translation>Deshabilitar la impresión del chat</translation>
+      <translation>Desaktibatu txataren imprimaketa</translation>
     </message>
     <message>
       <source>Hide &apos;New Window&apos; option in Connector Widget</source>
-      <translation>Ocultar la opción de &apos;Nueva ventana&apos;  en el conector del widget</translation>
+      <translation>Ezkutatu&apos;Lehio berriaa&apos; widgetan</translation>
     </message>
     <message>
       <source>Disable live auto assign</source>
-      <translation>Deshabilitar la asignación automática en vivo</translation>
+      <translation>Desaktibatu zuzeneko auto asignazioa</translation>
     </message>
     <message>
       <source>Disable JS execution in Co-Browsing operator window</source>
-      <translation>Deshabilitar la ejecución JS en la ventana compartida del operador.</translation>
+      <translation>Desaktibatu JSaren exekuzioa Konabigatzaileko operadorearen lehioan.</translation>
     </message>
     <message>
       <source>Disable iframes in sharing mode</source>
-      <translation>Deshabilitar Iframes en modo compartido</translation>
+      <translation>Desaktibatu iframeak partekatzeko moduan</translation>
     </message>
     <message>
       <source>Disable HMTL5 storage, check it if your site is switching between http and https</source>
-      <translation>Desactivar el almacenamiento HTML5, marcar solo si el sitio web se encuentra cambiando entre http y https</translation>
+      <translation>Desaktibatu HTML5 almazenazioa, aktibatu balarrik zure lekia http eta https moduan aldatzen ari bada</translation>
     </message>
     <message>
       <source>How long department availability statistic should be kept? (days)</source>
-      <translation>¿Cuánto tiempo se deben mantener las estadísticas de disponibilidad del departamento? (días)</translation>
+      <translation>Zenbat denboraz depatamentuen estatistikak gorde behar dira? (egunetan)</translation>
     </message>
     <message>
       <source>Home page dashboard widgets order</source>
-      <translation>Página de inicio del widget de dashboard</translation>
+      <translation>Hasierako orrien widjeten ordena</translation>
     </message>
     <message>
       <source>Your site URL address</source>
-      <translation>URL de su sitio</translation>
+      <translation>Lekuko URL</translation>
     </message>
     <message>
       <source>Your company name - visible in bottom left corner</source>
-      <translation>Nombre de su compañía - visible en la esquina inferior izquierda</translation>
+      <translation>Konpaniraren izanea - ikus daiteke beheko ezkerrean dagoen iskinan.</translation>
     </message>
     <message>
       <source>Cleanup should should be done only using cronjob.</source>
-      <translation>La limpieza debe hacerse solo usando el cronjob.</translation>
+      <translation>Garbiketa cronjob bidez bakarrik gerta daiteko.</translation>
     </message>
     <message>
       <source>Interval between chat status checks in seconds, 0 disabled.</source>
-      <translation>Intervalo entre la revisión del estado del chat en segundos, 0 deshabilitado.</translation>
+      <translation>Txataren egoeraren txekeoen interbaloak segunduta, 0 desaktibatuta.</translation>
     </message>
     <message>
       <source>How long operator can wait for message from visitor before time between messages are ignored. Values in minutes.</source>
-      <translation>Cuánto tiempo puede esperar el operador el mensaje del visitante antes de que se ignore el tiempo entre mensajes. Valores en minutos.</translation>
+      <translation>Zenbat denboraz operadorea itxoin ahal dezake ignoratuak izan baino lehen. Balioa segunduetan.</translation>
     </message>
     <message>
       <source>How long visitor can wait for message from operator before time between messages are ignored. Values in minutes.</source>
-      <translation>Cuánto tiempo puede esperar el visitante el mensaje del operador antes de que se ignore el tiempo entre mensajes. Valores en minutos.</translation>
+      <translation>Zenbat denboraz itxoin dezake operadorearen mezua biditaria ignoratuak izan baino lehe. Balorea minutuetan.</translation>
     </message>
     <message>
       <source>Show BB Code button</source>
-      <translation>Mostrar el botón de código BB</translation>
+      <translation>Erakutsi BB kodea</translation>
     </message>
     <message>
       <source>Which ip should not be allowed to chat</source>
-      <translation>Qué IP no debería estar autorizada para chatear</translation>
+      <translation>Ze IPa ezin dezake txateatu</translation>
     </message>
     <message>
       <source>Automatic chats purging. 0 - disabled, n &gt; 0 time in minutes before chat is automatically deleted</source>
-      <translation>Purgado automático de chats. 0 - deshabilitado, n &gt; 0 tiempo en minutos antes de que el chat se borre automáticamente</translation>
+      <translation>Txaten purgazio automatikoa. 0 - desaktibatua, n &gt; 0 txata automatikoko borratu baino lehen minutuetan</translation>
     </message>
     <message>
       <source>Automatically reopen chat on widget open</source>
-      <translation>Abrir el chat automáticamente al abrir el widget</translation>
+      <translation>Widgeta irekitzean automatikoki berireki txata</translation>
     </message>
     <message>
       <source>Automatic pending chats closing. 0 - disabled, n &gt; 0 time in minutes before chat is automatically closed</source>
-      <translation>Cerrado automático de chats pendientes. 0 - deshabilitado, n &gt; 0 tiempo en minutos antes de que el chat se cierre automáticamente</translation>
+      <translation>Pendiente dauden txaten itxiera automatikoa. 0 - desaktibatua, n &gt; 0 denbora minutuetan txata automatikoki itxi baino lehen.</translation>
     </message>
     <message>
       <source>Automatic bot chats closing. 0 - disabled, n &gt; 0 time in minutes before chat is automatically closed</source>
-      <translation>Cerrado automático de chats del robot. 0 - deshabilitado, n &gt; 0 tiempo en minutos antes de que el chat se cierre automáticamente</translation>
+      <translation>Boten txaten itxiera automatikoa. 0 - desaktibatua, n &gt; 0 denbora minutuetan txata automatikoki itxi baino lehen</translation>
     </message>
     <message>
       <source>Automatic active chats closing. 0 - disabled, n &gt; 0 time in minutes before chat is automatically closed</source>
-      <translation>Cerrado automático de chats activos. 0 - deshabilitado, n &gt; 0 tiempo en minutos antes de que el chat se cierre automáticamente</translation>
+      <translation>Aktibo dauden txaten auto itxiera. 0 - desaktibatua, n &gt; 0 denobra txata automatikoki txata itxi baino lehen.</translation>
     </message>
     <message>
       <source>Automatic chats closing. 0 - disabled, n &gt; 0 time in minutes before chat is automatically closed</source>
-      <translation>Cerrado automático de chat. 0 - deshabilitado, n &gt; 0 tiempo en minutos antes de que el chat se cierre automáticamente</translation>
+      <translation>Txata automatikoki itxi. 0 - desaktibatuta, n &gt; 0 denbora minutuetan txata automatikoki itxi baino lehen</translation>
     </message>
     <message>
       <source>Chats waiting in pending queue more than n seconds should be auto-assigned first. Time in seconds</source>
-      <translation>Los chats que esperan en la cola pendiente más de n segundos deben asignarse automáticamente primero. Tiempo en segundos</translation>
+      <translation>Pendiente dauden txatak ilaran n segundu baino lehen itxoin behar dira auto asgnatu baino lehen. Denbora segunduetan.</translation>
     </message>
     <message>
       <source>Support application name, visible in browser title.</source>
-      <translation>Nombre de la aplicación de soporte, visible en el título del navegador.</translation>
+      <translation>Laguntza aplikazioaren izena, ikusgarria nabigatzailearen izenburuan.</translation>
     </message>
     <message>
       <source>Allow user to reopen closed chats?</source>
-      <translation>¿Permitir al usuario re-abrir chat cerrados?</translation>
+      <translation>Itxita dauden txaten berirekiera baimendu erabiltzaileei?</translation>
     </message>
     <message>
       <source>Track all logged operators activity and ignore their individual settings.</source>
-      <translation>Monitorear todos los operadores logueados e ignorar sus configuraciones individuales</translation>
+      <translation>Monitoreatu logeatutako operadoreen aktibitatea eta ignoratu haien ezarpen pertsonalak</translation>
     </message>
     <message>
       <source>How long operator should go offline automatically because of inactivity</source>
-      <translation>Cuanto tiempo un operador debería quedar desconectado automáticamente a causa de inactividad</translation>
+      <translation>Zenbat denbora inaktibo ondoren offline erabili behar zaio erabiltzaileari</translation>
     </message>
     <message>
       <source>Change to your site Terms of Service</source>
-      <translation>Cambiar a los Términos de Servicio de su sitio</translation>
+      <translation>Aldatu lekuko Zerbitzu Terminoak</translation>
     </message>
     <message>
       <source>How many seconds chat accept link is valid. Set 0 to force login all the time manually.</source>
-      <translation>Cuantos segundos el enlace de aceptación del chat será válido. Ponga en 0 para forzar de forma manual el login permanentemente.</translation>
+      <translation>Zenbat segunduz bailidoa da txatak azeptatzeko linka. Idatzi 0  denbora osoan logina eskuz eginteko</translation>
     </message>
   </context>
   <context>
@@ -827,11 +827,11 @@
     </message>
     <message>
       <source>Minimum time in second how long sync has to be stopped before allowing reset auto responder</source>
-      <translation>Tiempo mínimo en segundos en el que debe detenerse la sincronización antes de permitir el restablecimiento del contestador automático</translation>
+      <translation>Auto erantzuna berezartzeko sinkronizazio denbora gelditu behar den gutxieneko segunduak</translation>
     </message>
     <message>
       <source>Maximum time in seconds how long sync has to be stopped before we do not reset auto responder</source>
-      <translation>Tiempo máximo en segundos en el que debe detenerse la sincronización antes de que no se reinicie el contestador automático</translation>
+      <translation>Auto erantzuna berezartzeko sinkronizazio denbora gelditu behar den gehienezko segundua</translation>
     </message>
     <message>
       <source>Disable reset auto responder if visitor was redirected to survey</source>
@@ -839,43 +839,43 @@
     </message>
     <message>
       <source>Do not send messages to pending chat if chat is assigned to operator.</source>
-      <translation>No envíes mensajes a chats pendientes si ese chat esta asignado a un operador</translation>
+      <translation>Ez bidali pendienteko mezuak txata asignatuta dagoenean operadore bati</translation>
     </message>
     <message>
       <source>This auto responder applies only to proactive invitations.</source>
-      <translation>Esta auto-respuesta se aplica solo a invitaciones proactivas.</translation>
+      <translation>Auto erantzun hau gonbidapen proaktiboei bakarrik bidaliko dira.</translation>
     </message>
     <message>
       <source>Mobile HTML</source>
-      <translation>HTML Móvil</translation>
+      <translation>Sakeleko HTML</translation>
     </message>
     <message>
       <source>Mobile style</source>
-      <translation>Estilo Móvil</translation>
+      <translation>Sakaleko estilua</translation>
     </message>
     <message>
       <source>Custom image 1</source>
-      <translation>Imagen personalizada 1</translation>
+      <translation>Argazki pertsonalizatua 1</translation>
     </message>
     <message>
       <source>Custom image 2</source>
-      <translation>Imagen personalizada 2</translation>
+      <translation>Argazki pertsonalizatua 2</translation>
     </message>
     <message>
       <source>Custom image 3</source>
-      <translation>Imagen personalizada 3</translation>
+      <translation>Argazki pertsonalizatua 3</translation>
     </message>
     <message>
       <source>Custom image 4</source>
-      <translation>Imagen personalizada 4</translation>
+      <translation>Argazki pertsonalizatua 4</translation>
     </message>
     <message>
       <source>Custom image 5</source>
-      <translation>Imagen personalizada 5</translation>
+      <translation>Argazki pertsonalizatua 5</translation>
     </message>
     <message>
       <source>Disabled</source>
-      <translation>Desactivado</translation>
+      <translation>Desaktibatua</translation>
     </message>
     <message>
       <source>Name</source>
@@ -883,115 +883,115 @@
     </message>
     <message>
       <source>Name of the company</source>
-      <translation>Nombre de la compañía</translation>
+      <translation>Konpaniaren izena</translation>
     </message>
     <message>
       <source>Chat status if customer is chatting with a bot</source>
-      <translation>Estado de chat si el cliente está chateando con un bot</translation>
+      <translation>Txataren egoera bezeroa bot batekin txateatzen ari denean</translation>
     </message>
     <message>
       <source>Need help header text</source>
-      <translation>Texto del encabezado de necesita ayuda</translation>
+      <translation>Laguntza behar goiburuaren izena</translation>
     </message>
     <message>
       <source>Need help tooltip timeout, after how many hours show again tooltip?</source>
-      <translation>Tiempo para el toolotip &quot;necesita ayuda&quot;, despues de cuantas horas transcurridas debe mostrarse de nuevo.</translation>
+      <translation>Laguntza behar tooltiparen denbora, zenbat ordu ondoren erakutsi behar da berriro?.</translation>
     </message>
     <message>
       <source>After how many seconds after page load show need help tooltip?</source>
-      <translation>¿Después de cuántos segundos de la carga de la página, mostrar el mensaje &quot;¿necesita ayuda?&quot;?</translation>
+      <translation>Orria kargatu ondoren, zenbat segundu itxoin lagutnza behar erakutsi baino lehen?</translation>
     </message>
     <message>
       <source>After how many seconds after page load show status widget</source>
-      <translation>¿Después de cuántos segundos de la carga de la página, se muestra el widget de estado?</translation>
+      <translation>Orria kargatu ondoren, zenbat segundu itxoin egoera widheta erakutsi baino lehen?</translation>
     </message>
     <message>
       <source>Show need help tooltip?</source>
-      <translation>Mostrar tooltip &quot;Necesita ayuda?&quot;</translation>
+      <translation>Erakutsi laguntza behar tooltip-a?</translation>
     </message>
     <message>
       <source>Hide message time from visitor</source>
-      <translation>Esconder hora del mensaje del visitante</translation>
+      <translation>Bisitariaren mezuaren ordua ezkutatu</translation>
     </message>
     <message>
       <source>Use modern look</source>
-      <translation>Usar aspecto moderno</translation>
+      <translation>Erabili aspektu garaikidea</translation>
     </message>
     <message>
       <source>Need help standard text</source>
-      <translation>Texto estándar de necesita ayuda</translation>
+      <translation>Laguntza behar testu estandarra</translation>
     </message>
     <message>
       <source>Widget border width (px)</source>
-      <translation>Borde del Widget (en px)</translation>
+      <translation>Widgetaren erpinaren zabalera (px-etan)</translation>
     </message>
     <message>
       <source>Online status text [old widget]</source>
-      <translation type="unfinished"/>
+      <translation>Online egoera testua [widget zaharra]</translation>
     </message>
     <message>
       <source>Offline status text [old widget]</source>
-      <translation type="unfinished"/>
+      <translation>Offilen egoera testua [widget zaharra]</translation>
     </message>
     <message>
       <source>Operator intro text</source>
-      <translation>Texto de introducción del operador</translation>
+      <translation>Operadorearen sarrera testua</translation>
     </message>
     <message>
       <source>Have a question? Ask us!</source>
-      <translation>¿Tiene alguna duda? Escribanos</translation>
+      <translation>Dudarik? Idatz gaituzu!</translation>
     </message>
     <message>
       <source>Background color</source>
-      <translation>Color del fondo</translation>
+      <translation>Fondoaren kolorea</translation>
     </message>
     <message>
       <source>Status widget border color</source>
-      <translation>Color del borde para el widget</translation>
+      <translation>Egoera widgetaren erpin kolorea</translation>
     </message>
     <message>
       <source>Operator image in chat widget</source>
-      <translation>Imagen del operador en la ventana de chat</translation>
+      <translation>Operadorearen argazkia txat widgetan</translation>
     </message>
     <message>
       <source>Logo image, visible in popup</source>
-      <translation>Logo visible en el popup</translation>
+      <translation>Logoa, ikusten da popupean</translation>
     </message>
     <message>
       <source>Logo image, visible in widget left corner, 16x16</source>
-      <translation>Logotipo, visible en la esquina izquierda del widget, 16 x 16</translation>
+      <translation>Logotipoa, widgetaren ezker iskinean ikusten da, 16 x 16</translation>
     </message>
     <message>
       <source>Show copyright widget logo in left corner</source>
-      <translation>Mostrar el widget de logo de los derechos de autor en la esquina izquierda</translation>
+      <translation>Erakutsi kopiright logoa widgetaren ezker iskinean</translation>
     </message>
     <message>
       <source>Hide widget close button</source>
-      <translation>Oculta botón para cerrar Widget</translation>
+      <translation>Ezkutatu widgeta ixteko botoia</translation>
     </message>
     <message>
       <source>Hide popup option</source>
-      <translation>Ocultar la opción PopUp, para abrir chat en nueva ventana</translation>
+      <translation>Ezkutatu popup aukera, txata lehio berrian irekitzeko</translation>
     </message>
     <message>
       <source>Header height (px)</source>
-      <translation>Altura de Header (px)</translation>
+      <translation>Headerraren altuera (px)</translation>
     </message>
     <message>
       <source>Widget response layout width trigger (px)</source>
-      <translation>Ancho del diseño de Widget de  respuesta (en px)</translation>
+      <translation>Erantzun widgetaren zabalera (en px)</translation>
     </message>
     <message>
       <source>Header padding (px)</source>
-      <translation>Header padding (px)</translation>
+      <translation>Headerraren padding-a (px)</translation>
     </message>
     <message>
       <source>Site URL</source>
-      <translation>URL del sitio</translation>
+      <translation>Lekuaren URLa</translation>
     </message>
     <message>
       <source>Text above start chat form fields</source>
-      <translation>Texto sobre los campos de iniciar chat</translation>
+      <translation>Txata hasteko formularioaren gaineko testua</translation>
     </message>
     <message>
       <source>Custom html before start chat form fields, popup</source>
@@ -999,7 +999,7 @@
     </message>
     <message>
       <source>Inject HTML on widget open</source>
-      <translation>Inyectar HTML en la apertura del widget</translation>
+      <translation>Injektatu HTML widget irekieran</translation>
     </message>
     <message>
       <source>Custom html before start chat form fields, widget</source>
@@ -1007,7 +1007,7 @@
     </message>
     <message>
       <source>Custom page CSS (new widget only)</source>
-      <translation type="unfinished"/>
+      <translation>CSS pertsonalizatua (widget berrian bakarrik)</translation>
     </message>
     <message>
       <source>Custom html before start chat form fields, popup (bot mode)</source>
@@ -1031,155 +1031,155 @@
     </message>
     <message>
       <source>Start chat button text, standard chat</source>
-      <translation>Texto del botón de inicio del  chat, chat estándar</translation>
+      <translation>Txata hasteko botioaren testua, txat estandarra</translation>
     </message>
     <message>
       <source>Start chat button text, bot chat</source>
-      <translation>Texto del botón de inicio del  chat, chat robot</translation>
+      <translation>Txata hasteko botoiaren testua, bot txata</translation>
     </message>
     <message>
       <source>Leave a message button text</source>
-      <translation>Texto del botón dejar un mensaje</translation>
+      <translation>Mezu bat uzteko botoiaren testua</translation>
     </message>
     <message>
       <source>Online image</source>
-      <translation>Imagen de en línea</translation>
+      <translation>Online argazkia</translation>
     </message>
     <message>
       <source>Notification icon</source>
-      <translation>Icono de notificación</translation>
+      <translation>Notifikazioaren ikonoa</translation>
     </message>
     <message>
       <source>Offline image</source>
-      <translation>Imagen de fuera de línea</translation>
+      <translation>Offline argazkia</translation>
     </message>
     <message>
       <source>Widget header background color</source>
-      <translation>Color de fondo del encabezado del widget</translation>
+      <translation>Wigetaren headerraren atzeko kolorea</translation>
     </message>
     <message>
       <source>Widget border color</source>
-      <translation>Color del borde del widget</translation>
+      <translation>Widgetaren ertz kolorea</translation>
     </message>
     <message>
       <source>Need help background color</source>
-      <translation>Color de fondo de necesita ayuda</translation>
+      <translation>Laguntza behar mezuaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Need help hover background color</source>
-      <translation>Color de fondo cuando el mouse se encuentra sobre necesita ayuda</translation>
+      <translation>Atzeko kolorea sagua Laguntza behar gainean dagoenean</translation>
     </message>
     <message>
       <source>Need help text color</source>
-      <translation>Color del texto de necesita ayuda</translation>
+      <translation>Lagutnza behar testuaren kolorea</translation>
     </message>
     <message>
       <source>Text when user starts chat based on proactive invitation</source>
-      <translation>Texto que debe mostrarse cuando un usuario inicia un chat mediante invitación proactiva</translation>
+      <translation>Gonbidapen poraktiboaren bidez hasten den txata agertu behar den testua</translation>
     </message>
     <message>
       <source>Text when operator closes a chat</source>
-      <translation>Texto cuando un operador cierra un chat</translation>
+      <translation>Operadorearea txata ixten duenerako testua</translation>
     </message>
     <message>
       <source>Text when user starts a chat and is waiting for operator to join a chat. Only if queue is 1</source>
-      <translation>Texto que debe aparecer cuando un usuario comienza un chat y esta esperando que se una un operador. Solo si la cola es 1</translation>
+      <translation>Erabiltzailea txata hasi eta operadore bati itxoiten duen bitarteko testua. Bakarrik ilara 1ekoa bada</translation>
     </message>
     <message>
       <source>Text when user starts a chat and is waiting for operator to join a chat. Only if queue is &gt;= 1</source>
-      <translation>Texto que debe aparecer cuando un usuario comienza un chat y esta esperando que se una un operador. Solo si la cola es &gt;= 1</translation>
+      <translation>Erabiltzailea txata hasi eta operadore bati itxoiten duen bitarteko testua . Bakarrik ilara  &gt;= 1 koa bada</translation>
     </message>
     <message>
       <source>Text when user starts a chat but department is offline</source>
-      <translation>Texto cuando un usuario inicia un chat pero el departamento esta offilne</translation>
+      <translation>Testua erabiltzailea txata hasten duenean baino departamentua offline bada</translation>
     </message>
     <message>
       <source>Leave a message form text</source>
-      <translation>Dejar un mensaje en el formulario</translation>
+      <translation>Utzi mezu bat testua</translation>
     </message>
     <message>
       <source>Need help border color</source>
-      <translation>Color del borde de necesita ayuda</translation>
+      <translation>Laguntza beharreko ertz kolorea</translation>
     </message>
     <message>
       <source>Need help close background color</source>
-      <translation>Color de fondo de cerrar en necesita ayuda</translation>
+      <translation>Lagutnz behar ixteko botoiaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Need help close hover background color</source>
-      <translation>Color de fondo cuando el ratón se encuentra sobre cerrar en necesita ayuda</translation>
+      <translation>Laguntza behar ixteko botoiaren atzeko kolora gainean sagua dagenean</translation>
     </message>
     <message>
       <source>Need help operator image</source>
-      <translation>Imagen de operador de necesita ayuda</translation>
+      <translation>Laguntza behar operadorearen argazkia</translation>
     </message>
     <message>
       <source>Status widget additional CSS, takes effect after save</source>
-      <translation>CSS adicional del widget de estado, toma efecto al guardar</translation>
+      <translation>Widgetaren  CSS gehigarria, gordetzean aplikatzen da</translation>
     </message>
     <message>
       <source>Background color for popup</source>
-      <translation>Color de fondo para ventana emergente</translation>
+      <translation>Popuparen atzeko kolorea</translation>
     </message>
     <message>
       <source>Widget container additional CSS, takes effect after save</source>
-      <translation>CSS adicional del contenedor del widget, toma efecto al guardar</translation>
+      <translation>Widgetaren kontenedorerako CSS gehigarria, gordetzean aplikatzen da</translation>
     </message>
     <message>
       <source>Widget body additional CSS, takes effect after save</source>
-      <translation>CSS adicional del cuerpo del widget, toma efecto al guardar</translation>
+      <translation>Widgetaren gorputzerako CSS gehigarria, gordetzean aplikatzen da</translation>
     </message>
     <message>
       <source>Minimize image</source>
-      <translation>Minimizar imagen</translation>
+      <translation>Tikitu argatzkia</translation>
     </message>
     <message>
       <source>Restore image</source>
-      <translation>Restaurar imagen</translation>
+      <translation>Haunditu argazkia</translation>
     </message>
     <message>
       <source>Close image</source>
-      <translation>Cerrar imagen</translation>
+      <translation>Itxi argazkia</translation>
     </message>
     <message>
       <source>Popup image</source>
-      <translation>Imagen del popup</translation>
+      <translation>Popuparen argazkia</translation>
     </message>
     <message>
       <source>Visitor buble background color</source>
-      <translation>Color de fondo para el bocadillo de chat del visitante</translation>
+      <translation>Bisitariaren burbuilaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Visitor title color</source>
-      <translation>Color de Título para visitante</translation>
+      <translation>Bisitariaren izenburuaren kolorako</translation>
     </message>
     <message>
       <source>Visitor text color</source>
-      <translation>Color de texto para visitante</translation>
+      <translation>Bisitariaren testu kolorea</translation>
     </message>
     <message>
       <source>Operator buble background color</source>
-      <translation>Color de fondo para el bocadillo de chat del operador</translation>
+      <translation>Operadorearen burbuilaren atzeko kolorea</translation>
     </message>
     <message>
       <source>Operator title color</source>
-      <translation>Color de titulo para operador</translation>
+      <translation>Operadorearn izenburu kolorea</translation>
     </message>
     <message>
       <source>Operator text color</source>
-      <translation>Color de texto para operador</translation>
+      <translation>Operadorearen testu kolerea</translation>
     </message>
     <message>
       <source>Show voting thumbs?</source>
-      <translation>Mostrar votación mediante pulgar arriba o pulgar abajo?</translation>
+      <translation>Erakutsi hatz lodien bidezko bozkaketa?</translation>
     </message>
     <message>
       <source>Use different title for department? E.g Location</source>
-      <translation>Utilizar diferentes títulos para el departamento? Por ejemplo Ubicación</translation>
+      <translation>Erabili izenburu ezberdinak departamentu ezberdinetarako? Adibidez ubikazioa</translation>
     </message>
     <message>
       <source>Location</source>
-      <translation>Ubicación</translation>
+      <translation>Ubikazioa</translation>
     </message>
     <message>
       <source>Additional option before department selection</source>
@@ -1187,19 +1187,19 @@
     </message>
     <message>
       <source>Choose department</source>
-      <translation>Elige departamento</translation>
+      <translation>Aukeratu departamentua</translation>
     </message>
     <message>
       <source>Button background hover color</source>
-      <translation>Color de fondo del botón flotante</translation>
+      <translation>Botoi flotantearen atzeko kolorea</translation>
     </message>
     <message>
       <source>Button top and bottom</source>
-      <translation>Superior e inferior del botón</translation>
+      <translation>Botoiaren goi eta behekoa</translation>
     </message>
     <message>
       <source>Button padding right and left</source>
-      <translation>Espacio derecho e izquierdo del botón</translation>
+      <translation>Botoiaren ezker eta eskuin paddin-a</translation>
     </message>
     <message>
       <source>Button font size</source>
@@ -1211,7 +1211,7 @@
     </message>
     <message>
       <source>Widget width (px)</source>
-      <translation type="unfinished"/>
+      <translation>Widgetearen zabalera (px)</translation>
     </message>
     <message>
       <source>After how many user messages show switch to human button. empty - never, 0 - always</source>
